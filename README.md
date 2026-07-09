@@ -1,72 +1,159 @@
 # End-to-End SAP Data & Analytics Platform
 
-Dieses Repository präsentiert mein SAP Data & Analytics Portfolio-Projekt mit Fokus auf End-to-End Business Intelligence, Datenmodellierung, Executive Dashboards und Predictive Analytics.
+> **Status:** 🚧 In Progress
+>
+> Dieses Repository dokumentiert mein persönliches SAP Data & Analytics Portfolio. Es begleitet meinen Lern- und Zertifizierungspfad im SAP-Umfeld und wird kontinuierlich mit neuen Modellen, Dashboards, Analysen und Dokumentationen erweitert.
 
-Das Projekt kombiniert Konzepte und Technologien aus:
+---
+
+# Projektübersicht
+
+Dieses Portfolio zeigt ein realistisches End-to-End Business Intelligence Szenario unter Verwendung moderner SAP-Technologien.
+
+Das Projekt kombiniert Kenntnisse aus:
 
 - SAP BW/4HANA
-- SAP Analytics Cloud
+- SAP Analytics Cloud (SAC)
 - SAP Datasphere
 - Python
+- SQL
 - Machine Learning
+- Business Intelligence
 - Predictive Analytics
-- Executive Dashboards
 
-Ziel des Projekts ist es, ein realistisches Analytics-Szenario von der Datenaufbereitung bis zum Business Reporting und Forecasting zu dokumentieren.
-
----
-
-## Projektszenario
-
-Dieses Portfolio basiert auf einem **Sales Performance & Revenue Forecasting** Szenario.
-
-Ziel ist es zu zeigen, wie Unternehmensdaten vorbereitet, modelliert, analysiert und visualisiert werden können, um datenbasierte Geschäftsentscheidungen zu unterstützen.
-
-Das Szenario beantwortet unter anderem folgende Fragen:
-
-- Wie entwickelt sich der Umsatz über die Zeit?
-- Welche Produkte, Regionen oder Kundensegmente erzielen den höchsten Umsatz?
-- Welche KPIs sind für das Management besonders relevant?
-- Wie können historische Verkaufsdaten genutzt werden, um zukünftige Umsätze vorherzusagen?
-- Wie können SAP Analytics Cloud Dashboards die Entscheidungsfindung auf Managementebene unterstützen?
+Ziel ist es, den kompletten Datenlebenszyklus von der Datenintegration bis zur Management-Entscheidungsunterstützung abzubilden.
 
 ---
 
-## Zielsetzung
+# Projektszenario
 
-Das Hauptziel dieses Projekts ist der Aufbau eines strukturierten Portfolios für Rollen im Bereich SAP Data & Analytics.
+Das Portfolio basiert auf einem **Sales Performance & Revenue Forecasting** Szenario eines internationalen Unternehmens.
 
-Dieses Portfolio zeigt Kenntnisse in:
+Das Projekt beantwortet unter anderem folgende Business-Fragen:
 
-- Datenmodellierung mit SAP BW/4HANA
-- BW Queries und Reporting-Logik
-- SAP Analytics Cloud Models, Stories und Dashboards
-- Datenmodellierung mit SAP Datasphere
+- Wie entwickelt sich der Umsatz im Zeitverlauf?
+- Welche Produkte erzielen den höchsten Gewinn?
+- Welche Regionen entwickeln sich am besten?
+- Welche Kunden generieren den höchsten Umsatz?
+- Welche KPIs unterstützen Managemententscheidungen?
+- Wie können zukünftige Umsätze mit Machine Learning prognostiziert werden?
+
+---
+
+# Projektarchitektur
+
+```text
+                ERP / CSV Data
+                      │
+                      ▼
+              SAP BW/4HANA
+                      │
+                      ▼
+             SAP Datasphere
+         Data Integration & Modeling
+                      │
+                      ▼
+          SAP Analytics Cloud
+       Models • Stories • Dashboards
+                      │
+                      ▼
+         Executive Management Reports
+                      │
+                      ▼
+         Python Machine Learning
+             Revenue Forecasting
+```
+
+---
+
+# Projektziele
+
+Dieses Portfolio demonstriert praktische Kenntnisse in folgenden Bereichen:
+
+- Data Warehousing
+- Datenmodellierung
+- SAP BW Queries
+- Reporting
+- SAP Analytics Cloud Stories
+- Dashboard Design
+- KPI-Analyse
+- SAP Datasphere Data Modeling
 - Datenaufbereitung mit Python
-- Grundlegendem Machine Learning für Revenue Forecasting
-- Predictive Analytics Use Cases
-- Executive Dashboard Design
-- Business-orientierter KPI-Analyse
+- Predictive Analytics
+- Machine Learning
+- Business Intelligence
 
 ---
 
-## Lernpfad
+# Business KPIs
 
-Mein aktueller Lernpfad ist wie folgt strukturiert:
+Folgende Kennzahlen werden im Dashboard analysiert:
 
-1. SAP BW/4HANA mit ERP4Students
-2. SAP Analytics Cloud Learning Journey
-3. Grundlagen von SAP Datasphere
-4. Datenaufbereitung und Analyse mit Python
-5. Machine Learning für Predictive Analytics
-6. Executive Dashboard und Reporting Design
-7. Portfolio-Dokumentation für SAP Data & Analytics Rollen
+- Revenue
+- Cost
+- Profit
+- Profit Margin
+- Revenue Growth
+- Top Customers
+- Top Products
+- Top Regions
+- Budget vs Actual
+- Revenue Forecast
 
 ---
 
-## Repository-Struktur
+# Verwendete Technologien
 
-```txt
+| Bereich | Technologie |
+|---------|-------------|
+| Data Warehouse | SAP BW/4HANA |
+| Data Integration | SAP Datasphere |
+| Business Intelligence | SAP Analytics Cloud |
+| Datenanalyse | Python |
+| Datenbank | SQL |
+| Machine Learning | Scikit-Learn |
+| Visualisierung | SAP Analytics Cloud |
+
+---
+
+# Projekt-Roadmap
+
+## Phase 1 – SAP BW/4HANA ✅
+
+- [x] SAP BW/4HANA Weiterbildung (ERP4Students)
+- [x] Grundlagen Data Warehousing
+- [x] Datenmodellierung
+- [x] Reporting
+
+## Phase 2 – SAP Analytics Cloud 🚧
+
+- [ ] Data Connections
+- [ ] Models
+- [ ] Stories
+- [ ] Dashboard Design
+- [ ] Planning
+- [ ] Executive Reporting
+
+## Phase 3 – SAP Datasphere
+
+- [ ] Spaces
+- [ ] Data Builder
+- [ ] Business Builder
+- [ ] Data Flow
+- [ ] Analytic Models
+
+## Phase 4 – Predictive Analytics
+
+- [ ] Datenaufbereitung mit Python
+- [ ] Feature Engineering
+- [ ] Revenue Forecasting
+- [ ] Modellbewertung
+
+---
+
+# Repository-Struktur
+
+```text
 sap-bw-sac-portfolio/
 │
 ├── README.md
@@ -96,7 +183,47 @@ sap-bw-sac-portfolio/
 ├── Images/
 │
 └── Documentation/
-* SAP BI Consultant
-* SAP BW/4HANA Consultant
-* SAP Analytics Cloud Consultant
+```
 
+---
+
+# Dokumentation
+
+Im Verlauf des Projekts werden folgende Inhalte ergänzt:
+
+- Architekturdiagramme
+- SAP BW Modelle
+- SAP Datasphere Modelle
+- SAP Analytics Cloud Stories
+- Dashboard Screenshots
+- SQL-Beispiele
+- Python Notebooks
+- Machine-Learning-Ergebnisse
+- Lessons Learned
+
+---
+
+# Learning Journey
+
+Dieses Portfolio begleitet meinen Lernpfad zum SAP Data & Analytics Consultant.
+
+Aktueller Lernpfad:
+
+1. ✅ SAP BW/4HANA (ERP4Students)
+2. 🚧 SAP Learning Journey – Becoming a Certified Data Analyst in SAP Analytics Cloud
+3. ⏳ SAP Datasphere Learning Journey
+4. ⏳ Predictive Analytics mit Python
+5. ⏳ SAP Analytics & Machine Learning Portfolio
+
+---
+
+# Ziel
+
+Langfristiges Ziel ist der Aufbau eines professionellen Portfolios für Positionen als
+
+- SAP Data & Analytics Consultant
+- SAP Analytics Cloud Consultant
+- SAP BW/4HANA Consultant
+- Business Intelligence Consultant
+- Data Analyst
+- SAP Data Scientist (langfristige Entwicklung)
