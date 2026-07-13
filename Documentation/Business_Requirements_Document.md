@@ -6,7 +6,7 @@
 
 Global Sales Intelligence Platform
 
-**Kunde**
+**Kunde** 
 
 Global Retail Group (GRG)
 
