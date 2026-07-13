@@ -1,6 +1,6 @@
-#  Global Sales Intelligence Platform
+# Global Sales Intelligence Platform
 
-End-to-End SAP Data & Analytics Platform with SAP BW/4HANA, SAP Analytics Cloud, SAP Datasphere, Python and Machine Learning.
+End-to-End SAP Data & Analytics Platform with SAP BW/4HANA, SAP Analytics Cloud, SAP Datasphere, Python and Machine Learning
 
 > **Status:** 🚧 In Progress
 >
