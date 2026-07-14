@@ -96,3 +96,36 @@ Beispiel:
 - Welches Kundensegment erzielt den höchsten Umsatz?
 - Welche Branche generiert den größten Gewinn?
 - Aus welchem Land stammen die umsatzstärksten Kunden?
+
+---
+
+## DIM_PRODUCT
+
+Die Dimension **DIM_PRODUCT** enthält die Stammdaten aller Produkte.
+
+| Feld | Beschreibung |
+|------|--------------|
+| Product_ID | Primärschlüssel |
+| Product_Name | Produktname |
+| Category | Produktkategorie |
+| Subcategory | Unterkategorie |
+| Brand | Marke |
+| Unit_Cost | Einkaufspreis |
+| Standard_Price | Standardverkaufspreis |
+| Supplier | Lieferant |
+| Product_Status | Aktiv / Inaktiv |
+
+### Zweck
+
+Diese Dimension ermöglicht Analysen nach:
+
+- Produkt
+- Kategorie
+- Unterkategorie
+- Marke
+
+Beispiel:
+
+- Welche Produkte erzielen den höchsten Umsatz?
+- Welche Kategorien sind am profitabelsten?
+- Welche Marken verkaufen sich am besten?
