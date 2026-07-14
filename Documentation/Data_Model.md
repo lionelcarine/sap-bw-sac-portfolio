@@ -60,3 +60,39 @@ Die Faktentabelle enthält alle Verkaufsinformationen.
 | Revenue | Umsatz |
 | Cost | Kosten |
 | Profit | Gewinn |
+
+---
+
+# Dimensionstabellen
+
+## DIM_CUSTOMER
+
+Die Dimension **DIM_CUSTOMER** enthält alle relevanten Stammdaten der Kunden.
+
+| Feld | Beschreibung |
+|------|--------------|
+| Customer_ID | Primärschlüssel |
+| Customer_Name | Kundenname |
+| Customer_Type | Privatkunde oder Geschäftskunde |
+| Industry | Branche |
+| Segment | Kundensegment |
+| City | Stadt |
+| Country | Land |
+| Postal_Code | Postleitzahl |
+| Registration_Date | Registrierungsdatum |
+
+### Zweck
+
+Diese Dimension ermöglicht Analysen nach:
+
+- Kundensegment
+- Branche
+- Land
+- Stadt
+- Kundentyp
+
+Beispiel:
+
+- Welches Kundensegment erzielt den höchsten Umsatz?
+- Welche Branche generiert den größten Gewinn?
+- Aus welchem Land stammen die umsatzstärksten Kunden?
