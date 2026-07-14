@@ -129,3 +129,100 @@ Beispiel:
 - Welche Produkte erzielen den höchsten Umsatz?
 - Welche Kategorien sind am profitabelsten?
 - Welche Marken verkaufen sich am besten?
+
+---
+
+## DIM_DATE
+
+Die Dimension **DIM_DATE** enthält alle Kalenderinformationen.
+
+| Feld | Beschreibung |
+|------|--------------|
+| Date_ID | Primärschlüssel |
+| Date | Kalenderdatum |
+| Day | Tag |
+| Month | Monat |
+| Month_Name | Monatsname |
+| Quarter | Quartal |
+| Year | Jahr |
+| Week | Kalenderwoche |
+| Weekday | Wochentag |
+
+### Zweck
+
+Diese Dimension ermöglicht Zeitanalysen wie:
+
+- Umsatz pro Monat
+- Umsatz pro Quartal
+- Umsatz pro Jahr
+- Saisonale Trends
+
+---
+
+## DIM_REGION
+
+Die Dimension **DIM_REGION** beschreibt die geografischen Informationen.
+
+| Feld | Beschreibung |
+|------|--------------|
+| Region_ID | Primärschlüssel |
+| Country | Land |
+| Region | Region |
+| City | Stadt |
+| Sales_Area | Vertriebsgebiet |
+
+### Zweck
+
+Ermöglicht Analysen nach Regionen und Ländern.
+
+---
+
+## DIM_EMPLOYEE
+
+Die Dimension **DIM_EMPLOYEE** enthält die Stammdaten der Vertriebsmitarbeiter.
+
+| Feld | Beschreibung |
+|------|--------------|
+| Employee_ID | Primärschlüssel |
+| Employee_Name | Name |
+| Department | Abteilung |
+| Position | Position |
+| Manager | Vorgesetzter |
+| Hire_Date | Eintrittsdatum |
+
+### Zweck
+
+Ermöglicht Analysen der Vertriebsleistung.
+
+---
+
+## DIM_COST_CENTER
+
+Die Dimension **DIM_COST_CENTER** enthält Informationen zu Kostenstellen.
+
+| Feld | Beschreibung |
+|------|--------------|
+| Cost_Center_ID | Primärschlüssel |
+| Cost_Center_Name | Kostenstelle |
+| Department | Abteilung |
+| Budget | Budget |
+
+### Zweck
+
+Vergleich von Budget und tatsächlichen Kosten.
+
+---
+
+## DIM_PROFIT_CENTER
+
+Die Dimension **DIM_PROFIT_CENTER** enthält Informationen zu Profit Centern.
+
+| Feld | Beschreibung |
+|------|--------------|
+| Profit_Center_ID | Primärschlüssel |
+| Profit_Center_Name | Profit Center |
+| Business_Unit | Geschäftsbereich |
+
+### Zweck
+
+Analyse der Profitabilität nach Geschäftsbereichen.
