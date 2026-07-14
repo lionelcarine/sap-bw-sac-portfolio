@@ -120,36 +120,53 @@ Folgende Kennzahlen werden im Dashboard analysiert:
 
 # Projekt-Roadmap
 
-## Phase 1 – SAP BW/4HANA ✅
+## Phase 1 – Business Requirements ✅
 
-- [x] SAP BW/4HANA Weiterbildung (ERP4Students)
-- [x] Grundlagen Data Warehousing
-- [x] Datenmodellierung
-- [x] Reporting
+- [x] Geschäftsanforderungen analysiert
+- [x] Projektziele definiert
+- [x] Stakeholder identifiziert
 
-## Phase 2 – SAP Analytics Cloud 🚧
+## Phase 2 – ERP Data Model 🚧
 
-- [ ] Data Connections
-- [ ] Models
-- [ ] Stories
-- [ ] Dashboard Design
-- [ ] Planning
-- [ ] Executive Reporting
+- [ ] Operatives Datenmodell
+- [ ] Tabellenbeziehungen
+- [ ] Primär- und Fremdschlüssel
 
-## Phase 3 – SAP Datasphere
+## Phase 3 – Data Warehouse (SAP BW/4HANA)
 
-- [ ] Spaces
+- [ ] Star Schema
+- [ ] Faktentabelle
+- [ ] Dimensionstabellen
+
+## Phase 4 – SQL Database
+
+- [ ] Tabellen erstellen
+- [ ] Beispieldaten generieren
+- [ ] SQL-Abfragen
+
+## Phase 5 – SAP BW/4HANA
+
+- [ ] Datenmodellierung
+- [ ] Queries
+- [ ] Reporting
+
+## Phase 6 – SAP Datasphere
+
 - [ ] Data Builder
 - [ ] Business Builder
-- [ ] Data Flow
 - [ ] Analytic Models
 
-## Phase 4 – Predictive Analytics
+## Phase 7 – SAP Analytics Cloud
 
-- [ ] Datenaufbereitung mit Python
-- [ ] Feature Engineering
+- [ ] Models
+- [ ] Stories
+- [ ] Dashboards
+
+## Phase 8 – Python & Machine Learning
+
+- [ ] Datenaufbereitung
 - [ ] Revenue Forecasting
-- [ ] Modellbewertung
+- [ ] Predictive Analytics
 
 ---
 
