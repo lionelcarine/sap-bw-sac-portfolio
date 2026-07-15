@@ -125,3 +125,58 @@ Diese Tabellen enthalten die täglichen Geschäftsprozesse.
 Das ERP-Datenmodell bildet die operative Grundlage der Global Sales Intelligence Platform.
 
 Im nächsten Projektschritt werden die Daten in ein analytisches Star Schema transformiert, welches anschließend in SAP BW/4HANA implementiert wird.
+
+
+
+---
+
+# 7. Tabellenbeschreibung
+
+## 7.1 CUSTOMERS
+
+### Beschreibung
+
+Die Tabelle **CUSTOMERS** enthält alle Stammdaten der Kunden.
+
+Jeder Kunde besitzt eine eindeutige Customer_ID und kann mehrere Bestellungen aufgeben.
+
+---
+
+### Primärschlüssel
+
+- Customer_ID
+
+---
+
+### Attribute
+
+| Feld | Datentyp | Beschreibung |
+|------|----------|--------------|
+| Customer_ID | INTEGER | Eindeutige Kundennummer |
+| Customer_Name | VARCHAR(100) | Kundenname |
+| Customer_Type | VARCHAR(20) | B2B oder B2C |
+| Industry | VARCHAR(50) | Branche |
+| Segment | VARCHAR(30) | Kundensegment |
+| Country | VARCHAR(50) | Land |
+| City | VARCHAR(50) | Stadt |
+| Postal_Code | VARCHAR(15) | Postleitzahl |
+| Registration_Date | DATE | Registrierungsdatum |
+
+---
+
+### Beziehungen
+
+Eine Customer_ID kann mehreren Bestellungen zugeordnet werden.
+
+Relationship:
+
+CUSTOMERS (1) -------- (n) ORDERS
+
+---
+
+### Business Rules
+
+- Jeder Kunde besitzt genau eine Customer_ID.
+- Ein Kunde kann mehrere Bestellungen aufgeben.
+- Ein Kunde gehört genau einem Land.
+- Jeder Kunde besitzt genau ein Kundensegment.
