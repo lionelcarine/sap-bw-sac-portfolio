@@ -15,7 +15,7 @@
 
 ---
 
-# 1. Overview
+## 1. Overview
 
 Das Data Warehouse dient als analytische Datenbasis der Global Sales Intelligence Platform.
 
@@ -25,7 +25,7 @@ Die Daten werden aus dem ERP-System extrahiert, transformiert und in ein Star Sc
 
 ---
 
-# 2. Architektur
+## 2. Architektur
 
 ```text
                 SAP S/4HANA ERP
@@ -50,7 +50,7 @@ Die Daten werden aus dem ERP-System extrahiert, transformiert und in ein Star Sc
 
 ---
 
-# 3. Star Schema
+## 3. Star Schema
 
 Das analytische Datenmodell basiert auf einem Star Schema.
 
@@ -60,7 +60,7 @@ Die Dimensionstabellen liefern den fachlichen Kontext.
 
 ---
 
-# 4. Star Schema
+## 4. Star Schema
 
 ```text
                     DIM_DATE
@@ -83,7 +83,7 @@ DIM_CUSTOMER ---- FACT_SALES ---- DIM_PRODUCT
 
 ---
 
-# 5. Mapping ERP → Data Warehouse
+## 5. Mapping ERP → Data Warehouse
 
 | ERP-Tabelle | Data Warehouse |
 |--------------|----------------|
@@ -101,9 +101,9 @@ Dadurch werden Berichte und Analysen deutlich performanter.
 
 ---
 
-# 6. FACT_SALES
+## 6. FACT_SALES
 
-## Beschreibung
+### Beschreibung
 
 Die Faktentabelle enthält sämtliche Verkaufskennzahlen.
 
@@ -111,7 +111,7 @@ Jeder Datensatz beschreibt eine verkaufte Produktposition.
 
 ---
 
-## Kennzahlen
+### Kennzahlen
 
 | Kennzahl | Beschreibung |
 |-----------|--------------|
@@ -123,7 +123,7 @@ Jeder Datensatz beschreibt eine verkaufte Produktposition.
 
 ---
 
-## Fremdschlüssel
+### Fremdschlüssel
 
 - Customer_ID
 - Product_ID
@@ -133,9 +133,12 @@ Jeder Datensatz beschreibt eine verkaufte Produktposition.
 - Profit_Center_ID
 - Date_ID
 
-## 7. DIM_CUSTOMER
+---
 
-### Beschreibung
+## 7. Dimensionstabellen 
+### 7.1 DIM_CUSTOMER
+
+#### Beschreibung
 
 Die Dimension **DIM_CUSTOMER** enthält alle kundenbezogenen Stammdaten.
 
@@ -143,7 +146,7 @@ Sie ermöglicht Analysen nach Kundensegment, Kundentyp und geografischen Merkmal
 
 ---
 
-### Attribute
+#### Attribute
 
 | Attribut | Beschreibung |
 |----------|--------------|
@@ -158,13 +161,13 @@ Sie ermöglicht Analysen nach Kundensegment, Kundentyp und geografischen Merkmal
 
 ---
 
-### Herkunft
+#### Herkunft
 
 Quelle: **CUSTOMERS**
 
 ---
 
-### Verwendung
+#### Verwendung
 
 Diese Dimension unterstützt Analysen wie:
 
@@ -175,9 +178,9 @@ Diese Dimension unterstützt Analysen wie:
 
 ---
 
-## 8. DIM_PRODUCT
+### 7.2 DIM_PRODUCT
 
-### Beschreibung
+#### Beschreibung
 
 Die Dimension **DIM_PRODUCT** enthält sämtliche Produktstammdaten.
 
@@ -185,7 +188,7 @@ Sie dient der Analyse von Umsatz, Gewinn und Verkaufszahlen auf Produktebene.
 
 ---
 
-### Attribute
+#### Attribute
 
 | Attribut | Beschreibung |
 |----------|--------------|
@@ -199,13 +202,13 @@ Sie dient der Analyse von Umsatz, Gewinn und Verkaufszahlen auf Produktebene.
 
 ---
 
-### Herkunft
+#### Herkunft
 
 Quelle: **PRODUCTS**
 
 ---
 
-### Verwendung
+#### Verwendung
 
 Diese Dimension unterstützt Analysen wie:
 
@@ -216,9 +219,9 @@ Diese Dimension unterstützt Analysen wie:
 
 ---
 
-## 9. DIM_DATE
+### 7.3 DIM_DATE
 
-### Beschreibung
+#### Beschreibung
 
 Die Zeitdimension ermöglicht zeitbezogene Analysen.
 
@@ -226,7 +229,7 @@ Sie wird von nahezu allen Reports verwendet.
 
 ---
 
-### Attribute
+#### Attribute
 
 | Attribut | Beschreibung |
 |----------|--------------|
@@ -242,13 +245,13 @@ Sie wird von nahezu allen Reports verwendet.
 
 ---
 
-### Herkunft
+#### Herkunft
 
 Quelle: **ORDERS.Order_Date**
 
 ---
 
-### Verwendung
+#### Verwendung
 
 - Monatsreporting
 - Quartalsanalysen
@@ -257,15 +260,15 @@ Quelle: **ORDERS.Order_Date**
 
 ---
 
-## 10. DIM_EMPLOYEE
+### 7.4 DIM_EMPLOYEE
 
-### Beschreibung
+#### Beschreibung
 
 Die Dimension enthält Informationen über alle Vertriebsmitarbeiter.
 
 ---
 
-### Attribute
+#### Attribute
 
 | Attribut | Beschreibung |
 |----------|--------------|
@@ -277,13 +280,13 @@ Die Dimension enthält Informationen über alle Vertriebsmitarbeiter.
 
 ---
 
-### Herkunft
+#### Herkunft
 
 Quelle: **EMPLOYEES**
 
 ---
 
-### Verwendung
+#### Verwendung
 
 - Umsatz pro Mitarbeiter
 - Verkaufsleistung
@@ -291,15 +294,15 @@ Quelle: **EMPLOYEES**
 
 ---
 
-## 11. DIM_REGION
+### 7.5 DIM_REGION
 
-### Beschreibung
+#### Beschreibung
 
 Diese Dimension beschreibt die geografische Struktur des Unternehmens.
 
 ---
 
-### Attribute
+#### Attribute
 
 | Attribut | Beschreibung |
 |----------|--------------|
@@ -311,13 +314,13 @@ Diese Dimension beschreibt die geografische Struktur des Unternehmens.
 
 ---
 
-### Herkunft
+#### Herkunft
 
 Quelle: **REGIONS**
 
 ---
 
-### Verwendung
+#### Verwendung
 
 - Umsatz nach Land
 - Umsatz nach Region
@@ -325,9 +328,9 @@ Quelle: **REGIONS**
 
 ---
 
-## 12. DIM_COST_CENTER
+### 7.6 DIM_COST_CENTER
 
-### Beschreibung
+#### Beschreibung
 
 Die Dimension enthält alle Kostenstellen.
 
@@ -335,7 +338,7 @@ Sie dient der Analyse von Kosten und Budgetabweichungen.
 
 ---
 
-### Attribute
+#### Attribute
 
 | Attribut | Beschreibung |
 |----------|--------------|
@@ -346,13 +349,13 @@ Sie dient der Analyse von Kosten und Budgetabweichungen.
 
 ---
 
-### Herkunft
+#### Herkunft
 
 Quelle: **COST_CENTERS**
 
 ---
 
-### Verwendung
+#### Verwendung
 
 - Budgetkontrolle
 - Kostenanalysen
@@ -360,15 +363,15 @@ Quelle: **COST_CENTERS**
 
 ---
 
-## 13. DIM_PROFIT_CENTER
+### 7.7 DIM_PROFIT_CENTER
 
-### Beschreibung
+#### Beschreibung
 
 Die Profit-Center-Dimension ermöglicht die Analyse der Profitabilität verschiedener Geschäftsbereiche.
 
 ---
 
-### Attribute
+#### Attribute
 
 | Attribut | Beschreibung |
 |----------|--------------|
@@ -378,17 +381,203 @@ Die Profit-Center-Dimension ermöglicht die Analyse der Profitabilität verschie
 
 ---
 
-### Herkunft
+#### Herkunft
 
 Quelle: **PROFIT_CENTERS**
 
 ---
 
-### Verwendung
+#### Verwendung
 
 - Gewinn nach Business Unit
 - Profitabilitätsanalyse
+
+---
+
+## 8. Schlüsseldefinitionen
+
+Zur Sicherstellung der Datenintegrität verwendet das Data Warehouse Primär- und Fremdschlüssel.
+
+### Primärschlüssel
+
+| Tabelle | Primärschlüssel |
+|----------|-----------------|
+| FACT_SALES | Sales_ID |
+| DIM_CUSTOMER | Customer_ID |
+| DIM_PRODUCT | Product_ID |
+| DIM_DATE | Date_ID |
+| DIM_EMPLOYEE | Employee_ID |
+| DIM_REGION | Region_ID |
+| DIM_COST_CENTER | Cost_Center_ID |
+| DIM_PROFIT_CENTER | Profit_Center_ID |
+
+---
+
+### Fremdschlüssel der Faktentabelle
+
+Die Faktentabelle referenziert alle Dimensionstabellen.
+
+| Fremdschlüssel | Referenz |
+|----------------|-----------|
+| Customer_ID | DIM_CUSTOMER |
+| Product_ID | DIM_PRODUCT |
+| Employee_ID | DIM_EMPLOYEE |
+| Region_ID | DIM_REGION |
+| Cost_Center_ID | DIM_COST_CENTER |
+| Profit_Center_ID | DIM_PROFIT_CENTER |
+| Date_ID | DIM_DATE |
+
+Dadurch entsteht das Star Schema des Data Warehouse.
 - Executive Reporting
 
+---
+
+## 9. Granularität der Faktentabelle
+
+Die Granularität beschreibt die kleinste Informationseinheit innerhalb der Faktentabelle.
+
+Für dieses Projekt wurde folgende Granularität definiert:
+
+> Eine Zeile entspricht genau einer Position eines Verkaufsauftrags.
+
+Beispiel:
+
+| Sales_ID | Order_ID | Product | Quantity |
+|-----------|----------|----------|----------|
+| 100001 | SO-1001 | Laptop | 2 |
+| 100002 | SO-1001 | Monitor | 1 |
+
+Ein Auftrag mit mehreren Produkten erzeugt mehrere Datensätze in der Faktentabelle.
+
+Diese Granularität ermöglicht detaillierte Analysen auf Produktebene.
+
+---
+
+## 10. Slowly Changing Dimensions (SCD)
+
+Dimensionstabellen ändern sich im Laufe der Zeit.
+
+Für dieses Projekt werden folgende SCD-Strategien verwendet.
+
+| Dimension | SCD-Typ |
+|------------|----------|
+| DIM_CUSTOMER | Type 2 |
+| DIM_PRODUCT | Type 2 |
+| DIM_EMPLOYEE | Type 2 |
+| DIM_REGION | Type 1 |
+| DIM_COST_CENTER | Type 1 |
+| DIM_PROFIT_CENTER | Type 1 |
+
+---
+
+### Erläuterung
+
+#### Type 1
+
+Der alte Wert wird überschrieben.
+
+Beispiel:
+
+Land = Deutschland
+
+↓
+
+Land = Österreich
+
+Der alte Wert geht verloren.
+
+---
+
+#### Type 2
+
+Historische Änderungen bleiben erhalten.
+
+Beispiel:
+
+Customer Segment
+
+2023 → Standard
+
+2024 → Premium
+
+Beide Versionen bleiben im Data Warehouse gespeichert.
+
+Dadurch können historische Reports korrekt erstellt werden.
+
+---
+
+## 11. ETL-Regeln
+
+Während des ETL-Prozesses werden die operativen ERP-Daten in analytische Daten transformiert.
+
+Folgende Regeln werden angewendet.
+
+### Extraktion
+
+Daten werden aus folgenden ERP-Tabellen extrahiert.
+
+- CUSTOMERS
+- PRODUCTS
+- EMPLOYEES
+- REGIONS
+- ORDERS
+- ORDER_ITEMS
+
+---
+
+### Transformation
+
+Folgende Transformationen werden durchgeführt.
+
+- Berechnung von Revenue
+- Berechnung von Profit
+- Berechnung von Profit Margin
+- Erstellung der Date Dimension
+- Bereinigung fehlender Werte
+- Standardisierung von Produktkategorien
+- Dublettenprüfung
+
+---
+
+### Laden
+
+Die transformierten Daten werden in SAP BW/4HANA geladen.
+
+Anschließend werden BW Queries erstellt und für SAP Analytics Cloud bereitgestellt.
+
+---
+
+## 12. KPI-Definitionen
+
+Folgende Kennzahlen werden im Projekt verwendet.
+
+| KPI | Formel |
+|------|---------|
+| Revenue | Quantity × Unit_Price × (1 − Discount) |
+| Cost | Quantity × Unit_Cost |
+| Profit | Revenue − Cost |
+| Profit Margin | Profit / Revenue × 100 |
+| Average Order Value | Revenue / Anzahl Bestellungen |
+| Revenue Growth | (Revenue aktuelles Jahr − Revenue Vorjahr) / Revenue Vorjahr |
+
+---
+
+Diese KPIs bilden die Grundlage aller Dashboards in SAP Analytics Cloud.
+
+---
+
+## 13. Reporting Layer
+
+Die Daten werden nach erfolgreicher Modellierung in SAP Analytics Cloud visualisiert.
+
+Geplante Dashboards:
+
+- Executive Dashboard
+- Sales Dashboard
+- Customer Dashboard
+- Product Dashboard
+- Regional Dashboard
+- Profitability Dashboard
+- Forecast Dashboard
 
 
