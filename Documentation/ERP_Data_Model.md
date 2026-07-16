@@ -1,4 +1,4 @@
-# 02 – ERP Data Model
+#  ERP Data Model
 
 ---
 
