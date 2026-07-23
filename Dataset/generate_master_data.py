@@ -1,6 +1,14 @@
-from generators.employee_generator import generate_employees
-from generators.customer_generator import generate_customers
-from generators.product_generator import generate_products
+"""
+===========================================================
+Project : Global Sales Intelligence Platform
+Author  : Carine Kuimi
+Purpose : Generate Master Data
+===========================================================
+"""
+
+from Generators.employee_generator import generate_employees
+from Generators.customer_generator import generate_customers
+from Generators.product_generator import generate_products
 
 
 def main():
@@ -10,12 +18,10 @@ def main():
     print("=" * 60)
 
     generate_employees()
-
     generate_customers()
-
     generate_products()
 
-    print("\nMaster data generated successfully.")
+    print("\nMaster Data successfully generated.")
 
 
 if __name__ == "__main__":
