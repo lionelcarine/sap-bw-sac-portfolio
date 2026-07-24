@@ -45,7 +45,7 @@ Das Projekt beantwortet unter anderem folgende Business-Fragen:
 # Projektarchitektur
 
 ```text
-                ERP / CSV Data
+     Simulated ERP Source System (MySQL) / CSV
                       │
                       ▼
               SAP BW/4HANA
