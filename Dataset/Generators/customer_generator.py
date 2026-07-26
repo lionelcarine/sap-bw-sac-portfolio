@@ -147,3 +147,4 @@ def generate_customers():
     print(f"{len(df)} customers generated.")
 
     print(f"Saved to {output_path}")
+    print(f"Saved to {output_path}")
