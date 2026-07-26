@@ -1,0 +1,251 @@
+Product_ID,Product_Name,Category,Subcategory,Brand,Unit_Cost,Standard_Price,Supplier,Product_Status,Profit_Center_ID
+1,HP Mouse,Electronics,Mouse,HP,166.38,222.66,EuroTech Supply,Active,3
+2,Microsoft Stapler,Office Supplies,Stapler,Microsoft,71.13,88.85,Tech Solutions GmbH,Active,2
+3,Samsung Consulting,Services,Consulting,Samsung,204.27,275.43,Smart Office Europe,Active,4
+4,Lenovo Pen,Office Supplies,Pen,Lenovo,317.07,402.41,Tech Solutions GmbH,Active,1
+5,Lenovo Support,Services,Support,Lenovo,48.98,60.92,Business Systems AG,Active,5
+6,Lenovo Analytics Suite,Software,Analytics Suite,Lenovo,45.07,76.19,EuroTech Supply,Active,4
+7,Logitech Bookshelf,Furniture,Bookshelf,Logitech,666.3,959.49,Tech Solutions GmbH,Active,2
+8,HP Bookshelf,Furniture,Bookshelf,HP,756.97,956.23,Smart Office Europe,Active,6
+9,Logitech Paper,Office Supplies,Paper,Logitech,392.4,517.7,Tech Solutions GmbH,Active,5
+10,Dell Docking Station,Accessories,Docking Station,Dell,398.09,513.87,Tech Solutions GmbH,Active,1
+11,Asus Smartphone,Electronics,Smartphone,Asus,114.87,147.75,Global IT Distribution,Discontinued,3
+12,Lenovo CRM License,Software,CRM License,Lenovo,657.73,968.33,NextGen Technologies,Active,2
+13,Asus Analytics Suite,Software,Analytics Suite,Asus,358.81,489.47,Global IT Distribution,Active,1
+14,Logitech Docking Station,Accessories,Docking Station,Logitech,62.83,77.78,Global IT Distribution,Active,6
+15,Cisco Desktop PC,Electronics,Desktop PC,Cisco,653.19,958.95,Global IT Distribution,Active,6
+16,Samsung Smartphone,Electronics,Smartphone,Samsung,392.22,475.9,NextGen Technologies,Active,1
+17,Lenovo Desk,Furniture,Desk,Lenovo,741.31,1032.46,NextGen Technologies,Active,2
+18,Cisco Bookshelf,Furniture,Bookshelf,Cisco,651.7,910.59,NextGen Technologies,Active,6
+19,Cisco Conference Table,Furniture,Conference Table,Cisco,206.37,317.08,NextGen Technologies,Active,5
+20,HP Conference Table,Furniture,Conference Table,HP,39.99,58.61,Tech Solutions GmbH,Active,4
+21,Lenovo Folder,Office Supplies,Folder,Lenovo,315.11,548.88,Business Systems AG,Discontinued,5
+22,Dell Paper,Office Supplies,Paper,Dell,118.42,142.13,Smart Office Europe,Discontinued,3
+23,Cisco Notebook,Office Supplies,Notebook,Cisco,287.53,509.71,Business Systems AG,Discontinued,4
+24,Lenovo Folder,Office Supplies,Folder,Lenovo,324.77,394.05,Business Systems AG,Discontinued,6
+25,Cisco USB Cable,Accessories,USB Cable,Cisco,441.63,760.79,Global IT Distribution,Active,1
+26,Microsoft Bookshelf,Furniture,Bookshelf,Microsoft,473.62,612.88,Business Systems AG,Active,4
+27,Lenovo Conference Table,Furniture,Conference Table,Lenovo,804.19,1055.67,EuroTech Supply,Active,3
+28,Lenovo Cloud Migration,Services,Cloud Migration,Lenovo,561.76,704.5,Digital Warehouse Ltd,Active,3
+29,Asus Bookshelf,Furniture,Bookshelf,Asus,652.51,797.22,EuroTech Supply,Active,2
+30,Dell Notebook,Office Supplies,Notebook,Dell,608.44,802.23,Global IT Distribution,Discontinued,6
+31,Logitech Database License,Software,Database License,Logitech,533.54,920.73,NextGen Technologies,Active,6
+32,Apple Folder,Office Supplies,Folder,Apple,383.44,559.27,NextGen Technologies,Active,4
+33,HP CRM License,Software,CRM License,HP,216.44,354.38,Business Systems AG,Active,6
+34,Lenovo Training,Services,Training,Lenovo,146.68,263.79,Smart Office Europe,Active,5
+35,Lenovo Paper,Office Supplies,Paper,Lenovo,682.15,1079.36,Digital Warehouse Ltd,Active,3
+36,Microsoft Desk,Furniture,Desk,Microsoft,37.64,63.91,Smart Office Europe,Discontinued,6
+37,Samsung Backpack,Accessories,Backpack,Samsung,186.7,313.8,Business Systems AG,Active,1
+38,Lenovo CRM License,Software,CRM License,Lenovo,35.32,46.38,Tech Solutions GmbH,Discontinued,6
+39,Cisco Smartphone,Electronics,Smartphone,Cisco,880.19,1161.43,Global IT Distribution,Active,6
+40,Apple Conference Table,Furniture,Conference Table,Apple,700.72,1229.45,NextGen Technologies,Active,2
+41,Asus Headset,Accessories,Headset,Asus,330.84,502.44,Smart Office Europe,Active,1
+42,Asus Desk,Furniture,Desk,Asus,448.44,758.63,Digital Warehouse Ltd,Active,4
+43,Logitech Security Suite,Software,Security Suite,Logitech,96.96,117.98,Smart Office Europe,Active,4
+44,Samsung Conference Table,Furniture,Conference Table,Samsung,66.26,112.48,NextGen Technologies,Active,4
+45,Logitech Printer,Electronics,Printer,Logitech,149.87,186.13,Business Systems AG,Active,4
+46,Samsung Security Suite,Software,Security Suite,Samsung,293.22,384.5,Tech Solutions GmbH,Active,6
+47,Cisco Security Suite,Software,Security Suite,Cisco,322.37,465.47,EuroTech Supply,Discontinued,2
+48,Asus Paper,Office Supplies,Paper,Asus,290.36,444.95,NextGen Technologies,Active,3
+49,Cisco Security Suite,Software,Security Suite,Cisco,685.83,1120.79,NextGen Technologies,Active,1
+50,Samsung Installation,Services,Installation,Samsung,157.55,281.81,Smart Office Europe,Discontinued,4
+51,Microsoft Paper,Office Supplies,Paper,Microsoft,69.09,86.27,NextGen Technologies,Active,3
+52,SAP Stapler,Office Supplies,Stapler,SAP,384.8,618.69,Global IT Distribution,Active,6
+53,Dell Office Chair,Furniture,Office Chair,Dell,561.92,918.37,Tech Solutions GmbH,Active,3
+54,Cisco USB Cable,Accessories,USB Cable,Cisco,844.71,1037.78,Global IT Distribution,Discontinued,1
+55,Logitech CRM License,Software,CRM License,Logitech,177.55,252.04,NextGen Technologies,Active,4
+56,Microsoft Folder,Office Supplies,Folder,Microsoft,784.04,1200.2,Digital Warehouse Ltd,Active,5
+57,HP Consulting,Services,Consulting,HP,245.13,335.22,Tech Solutions GmbH,Active,4
+58,Logitech Notebook,Office Supplies,Notebook,Logitech,195.93,338.6,Digital Warehouse Ltd,Discontinued,1
+59,Dell Cabinet,Furniture,Cabinet,Dell,826.66,1155.89,Business Systems AG,Active,1
+60,Logitech ERP License,Software,ERP License,Logitech,638.35,917.64,EuroTech Supply,Active,6
+61,Samsung Headset,Accessories,Headset,Samsung,636.7,984.64,Smart Office Europe,Discontinued,1
+62,Lenovo Laptop,Electronics,Laptop,Lenovo,300.01,431.94,Digital Warehouse Ltd,Active,5
+63,Cisco ERP License,Software,ERP License,Cisco,176.54,231.51,Tech Solutions GmbH,Active,1
+64,Samsung Security Suite,Software,Security Suite,Samsung,607.41,806.37,Smart Office Europe,Active,1
+65,Samsung Backpack,Accessories,Backpack,Samsung,379.32,499.54,Digital Warehouse Ltd,Active,1
+66,Dell ERP License,Software,ERP License,Dell,62.01,90.71,NextGen Technologies,Discontinued,2
+67,Dell ERP License,Software,ERP License,Dell,789.36,1129.28,EuroTech Supply,Active,2
+68,Dell Installation,Services,Installation,Dell,80.52,125.27,NextGen Technologies,Discontinued,3
+69,Samsung Bookshelf,Furniture,Bookshelf,Samsung,34.07,58.68,EuroTech Supply,Active,5
+70,Logitech Support,Services,Support,Logitech,216.22,311.85,NextGen Technologies,Discontinued,5
+71,Logitech Backpack,Accessories,Backpack,Logitech,643.69,1098.32,Global IT Distribution,Active,4
+72,Apple Bookshelf,Furniture,Bookshelf,Apple,116.36,162.38,EuroTech Supply,Discontinued,6
+73,Microsoft Security Suite,Software,Security Suite,Microsoft,92.17,118.74,Smart Office Europe,Active,4
+74,Apple Support,Services,Support,Apple,260.58,326.98,Digital Warehouse Ltd,Active,1
+75,HP Analytics Suite,Software,Analytics Suite,HP,624.79,994.06,Smart Office Europe,Active,5
+76,HP Analytics Suite,Software,Analytics Suite,HP,796.17,1154.67,NextGen Technologies,Active,5
+77,Apple Training,Services,Training,Apple,425.39,547.96,Digital Warehouse Ltd,Discontinued,6
+78,SAP Paper,Office Supplies,Paper,SAP,354.59,444.22,Global IT Distribution,Active,3
+79,Cisco Bookshelf,Furniture,Bookshelf,Cisco,758.85,1195.39,Smart Office Europe,Active,4
+80,SAP Smartphone,Electronics,Smartphone,SAP,855.27,1494.11,Digital Warehouse Ltd,Active,5
+81,Asus Consulting,Services,Consulting,Asus,191.5,334.53,EuroTech Supply,Active,3
+82,Apple Installation,Services,Installation,Apple,84.45,147.68,Smart Office Europe,Active,1
+83,HP Conference Table,Furniture,Conference Table,HP,678.05,1128.35,NextGen Technologies,Active,1
+84,Asus Headset,Accessories,Headset,Asus,870.25,1398.26,Tech Solutions GmbH,Active,4
+85,Microsoft Folder,Office Supplies,Folder,Microsoft,690.91,1222.9,Global IT Distribution,Active,4
+86,Lenovo Conference Table,Furniture,Conference Table,Lenovo,117.35,157.31,Business Systems AG,Active,3
+87,Samsung Desk,Furniture,Desk,Samsung,96.26,157.76,Smart Office Europe,Active,3
+88,Lenovo Folder,Office Supplies,Folder,Lenovo,531.34,941.49,Tech Solutions GmbH,Active,3
+89,Cisco Stapler,Office Supplies,Stapler,Cisco,347.62,465.29,Tech Solutions GmbH,Active,3
+90,Dell Consulting,Services,Consulting,Dell,811.22,1062.34,Business Systems AG,Active,2
+91,Lenovo Keyboard,Electronics,Keyboard,Lenovo,407.73,630.34,Global IT Distribution,Active,2
+92,SAP Cabinet,Furniture,Cabinet,SAP,363.17,477.61,Digital Warehouse Ltd,Active,1
+93,SAP Desk,Furniture,Desk,SAP,395.18,693.02,Global IT Distribution,Active,1
+94,Dell Desk,Furniture,Desk,Dell,303.66,507.55,Business Systems AG,Discontinued,3
+95,Samsung Folder,Office Supplies,Folder,Samsung,98.76,165.42,Tech Solutions GmbH,Active,1
+96,Dell ERP License,Software,ERP License,Dell,300.81,464.99,Global IT Distribution,Active,6
+97,Microsoft Consulting,Services,Consulting,Microsoft,594.0,969.83,Tech Solutions GmbH,Active,3
+98,Logitech Headset,Accessories,Headset,Logitech,708.84,1017.46,Tech Solutions GmbH,Active,3
+99,Microsoft Smartphone,Electronics,Smartphone,Microsoft,760.89,1173.93,Digital Warehouse Ltd,Discontinued,1
+100,Microsoft Mouse,Electronics,Mouse,Microsoft,648.91,779.34,Global IT Distribution,Active,5
+101,Logitech Security Suite,Software,Security Suite,Logitech,220.68,284.84,NextGen Technologies,Active,5
+102,HP Installation,Services,Installation,HP,608.53,898.66,Business Systems AG,Discontinued,1
+103,Samsung Desktop PC,Electronics,Desktop PC,Samsung,719.67,1030.39,Global IT Distribution,Active,4
+104,Apple Paper,Office Supplies,Paper,Apple,841.29,1042.6,Tech Solutions GmbH,Active,4
+105,Logitech Bookshelf,Furniture,Bookshelf,Logitech,561.42,688.0,Tech Solutions GmbH,Active,5
+106,Logitech Docking Station,Accessories,Docking Station,Logitech,732.61,1014.97,NextGen Technologies,Active,1
+107,Microsoft Printer,Electronics,Printer,Microsoft,816.79,1061.72,EuroTech Supply,Active,4
+108,Lenovo ERP License,Software,ERP License,Lenovo,248.98,328.26,Global IT Distribution,Active,3
+109,Apple USB Cable,Accessories,USB Cable,Apple,436.19,626.72,Tech Solutions GmbH,Discontinued,5
+110,SAP Stapler,Office Supplies,Stapler,SAP,411.65,716.46,Global IT Distribution,Active,1
+111,Dell Support,Services,Support,Dell,678.93,906.52,EuroTech Supply,Discontinued,5
+112,Lenovo Installation,Services,Installation,Lenovo,141.39,239.02,Digital Warehouse Ltd,Active,5
+113,Dell Backpack,Accessories,Backpack,Dell,684.57,1087.83,Digital Warehouse Ltd,Active,6
+114,Samsung Stapler,Office Supplies,Stapler,Samsung,411.04,637.54,Global IT Distribution,Active,6
+115,Apple Training,Services,Training,Apple,161.31,277.27,Tech Solutions GmbH,Discontinued,6
+116,SAP Power Bank,Accessories,Power Bank,SAP,707.19,1027.68,Tech Solutions GmbH,Active,1
+117,Microsoft USB Cable,Accessories,USB Cable,Microsoft,111.98,170.58,EuroTech Supply,Active,5
+118,Cisco Notebook,Office Supplies,Notebook,Cisco,233.03,314.31,Digital Warehouse Ltd,Active,2
+119,HP USB Cable,Accessories,USB Cable,HP,602.11,1059.31,Tech Solutions GmbH,Active,4
+120,Asus Printer,Electronics,Printer,Asus,580.31,870.48,Business Systems AG,Active,3
+121,Asus ERP License,Software,ERP License,Asus,234.09,286.57,EuroTech Supply,Active,6
+122,Apple Headset,Accessories,Headset,Apple,320.81,564.58,Tech Solutions GmbH,Active,4
+123,HP Docking Station,Accessories,Docking Station,HP,508.57,613.28,Digital Warehouse Ltd,Active,5
+124,Apple ERP License,Software,ERP License,Apple,694.29,1153.5,Digital Warehouse Ltd,Discontinued,4
+125,Lenovo Paper,Office Supplies,Paper,Lenovo,515.45,711.79,EuroTech Supply,Discontinued,4
+126,Dell CRM License,Software,CRM License,Dell,598.74,1056.77,Global IT Distribution,Active,1
+127,Dell Office Chair,Furniture,Office Chair,Dell,733.07,1063.13,Global IT Distribution,Active,3
+128,Cisco Backpack,Accessories,Backpack,Cisco,599.33,850.85,EuroTech Supply,Active,4
+129,Dell Cabinet,Furniture,Cabinet,Dell,313.12,432.15,Digital Warehouse Ltd,Active,4
+130,Lenovo Paper,Office Supplies,Paper,Lenovo,146.15,179.6,NextGen Technologies,Active,4
+131,Lenovo Stapler,Office Supplies,Stapler,Lenovo,460.92,825.91,EuroTech Supply,Active,6
+132,Logitech Consulting,Services,Consulting,Logitech,228.44,343.43,Global IT Distribution,Active,3
+133,HP Security Suite,Software,Security Suite,HP,447.36,656.45,EuroTech Supply,Active,6
+134,SAP Laptop,Electronics,Laptop,SAP,461.62,722.53,Business Systems AG,Active,1
+135,Samsung Paper,Office Supplies,Paper,Samsung,683.58,831.11,Business Systems AG,Discontinued,4
+136,Lenovo Backpack,Accessories,Backpack,Lenovo,264.81,435.16,NextGen Technologies,Active,5
+137,Lenovo Support,Services,Support,Lenovo,375.4,467.65,Digital Warehouse Ltd,Active,4
+138,SAP Database License,Software,Database License,SAP,495.37,641.34,Smart Office Europe,Active,2
+139,Samsung Bookshelf,Furniture,Bookshelf,Samsung,145.64,241.89,Tech Solutions GmbH,Discontinued,6
+140,Apple Tablet,Electronics,Tablet,Apple,526.61,785.25,Tech Solutions GmbH,Discontinued,3
+141,Apple Backpack,Accessories,Backpack,Apple,850.04,1141.05,NextGen Technologies,Discontinued,4
+142,Microsoft Security Suite,Software,Security Suite,Microsoft,344.15,427.13,NextGen Technologies,Discontinued,4
+143,Lenovo Office Chair,Furniture,Office Chair,Lenovo,85.53,105.27,NextGen Technologies,Active,2
+144,Cisco Security Suite,Software,Security Suite,Cisco,122.92,154.3,EuroTech Supply,Active,2
+145,Asus Stapler,Office Supplies,Stapler,Asus,474.92,637.03,Tech Solutions GmbH,Active,2
+146,Samsung Installation,Services,Installation,Samsung,204.85,323.47,NextGen Technologies,Active,2
+147,Lenovo Paper,Office Supplies,Paper,Lenovo,279.67,345.44,EuroTech Supply,Active,4
+148,Cisco Security Suite,Software,Security Suite,Cisco,303.03,384.23,Business Systems AG,Active,3
+149,Dell Training,Services,Training,Dell,349.49,593.43,NextGen Technologies,Active,4
+150,Asus USB Cable,Accessories,USB Cable,Asus,401.69,590.3,Tech Solutions GmbH,Active,5
+151,Asus Mouse,Electronics,Mouse,Asus,360.89,646.59,Business Systems AG,Active,6
+152,Logitech Notebook,Office Supplies,Notebook,Logitech,491.18,726.79,Tech Solutions GmbH,Active,3
+153,Cisco Headset,Accessories,Headset,Cisco,317.83,455.57,Digital Warehouse Ltd,Active,3
+154,Asus Tablet,Electronics,Tablet,Asus,896.28,1210.75,Business Systems AG,Active,3
+155,Cisco Mouse,Electronics,Mouse,Cisco,793.46,1404.58,NextGen Technologies,Discontinued,4
+156,Logitech Keyboard,Electronics,Keyboard,Logitech,580.87,893.84,EuroTech Supply,Active,6
+157,Asus Stapler,Office Supplies,Stapler,Asus,895.76,1375.28,Tech Solutions GmbH,Discontinued,1
+158,Samsung Support,Services,Support,Samsung,443.42,578.5,Business Systems AG,Discontinued,6
+159,Asus CRM License,Software,CRM License,Asus,77.15,124.94,Business Systems AG,Active,1
+160,Lenovo Consulting,Services,Consulting,Lenovo,680.05,1115.67,Digital Warehouse Ltd,Active,5
+161,Lenovo Analytics Suite,Software,Analytics Suite,Lenovo,368.34,444.41,Business Systems AG,Active,1
+162,Cisco Security Suite,Software,Security Suite,Cisco,330.53,542.31,Digital Warehouse Ltd,Active,6
+163,HP Installation,Services,Installation,HP,312.23,458.47,Digital Warehouse Ltd,Active,6
+164,Asus Training,Services,Training,Asus,694.97,905.03,Digital Warehouse Ltd,Active,1
+165,Samsung Desktop PC,Electronics,Desktop PC,Samsung,244.54,342.51,Business Systems AG,Active,5
+166,HP ERP License,Software,ERP License,HP,195.2,255.66,Business Systems AG,Active,1
+167,Logitech Desk,Furniture,Desk,Logitech,518.69,736.64,Smart Office Europe,Active,4
+168,Samsung Stapler,Office Supplies,Stapler,Samsung,272.69,392.77,NextGen Technologies,Active,3
+169,HP Database License,Software,Database License,HP,671.51,1081.44,NextGen Technologies,Active,2
+170,SAP CRM License,Software,CRM License,SAP,359.32,474.63,Digital Warehouse Ltd,Active,5
+171,Lenovo Consulting,Services,Consulting,Lenovo,142.52,178.42,Tech Solutions GmbH,Active,4
+172,Apple Conference Table,Furniture,Conference Table,Apple,269.68,390.96,NextGen Technologies,Discontinued,4
+173,Logitech Tablet,Electronics,Tablet,Logitech,355.69,575.46,Global IT Distribution,Active,1
+174,Microsoft Database License,Software,Database License,Microsoft,426.99,590.93,Smart Office Europe,Discontinued,5
+175,SAP Office Chair,Furniture,Office Chair,SAP,139.36,231.68,EuroTech Supply,Active,5
+176,SAP Printer,Electronics,Printer,SAP,608.59,1064.69,NextGen Technologies,Discontinued,1
+177,Cisco Printer,Electronics,Printer,Cisco,430.41,523.31,Tech Solutions GmbH,Active,4
+178,Cisco ERP License,Software,ERP License,Cisco,464.66,700.62,Business Systems AG,Discontinued,6
+179,Dell Security Suite,Software,Security Suite,Dell,752.13,1022.75,Digital Warehouse Ltd,Active,3
+180,Asus Office Chair,Furniture,Office Chair,Asus,263.81,467.78,EuroTech Supply,Active,5
+181,Dell Installation,Services,Installation,Dell,750.96,1117.85,Business Systems AG,Discontinued,2
+182,Logitech Keyboard,Electronics,Keyboard,Logitech,441.52,749.79,Digital Warehouse Ltd,Discontinued,2
+183,SAP Desktop PC,Electronics,Desktop PC,SAP,335.38,458.83,EuroTech Supply,Active,3
+184,Samsung Mouse,Electronics,Mouse,Samsung,891.37,1073.01,Tech Solutions GmbH,Active,6
+185,Logitech CRM License,Software,CRM License,Logitech,41.14,63.11,Business Systems AG,Active,3
+186,Logitech Backpack,Accessories,Backpack,Logitech,577.1,950.22,Business Systems AG,Active,6
+187,Logitech Power Bank,Accessories,Power Bank,Logitech,77.31,102.08,EuroTech Supply,Active,6
+188,Logitech Pen,Office Supplies,Pen,Logitech,283.73,421.83,Digital Warehouse Ltd,Active,3
+189,Lenovo Smartphone,Electronics,Smartphone,Lenovo,457.73,566.42,Tech Solutions GmbH,Active,5
+190,Samsung Stapler,Office Supplies,Stapler,Samsung,397.17,493.72,Global IT Distribution,Active,3
+191,Asus Backpack,Accessories,Backpack,Asus,724.94,1184.97,NextGen Technologies,Discontinued,6
+192,Samsung Conference Table,Furniture,Conference Table,Samsung,889.46,1141.66,Smart Office Europe,Active,4
+193,Microsoft Training,Services,Training,Microsoft,852.99,1365.09,Business Systems AG,Discontinued,1
+194,SAP Smartphone,Electronics,Smartphone,SAP,586.3,930.31,Global IT Distribution,Active,3
+195,Apple Mouse,Electronics,Mouse,Apple,697.2,917.16,Digital Warehouse Ltd,Active,6
+196,Lenovo Monitor,Electronics,Monitor,Lenovo,146.07,200.47,Digital Warehouse Ltd,Active,5
+197,Asus Headset,Accessories,Headset,Asus,201.5,319.45,Smart Office Europe,Active,6
+198,Apple CRM License,Software,CRM License,Apple,69.28,109.24,Business Systems AG,Active,6
+199,Samsung Folder,Office Supplies,Folder,Samsung,549.89,887.49,EuroTech Supply,Active,5
+200,Asus Power Bank,Accessories,Power Bank,Asus,540.3,787.23,EuroTech Supply,Active,2
+201,Samsung Bookshelf,Furniture,Bookshelf,Samsung,547.61,924.75,Business Systems AG,Active,4
+202,Apple Cabinet,Furniture,Cabinet,Apple,266.1,324.38,Tech Solutions GmbH,Active,5
+203,Dell Consulting,Services,Consulting,Dell,557.31,979.15,EuroTech Supply,Discontinued,5
+204,Microsoft CRM License,Software,CRM License,Microsoft,139.45,206.01,Tech Solutions GmbH,Active,1
+205,Logitech Laptop,Electronics,Laptop,Logitech,779.21,1265.27,Digital Warehouse Ltd,Active,5
+206,SAP ERP License,Software,ERP License,SAP,829.35,1381.72,Global IT Distribution,Active,6
+207,Lenovo Monitor,Electronics,Monitor,Lenovo,792.92,1162.6,Digital Warehouse Ltd,Active,2
+208,Logitech Headset,Accessories,Headset,Logitech,261.06,438.75,EuroTech Supply,Active,1
+209,Asus Printer,Electronics,Printer,Asus,891.07,1505.65,Smart Office Europe,Active,2
+210,Cisco Database License,Software,Database License,Cisco,206.05,267.97,Tech Solutions GmbH,Active,5
+211,SAP Docking Station,Accessories,Docking Station,SAP,390.3,667.77,NextGen Technologies,Active,1
+212,Samsung Analytics Suite,Software,Analytics Suite,Samsung,551.54,932.93,Business Systems AG,Active,4
+213,Samsung Smartphone,Electronics,Smartphone,Samsung,205.66,258.52,Digital Warehouse Ltd,Active,3
+214,SAP Support,Services,Support,SAP,370.15,511.23,Smart Office Europe,Active,5
+215,Dell Stapler,Office Supplies,Stapler,Dell,380.74,471.62,Smart Office Europe,Active,3
+216,Apple Monitor,Electronics,Monitor,Apple,601.57,916.63,EuroTech Supply,Active,6
+217,Samsung Docking Station,Accessories,Docking Station,Samsung,175.44,271.63,Tech Solutions GmbH,Discontinued,1
+218,Microsoft Analytics Suite,Software,Analytics Suite,Microsoft,60.05,107.3,Smart Office Europe,Active,3
+219,HP Folder,Office Supplies,Folder,HP,754.97,1030.5,Tech Solutions GmbH,Active,3
+220,HP Security Suite,Software,Security Suite,HP,552.03,814.92,Business Systems AG,Discontinued,1
+221,SAP Backpack,Accessories,Backpack,SAP,94.29,149.87,Global IT Distribution,Active,5
+222,Lenovo Analytics Suite,Software,Analytics Suite,Lenovo,94.62,157.95,Smart Office Europe,Active,6
+223,Lenovo Pen,Office Supplies,Pen,Lenovo,749.32,966.33,EuroTech Supply,Active,6
+224,SAP Bookshelf,Furniture,Bookshelf,SAP,430.72,527.02,Smart Office Europe,Discontinued,5
+225,Lenovo Monitor,Electronics,Monitor,Lenovo,672.09,1203.92,Digital Warehouse Ltd,Active,3
+226,Asus Notebook,Office Supplies,Notebook,Asus,254.71,422.63,Tech Solutions GmbH,Active,1
+227,Samsung Security Suite,Software,Security Suite,Samsung,561.49,702.61,Smart Office Europe,Active,3
+228,Dell USB Cable,Accessories,USB Cable,Dell,705.41,933.38,NextGen Technologies,Active,4
+229,Samsung Cabinet,Furniture,Cabinet,Samsung,300.77,405.04,EuroTech Supply,Active,6
+230,Apple ERP License,Software,ERP License,Apple,83.0,118.49,Digital Warehouse Ltd,Discontinued,1
+231,HP Docking Station,Accessories,Docking Station,HP,481.66,668.29,Global IT Distribution,Discontinued,4
+232,Lenovo USB Cable,Accessories,USB Cable,Lenovo,219.48,270.83,NextGen Technologies,Active,5
+233,HP Training,Services,Training,HP,684.9,1165.23,Smart Office Europe,Discontinued,2
+234,Logitech Headset,Accessories,Headset,Logitech,498.39,608.73,Global IT Distribution,Active,2
+235,Logitech Paper,Office Supplies,Paper,Logitech,789.23,1220.95,EuroTech Supply,Active,2
+236,Dell Analytics Suite,Software,Analytics Suite,Dell,888.9,1143.14,Smart Office Europe,Discontinued,1
+237,Apple Folder,Office Supplies,Folder,Apple,787.47,1360.67,Business Systems AG,Active,1
+238,SAP Keyboard,Electronics,Keyboard,SAP,838.67,1397.99,EuroTech Supply,Active,1
+239,Dell Power Bank,Accessories,Power Bank,Dell,301.65,503.01,Global IT Distribution,Active,3
+240,SAP Security Suite,Software,Security Suite,SAP,200.57,350.11,EuroTech Supply,Discontinued,2
+241,SAP ERP License,Software,ERP License,SAP,158.01,224.53,Business Systems AG,Discontinued,4
+242,Lenovo Training,Services,Training,Lenovo,815.32,1321.98,NextGen Technologies,Discontinued,5
+243,Lenovo Smartphone,Electronics,Smartphone,Lenovo,44.08,77.95,Digital Warehouse Ltd,Active,4
+244,Dell Conference Table,Furniture,Conference Table,Dell,346.36,450.25,Global IT Distribution,Active,5
+245,SAP Installation,Services,Installation,SAP,785.15,968.13,EuroTech Supply,Discontinued,5
+246,Microsoft Printer,Electronics,Printer,Microsoft,306.72,504.9,NextGen Technologies,Discontinued,2
+247,HP Folder,Office Supplies,Folder,HP,103.45,132.85,Digital Warehouse Ltd,Active,1
+248,Asus Desk,Furniture,Desk,Asus,397.2,552.4,Global IT Distribution,Active,1
+249,Apple Cloud Migration,Services,Cloud Migration,Apple,604.45,1051.55,Global IT Distribution,Active,4
+250,Lenovo Desktop PC,Electronics,Desktop PC,Lenovo,33.81,47.73,NextGen Technologies,Discontinued,1

@@ -12,4 +12,4 @@ MAX_ORDER_ITEMS = 5
 START_DATE = "2022-01-01"
 END_DATE = "2025-12-31"
 
-OUTPUT_FOLDER = "output"
+OUTPUT_FOLDER = "Dataset/output"  # Au lieu de "output" tout court
