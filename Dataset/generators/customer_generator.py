@@ -8,7 +8,7 @@ Purpose : Generate Customer Master Data
 
 import os
 import random
-
+from datetime import date
 import pandas as pd
 from faker import Faker
 
@@ -119,8 +119,8 @@ def generate_customers():
             "Postal_Code": fake.postcode(),
 
             "Registration_Date": fake.date_between(
-                start_date="2022-01-01",
-                end_date="2025-12-31"
+                start_date="-4y",
+                end_date="today"
             ),
 
             "Region_ID": random.randint(1, 20)
@@ -147,4 +147,4 @@ def generate_customers():
     print(f"{len(df)} customers generated.")
 
     print(f"Saved to {output_path}")
-    print(f"Saved to {output_path}")
+

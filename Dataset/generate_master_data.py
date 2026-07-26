@@ -6,9 +6,10 @@ Purpose : Generate Master Data
 ===========================================================
 """
 
-from Generators.employee_generator import generate_employees
-from Generators.customer_generator import generate_customers
-from Generators.product_generator import generate_products
+from generators.employee_generator import generate_employees
+from generators.customer_generator import generate_customers
+#from generators.product_generator import generate_products
+from generators.region_generator import generate_regions
 
 
 def main():
@@ -19,10 +20,11 @@ def main():
 
     generate_employees()
     generate_customers()
-    generate_products()
+    #generate_products()
+    generate_regions()
 
     print("\nMaster Data successfully generated.")
-    print("Carine")
+    
 
 
 if __name__ == "__main__":

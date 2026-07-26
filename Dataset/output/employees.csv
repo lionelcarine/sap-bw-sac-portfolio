@@ -1,0 +1,81 @@
+Employee_ID,Employee_Name,Department,Position,Manager,Hire_Date,Cost_Center_ID
+1,Terri Torres,Marketing,Marketing Specialist,Kathy Scott,2020-02-02,2
+2,Ryan Weiss,IT,Data Engineer,James Avila,2019-04-27,6
+3,Shane Singh,Finance,Controller,Tanya Mcintosh,2023-08-23,1
+4,Anthony Webb,Customer Service,Customer Support Specialist,Chelsea Shah,2019-07-31,2
+5,Harold Collins,Customer Service,Customer Support Specialist,Cameron Watkins,2024-05-05,7
+6,Marc Clark,IT,BI Developer,Jennifer Rogers,2023-05-03,2
+7,Mr. Scott Mathews,HR,HR Specialist,Raymond Henderson,2023-09-17,8
+8,Luke Brown,Customer Service,Customer Support Specialist,Taylor Vaughan,2018-01-21,7
+9,Steven Ball,Customer Service,Customer Support Specialist,Elizabeth Romero,2025-03-20,4
+10,Jeffrey Boone,Operations,Operations Manager,Jessica Mcdaniel,2024-02-06,2
+11,Brett Gallegos,Supply Chain,Logistics Coordinator,Leah Phillips,2020-03-11,5
+12,Steven Hendricks,IT,BI Developer,Benjamin Lindsey,2024-04-11,4
+13,Eric Morris,HR,HR Specialist,Michael Smith,2023-12-13,3
+14,Samuel Ramirez,Sales,Sales Manager,Ashley Huber,2019-09-20,7
+15,Allison Harris,HR,HR Specialist,Scott Romero,2021-05-05,1
+16,Michael Travis,Customer Service,Customer Support Specialist,Jennifer Roberts,2025-04-01,1
+17,Philip Evans,IT,BI Developer,Troy Maynard,2021-06-09,7
+18,Francisco Wright,Operations,Operations Manager,Larry Cook,2025-06-04,4
+19,Steven Johnston,Operations,Operations Manager,Cynthia Horton,2020-12-09,8
+20,Zachary Ryan II,Sales,Account Manager,Meagan Hernandez,2024-08-04,8
+21,John Thompson,Marketing,Marketing Manager,Christopher Ayala,2020-09-12,2
+22,Destiny Benson,Supply Chain,Logistics Coordinator,Scott Flynn,2017-03-08,3
+23,Dr. Andres Smith,Customer Service,Customer Support Specialist,Jacqueline Silva,2021-10-07,3
+24,Amy Johnston,Marketing,Marketing Manager,Mrs. Stephanie Lee,2017-08-28,7
+25,Patrick Graham,Finance,Financial Analyst,Theresa Montes,2017-12-22,4
+26,Richard Hudson,Marketing,Marketing Manager,Steven Jones,2025-07-05,6
+27,Carla Ramirez,Customer Service,Customer Support Specialist,James Sims,2020-10-11,3
+28,Jerome Lawson,Supply Chain,Supply Chain Analyst,Stacey Vasquez,2018-05-19,7
+29,Carrie Aguilar,Customer Service,Customer Support Specialist,Denise Fernandez,2020-09-15,2
+30,Ariel Riley,Sales,Account Manager,Kayla Porter,2021-07-09,7
+31,Natalie Anderson,Supply Chain,Logistics Coordinator,Ashley Powers,2023-12-18,5
+32,Lauren Anderson,Supply Chain,Supply Chain Analyst,Justin Green,2017-07-19,6
+33,Erin Brown,Supply Chain,Supply Chain Analyst,Timothy Rivera DDS,2025-08-25,2
+34,Michelle Gomez,Operations,Operations Specialist,Leah Wagner,2018-12-02,7
+35,Richard Garza,HR,HR Manager,Christine Blackwell,2017-09-03,8
+36,Jaclyn Charles,HR,HR Manager,Cody Walker,2018-11-29,7
+37,Kimberly Williams,Operations,Operations Specialist,Matthew Tucker,2024-09-02,3
+38,Christopher Christensen,Marketing,Marketing Specialist,Dale Hart,2026-05-24,7
+39,Christopher Harris,Supply Chain,Supply Chain Analyst,Randy Lawrence,2018-12-03,4
+40,Erica Li,IT,System Administrator,Dustin Frank,2026-03-23,4
+41,Lynn Mitchell,Customer Service,Customer Support Specialist,Stephanie Sandoval,2017-06-08,2
+42,Steven Hamilton,HR,HR Specialist,Matthew Harper,2024-10-31,6
+43,Jacob Chapman,Marketing,Marketing Specialist,Derek Farley,2017-05-27,6
+44,Mary Holmes,Supply Chain,Logistics Coordinator,Brenda Barajas,2024-03-20,3
+45,Matthew Mack,Sales,Sales Manager,Robert Walter,2022-04-03,4
+46,Ms. Jessica Le DDS,Customer Service,Customer Support Specialist,Brittany Jordan,2024-12-07,7
+47,David Powell,Sales,Account Manager,Alexandria Brown,2017-07-31,5
+48,Danielle Garrison,Marketing,Marketing Specialist,Christopher Hooper,2026-04-01,5
+49,Brooke Trevino,Operations,Operations Manager,Vicki Gentry,2019-01-15,5
+50,April Duffy,Supply Chain,Supply Chain Analyst,Sara Bowen,2019-08-31,4
+51,Donald Ellison,IT,BI Developer,Rhonda Paul,2017-02-23,8
+52,James Smith,Operations,Operations Manager,Tammy Williams DDS,2023-10-27,6
+53,Shawn Russo,Finance,Controller,Austin Cook,2025-12-09,3
+54,Steven Herrera,Operations,Operations Manager,Samantha Hayes,2017-08-10,6
+55,Joseph Todd,Marketing,Marketing Specialist,Shannon James,2023-08-15,4
+56,Andrew Howell,Marketing,Marketing Specialist,Samantha Barnett,2019-09-09,1
+57,Steve Haynes,Finance,Controller,Jerry Palmer,2025-05-05,5
+58,Allison Ortiz,Marketing,Marketing Specialist,Carla Spencer,2018-03-04,7
+59,Patrick White,Supply Chain,Supply Chain Analyst,Frank Delgado,2017-03-14,5
+60,Samantha Carroll,Operations,Operations Manager,Matthew Hopkins,2016-09-20,8
+61,Beth Olson,Operations,Operations Specialist,Stephen Sawyer,2016-11-05,2
+62,Ryan Martin,Customer Service,Customer Support Specialist,Mark Ortega,2020-05-18,5
+63,Christine Newton,Operations,Operations Manager,Mr. Kevin Lewis,2021-07-13,1
+64,Raymond Sanchez,Finance,Controller,Amber Thomas,2019-10-13,6
+65,Jacob Harrell,Customer Service,Customer Support Specialist,Sandra Stevens,2019-12-29,5
+66,Whitney Cook,HR,HR Specialist,Christina Suarez,2023-07-06,3
+67,Patricia Valdez,Finance,Financial Analyst,Joshua Parker,2020-10-17,2
+68,Tammy Johnson,Finance,Financial Analyst,Nancy Rodriguez,2017-09-29,3
+69,Alexandria Massey,Customer Service,Customer Support Specialist,James Cobb,2017-12-24,1
+70,Yvonne Wood,HR,HR Manager,Matthew Green,2020-05-23,3
+71,Crystal Williams,Marketing,Marketing Specialist,Monica Smith,2019-11-22,5
+72,Marissa Bailey,IT,System Administrator,Michael Burton,2026-04-28,7
+73,Brian Blackwell,Supply Chain,Logistics Coordinator,Michael Mitchell,2025-07-09,7
+74,Ralph Johnson MD,HR,HR Specialist,Kenneth Weaver,2023-02-21,8
+75,Carrie Raymond MD,Sales,Sales Representative,Stephanie Juarez,2018-04-30,5
+76,Elizabeth Rhodes,Marketing,Marketing Manager,Denise Roberts,2019-05-07,6
+77,Marcus Jackson,IT,System Administrator,Samuel Fischer,2016-10-27,8
+78,Kelsey Bell,Supply Chain,Supply Chain Analyst,Trevor Williams,2025-10-27,8
+79,Thomas Craig,Sales,Sales Manager,Lori Richards,2017-03-03,4
+80,Allen Jordan,Marketing,Marketing Specialist,Michael Jimenez,2026-05-17,3

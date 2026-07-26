@@ -1,0 +1,21 @@
+Region_ID,Country,Region,City,Sales_Area
+1,Germany,Bavaria,Munich,South Germany
+2,Germany,Hesse,Frankfurt,Central Germany
+3,Germany,Berlin,Berlin,East Germany
+4,Germany,Hamburg,Hamburg,North Germany
+5,France,Île-de-France,Paris,North France
+6,France,Auvergne-Rhône-Alpes,Lyon,South-East France
+7,Spain,Madrid,Madrid,Central Spain
+8,Spain,Catalonia,Barcelona,North-East Spain
+9,Italy,Lombardy,Milan,North Italy
+10,Italy,Lazio,Rome,Central Italy
+11,Netherlands,North Holland,Amsterdam,Netherlands
+12,Belgium,Brussels,Brussels,Belgium
+13,Austria,Vienna,Vienna,Austria
+14,Switzerland,Zurich,Zurich,North Switzerland
+15,Switzerland,Geneva,Geneva,West Switzerland
+16,Germany,Saxony,Dresden,East Germany
+17,France,Provence,Marseille,South France
+18,Italy,Veneto,Venice,North-East Italy
+19,Spain,Valencia,Valencia,East Spain
+20,Germany,North Rhine-Westphalia,Cologne,West Germany
