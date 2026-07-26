@@ -22,6 +22,7 @@ def main():
     generate_products()
 
     print("\nMaster Data successfully generated.")
+    print("Carine")
 
 
 if __name__ == "__main__":
