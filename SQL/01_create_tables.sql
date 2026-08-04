@@ -7,9 +7,9 @@ Purpose : ERP Database Schema
 ===========================================================
 */
 
-DROP DATABASE IF EXISTS global_sales;
-
-CREATE DATABASE global_sales;
+CREATE DATABASE IF NOT EXISTS global_sales
+	CHARACTER SET utf8mb4
+    COLLATE utf8mb4_0900_ai_ci;
 
 USE global_sales;
 
@@ -17,7 +17,7 @@ USE global_sales;
 -- TABLE: REGIONS
 -- =========================================================
 
-CREATE TABLE REGIONS (
+CREATE TABLE IF NOT EXISTS REGIONS (
 
     Region_ID INT PRIMARY KEY AUTO_INCREMENT,
 
@@ -35,7 +35,7 @@ CREATE TABLE REGIONS (
 -- TABLE: COST_CENTERS
 -- =========================================================
 
-CREATE TABLE COST_CENTERS (
+CREATE TABLE IF NOT EXISTS COST_CENTERS (
 
     Cost_Center_ID INT PRIMARY KEY AUTO_INCREMENT,
 
@@ -51,7 +51,7 @@ CREATE TABLE COST_CENTERS (
 -- TABLE: PROFIT_CENTERS
 -- =========================================================
 
-CREATE TABLE PROFIT_CENTERS (
+CREATE TABLE IF NOT EXISTS PROFIT_CENTERS (
 
     Profit_Center_ID INT PRIMARY KEY AUTO_INCREMENT,
 
@@ -65,7 +65,7 @@ CREATE TABLE PROFIT_CENTERS (
 -- TABLE: CUSTOMERS
 -- =========================================================
 
-CREATE TABLE CUSTOMERS (
+CREATE TABLE IF NOT EXISTS CUSTOMERS (
 
     Customer_ID INT PRIMARY KEY AUTO_INCREMENT,
 
@@ -96,7 +96,7 @@ CREATE TABLE CUSTOMERS (
 -- TABLE: PRODUCTS
 -- =========================================================
 
-CREATE TABLE PRODUCTS (
+CREATE TABLE IF NOT EXISTS PRODUCTS (
 
     Product_ID INT PRIMARY KEY AUTO_INCREMENT,
 
@@ -127,7 +127,7 @@ CREATE TABLE PRODUCTS (
 -- TABLE: EMPLOYEES
 -- =========================================================
 
-CREATE TABLE EMPLOYEES (
+CREATE TABLE IF NOT EXISTS EMPLOYEES (
 
     Employee_ID INT PRIMARY KEY AUTO_INCREMENT,
 
@@ -152,7 +152,7 @@ CREATE TABLE EMPLOYEES (
 -- TABLE: ORDERS
 -- =========================================================
 
-CREATE TABLE ORDERS (
+CREATE TABLE IF NOT EXISTS ORDERS (
 
     Order_ID INT PRIMARY KEY AUTO_INCREMENT,
 
@@ -180,7 +180,7 @@ CREATE TABLE ORDERS (
 -- TABLE: ORDER_ITEMS
 -- =========================================================
 
-CREATE TABLE ORDER_ITEMS (
+CREATE TABLE IF NOT EXISTS ORDER_ITEMS (
 
     Order_Item_ID INT PRIMARY KEY AUTO_INCREMENT,
 
