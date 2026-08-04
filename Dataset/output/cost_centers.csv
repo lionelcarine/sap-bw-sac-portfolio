@@ -1,0 +1,9 @@
+Cost_Center_ID,Cost_Center_Name,Department,Budget
+1,Sales Germany,Sales,500000
+2,Marketing Europe,Marketing,350000
+3,Finance,Finance,250000
+4,IT Services,IT,600000
+5,Human Resources,HR,180000
+6,Supply Chain,Operations,450000
+7,Customer Service,Support,220000
+8,Corporate Management,Management,800000

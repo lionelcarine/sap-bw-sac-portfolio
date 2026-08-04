@@ -1,1001 +1,1001 @@
 Customer_ID,Customer_Name,Customer_Type,Industry,Segment,Country,City,Postal_Code,Registration_Date,Region_ID
-1,Boone-Moreno,Individual,Manufacturing,Consumer,France,Marseille,19825,2025-02-05,7
-2,Lopez-Olson,Company,IT,Corporate,Netherlands,Amsterdam,39642,2025-02-28,17
-3,Johnson-Blackwell,Individual,Manufacturing,Small Business,Italy,Milan,74849,2022-10-07,10
-4,Alvarado-Diaz,Company,Retail,Consumer,Switzerland,Zurich,16642,2023-04-06,3
-5,Massey-Hughes,Individual,Retail,Corporate,Belgium,Brussels,01744,2023-10-03,3
-6,Harris LLC,Individual,Retail,Corporate,Netherlands,Amsterdam,15274,2024-09-03,14
-7,Cole-Strickland,Company,Retail,Consumer,Austria,Vienna,97805,2026-06-16,5
-8,Brooks LLC,Individual,Healthcare,Corporate,Netherlands,Amsterdam,14987,2025-10-24,12
-9,Hansen-Reynolds,Company,Telecommunications,Corporate,Austria,Vienna,88759,2024-03-22,20
-10,"Spencer, Fowler and Smith",Individual,Telecommunications,Corporate,Austria,Vienna,97019,2024-07-13,17
-11,Booth-Walker,Individual,Retail,Consumer,Austria,Vienna,28206,2026-06-17,15
-12,Woodward Ltd,Company,Manufacturing,Corporate,France,Marseille,03406,2024-02-25,11
-13,Fleming-Cox,Individual,Logistics,Corporate,Netherlands,Amsterdam,68668,2023-11-28,19
-14,Davis Group,Company,Education,Consumer,Belgium,Brussels,15003,2023-05-28,4
-15,Rodriguez-Garcia,Individual,Retail,Consumer,Netherlands,Amsterdam,56034,2024-11-05,4
-16,"Wilkerson, Arroyo and Kennedy",Company,Telecommunications,Consumer,France,Paris,81026,2024-06-21,19
-17,Baxter-Russo,Individual,Healthcare,Small Business,Austria,Vienna,81557,2025-08-28,12
-18,Snow-Brown,Individual,Finance,Corporate,Spain,Madrid,66816,2024-07-31,5
-19,Jacobson Inc,Company,Healthcare,Small Business,Spain,Barcelona,51008,2025-11-27,10
-20,Hall-Terry,Company,Logistics,Consumer,Germany,Munich,12683,2023-12-09,5
-21,Garcia Inc,Company,Retail,Small Business,Spain,Madrid,66077,2025-01-20,7
-22,"Weber, Brooks and Blake",Company,Manufacturing,Small Business,Belgium,Brussels,94805,2025-02-13,14
-23,"Robinson, Murphy and Dean",Company,Logistics,Corporate,Germany,Munich,80789,2022-12-09,6
-24,"Rodriguez, Wood and Butler",Individual,Logistics,Small Business,Netherlands,Amsterdam,14290,2022-10-30,1
-25,Thomas LLC,Company,Retail,Small Business,Italy,Rome,91251,2022-11-09,10
-26,"Zamora, Sandoval and Hanna",Individual,Logistics,Corporate,Switzerland,Zurich,23784,2025-08-26,14
-27,Holloway-Gibbs,Company,Logistics,Corporate,Austria,Vienna,48016,2023-12-19,12
-28,Phillips PLC,Individual,Logistics,Consumer,Spain,Madrid,39536,2026-03-17,20
-29,Rose-Collins,Company,Healthcare,Small Business,Spain,Madrid,09284,2023-01-22,13
-30,"Williams, Clark and Barker",Company,Manufacturing,Small Business,Germany,Hamburg,95728,2024-10-19,6
-31,Juarez-Ross,Individual,Education,Consumer,Germany,Berlin,07822,2025-11-29,15
-32,Harvey Group,Company,Logistics,Small Business,Switzerland,Zurich,57899,2026-06-11,6
-33,Gill-Duffy,Individual,Finance,Consumer,Spain,Barcelona,99838,2023-09-19,20
-34,Becker-Garcia,Company,Logistics,Small Business,Spain,Barcelona,18919,2024-09-10,4
-35,Kerr-Brown,Company,IT,Corporate,France,Lyon,75789,2022-12-08,6
-36,Salas and Sons,Company,Manufacturing,Consumer,Spain,Madrid,93666,2025-09-19,19
-37,Knight and Sons,Company,Retail,Corporate,Netherlands,Amsterdam,98190,2022-10-05,2
-38,"Mcgrath, Daniels and Myers",Company,Logistics,Corporate,Germany,Berlin,37163,2026-03-16,3
-39,Schneider-Cain,Individual,Retail,Consumer,Germany,Berlin,05001,2023-12-27,9
-40,Roberts Ltd,Company,Finance,Corporate,Germany,Hamburg,53518,2023-04-30,12
-41,Giles Ltd,Company,Retail,Corporate,France,Paris,17869,2024-03-04,16
-42,"Davenport, Quinn and Perez",Company,Logistics,Small Business,Austria,Vienna,78149,2025-04-01,1
-43,White PLC,Company,Logistics,Corporate,Netherlands,Amsterdam,40343,2024-02-03,1
-44,"Foster, Stanley and Olson",Individual,Finance,Small Business,Belgium,Brussels,29890,2026-05-18,20
-45,Hendricks-Petty,Individual,Telecommunications,Consumer,Netherlands,Amsterdam,54057,2025-11-15,14
-46,Gilbert LLC,Company,IT,Consumer,Netherlands,Amsterdam,74412,2024-03-10,14
-47,Gill-White,Company,Retail,Small Business,Switzerland,Zurich,75874,2024-05-20,17
-48,Pierce-Obrien,Individual,Education,Consumer,Switzerland,Zurich,54246,2023-01-07,18
-49,Jenkins-Perkins,Company,Healthcare,Corporate,France,Marseille,54613,2026-06-30,11
-50,Stone-Hughes,Company,Healthcare,Small Business,France,Marseille,36718,2026-04-12,9
-51,"Nichols, Lawrence and Petersen",Individual,Healthcare,Consumer,Austria,Vienna,58429,2026-01-29,18
-52,Johnson Inc,Company,Retail,Consumer,Italy,Rome,85730,2024-07-19,9
-53,Douglas Group,Individual,Retail,Corporate,France,Paris,61663,2025-03-16,17
-54,Scott Group,Company,Manufacturing,Small Business,Netherlands,Amsterdam,65037,2024-01-25,14
-55,Christian and Sons,Company,Telecommunications,Consumer,Germany,Frankfurt,75706,2022-09-28,9
-56,Tucker-Moore,Company,Education,Corporate,Netherlands,Amsterdam,85405,2023-04-17,15
-57,"Lang, Walls and Wallace",Company,Finance,Consumer,Spain,Madrid,81486,2025-08-24,18
-58,Bryant-Thomas,Company,Finance,Corporate,Spain,Barcelona,53615,2026-02-11,18
-59,Patterson Inc,Company,Retail,Consumer,Germany,Berlin,86924,2023-10-02,14
-60,"Parks, Palmer and Grant",Individual,Education,Corporate,Germany,Berlin,09475,2023-12-19,15
-61,Graves-Miller,Company,IT,Consumer,France,Lyon,03671,2022-08-10,7
-62,Myers-Smith,Company,Finance,Corporate,France,Marseille,86197,2025-09-23,7
-63,Baird-Gregory,Individual,Manufacturing,Consumer,Switzerland,Zurich,36148,2023-02-09,4
-64,Richards Inc,Company,Education,Consumer,France,Paris,48509,2026-01-02,6
-65,Gillespie Ltd,Company,Logistics,Small Business,Austria,Vienna,90271,2023-04-24,19
-66,"Brown, Phillips and White",Company,Telecommunications,Corporate,Belgium,Brussels,50525,2023-07-03,13
-67,Aguilar-Nichols,Company,Finance,Small Business,Netherlands,Amsterdam,22456,2024-02-13,1
-68,Wagner-Flores,Company,Telecommunications,Consumer,Spain,Madrid,60580,2024-03-11,12
-69,"Smith, Hess and Pope",Individual,Finance,Small Business,Switzerland,Zurich,80958,2024-12-23,18
-70,Robertson-Michael,Company,Logistics,Consumer,Germany,Hamburg,09789,2025-01-19,8
-71,Holloway and Sons,Company,Retail,Consumer,Austria,Vienna,43112,2024-10-23,4
-72,Ballard PLC,Company,Education,Consumer,Spain,Barcelona,38265,2022-10-29,12
-73,Graham and Sons,Individual,Logistics,Consumer,France,Lyon,50759,2022-08-15,16
-74,"Mason, Mejia and Webb",Individual,Healthcare,Corporate,Spain,Barcelona,41676,2024-10-21,7
-75,Drake-Knox,Company,Telecommunications,Corporate,Switzerland,Zurich,84571,2024-07-22,6
-76,Johnston Ltd,Individual,Manufacturing,Consumer,Germany,Frankfurt,24831,2026-06-02,12
-77,"Miller, Chaney and Hess",Individual,Healthcare,Corporate,Italy,Milan,03674,2026-03-04,1
-78,"Greene, Choi and Jensen",Individual,Healthcare,Corporate,Netherlands,Amsterdam,35976,2024-10-02,5
-79,"Johnson, Bush and Watts",Company,Healthcare,Consumer,Spain,Barcelona,45515,2025-12-08,14
-80,"Jordan, Santiago and Levy",Company,Education,Corporate,Netherlands,Amsterdam,99006,2025-09-12,11
-81,Knox-Hancock,Company,Education,Corporate,Belgium,Brussels,89948,2025-10-30,20
-82,Roberts-Hamilton,Company,Telecommunications,Corporate,Germany,Berlin,81343,2023-05-07,12
-83,Riley Inc,Individual,Education,Consumer,Netherlands,Amsterdam,65748,2024-09-05,20
-84,"Mccormick, Morgan and Murphy",Individual,Telecommunications,Small Business,Austria,Vienna,73330,2024-01-02,10
-85,"Dickerson, Morrison and Garcia",Company,Manufacturing,Consumer,Germany,Berlin,66395,2026-02-18,6
-86,Young-Ortiz,Company,Retail,Corporate,France,Marseille,54759,2026-04-14,9
-87,"Boyer, Rollins and Gibbs",Individual,Finance,Small Business,Austria,Vienna,31496,2024-12-15,4
-88,Guerrero-Bennett,Individual,Education,Consumer,Switzerland,Zurich,92800,2022-09-15,14
-89,Johnston-Kirby,Company,Healthcare,Consumer,Switzerland,Zurich,23659,2023-08-26,2
-90,Collins LLC,Individual,Manufacturing,Corporate,Switzerland,Zurich,35051,2023-03-11,16
-91,Schneider-Rangel,Company,Retail,Small Business,Germany,Frankfurt,08455,2026-02-17,2
-92,Moore Inc,Company,Manufacturing,Small Business,France,Lyon,91900,2023-05-08,1
-93,"Thomas, Green and Moore",Individual,Telecommunications,Small Business,France,Marseille,95482,2023-04-09,1
-94,Richard-Brown,Company,Telecommunications,Small Business,Netherlands,Amsterdam,37872,2022-11-29,12
-95,Anderson-Walsh,Company,Finance,Corporate,Belgium,Brussels,20722,2022-08-12,18
-96,"Cobb, Williams and White",Individual,IT,Consumer,Netherlands,Amsterdam,14350,2023-01-14,19
-97,Flores-Ryan,Company,Finance,Consumer,Austria,Vienna,51097,2023-05-09,11
-98,Jones Group,Individual,Logistics,Corporate,Netherlands,Amsterdam,51924,2024-09-16,19
-99,Brown and Sons,Individual,Healthcare,Corporate,Netherlands,Amsterdam,18074,2025-05-23,19
-100,"Perkins, Martin and Massey",Individual,Retail,Corporate,Italy,Rome,91329,2023-12-26,16
-101,"Sharp, Fox and Robinson",Individual,Logistics,Small Business,Italy,Milan,32842,2025-05-17,16
-102,Vargas LLC,Individual,Retail,Consumer,France,Marseille,66341,2026-05-13,4
-103,Garrett-Patel,Company,Healthcare,Small Business,Austria,Vienna,01313,2023-03-08,10
-104,Bell-Jimenez,Individual,Retail,Small Business,Germany,Munich,56854,2022-11-15,6
-105,Frazier LLC,Company,Logistics,Corporate,Belgium,Brussels,03009,2025-05-11,6
-106,"Estrada, Davis and Riggs",Individual,Retail,Small Business,Spain,Madrid,81498,2025-01-16,8
-107,"Mack, Watkins and Pace",Individual,Retail,Consumer,Netherlands,Amsterdam,02081,2023-11-24,8
-108,Navarro-Ballard,Individual,Telecommunications,Consumer,Belgium,Brussels,10302,2022-10-01,3
-109,"Benson, Mercado and Manning",Company,Education,Small Business,Switzerland,Zurich,56823,2025-08-14,2
-110,Johnson and Sons,Company,Logistics,Corporate,Switzerland,Zurich,40537,2023-06-26,6
-111,Kirk LLC,Individual,Manufacturing,Corporate,Netherlands,Amsterdam,25276,2023-08-17,13
-112,"King, Wilkerson and Peters",Individual,Finance,Corporate,Germany,Hamburg,11880,2025-10-25,3
-113,David Inc,Company,Education,Consumer,Austria,Vienna,78110,2024-05-17,14
-114,"Harrell, Dunn and Martinez",Company,Healthcare,Consumer,Switzerland,Zurich,90333,2025-11-25,11
-115,Roberts-Herrera,Company,Education,Consumer,Italy,Rome,18891,2026-05-31,18
-116,Clark-Tucker,Individual,Manufacturing,Corporate,Spain,Madrid,27827,2022-08-27,17
-117,Goodwin-Fisher,Company,Logistics,Corporate,France,Marseille,09550,2024-12-13,3
-118,Briggs-Jones,Individual,Logistics,Consumer,Belgium,Brussels,24296,2025-03-19,13
-119,Guzman Group,Company,Logistics,Consumer,Austria,Vienna,98532,2023-11-27,1
-120,"Knight, Ellis and Patton",Individual,Retail,Small Business,Germany,Frankfurt,77452,2025-07-19,7
-121,"Cruz, Mcneil and Williams",Individual,IT,Corporate,Netherlands,Amsterdam,47904,2026-07-18,6
-122,Porter and Sons,Company,Finance,Corporate,Spain,Barcelona,28108,2024-02-08,6
-123,"Reed, Scott and Spencer",Company,Logistics,Consumer,Germany,Hamburg,81948,2024-09-23,1
-124,Clark and Sons,Individual,Retail,Corporate,Germany,Frankfurt,56997,2023-11-18,16
-125,Flores-Potts,Individual,Manufacturing,Small Business,Netherlands,Amsterdam,34488,2024-03-30,12
-126,Carter and Sons,Company,Education,Small Business,Spain,Barcelona,09603,2025-07-22,1
-127,"Kent, Lane and Reeves",Individual,Telecommunications,Small Business,France,Lyon,40667,2025-10-12,17
-128,Patterson Ltd,Company,IT,Corporate,Germany,Munich,84254,2022-08-11,15
-129,Smith LLC,Individual,Finance,Consumer,Austria,Vienna,95413,2024-06-03,15
-130,Peterson PLC,Company,Education,Small Business,Spain,Barcelona,25567,2024-10-24,8
-131,Sanchez-Collins,Company,Logistics,Small Business,France,Paris,15604,2023-11-03,18
-132,Flores PLC,Company,IT,Small Business,Belgium,Brussels,14387,2025-01-18,13
-133,"Mclaughlin, Sullivan and Ochoa",Individual,Finance,Small Business,Switzerland,Zurich,05628,2024-06-21,12
-134,"Acosta, Stewart and Jones",Individual,IT,Small Business,Italy,Milan,44737,2024-01-20,10
-135,Lynn-Hurst,Company,Finance,Consumer,Germany,Cologne,28034,2023-10-20,20
-136,"Butler, Brown and Tucker",Company,Education,Consumer,Netherlands,Amsterdam,26966,2025-05-30,19
-137,Taylor-Duran,Company,IT,Corporate,Austria,Vienna,41078,2023-02-27,14
-138,"Chan, Hayes and Gonzales",Individual,Finance,Consumer,France,Marseille,37702,2023-12-06,18
-139,Krueger PLC,Company,Telecommunications,Corporate,Netherlands,Amsterdam,00926,2025-02-03,8
-140,Gardner Ltd,Individual,Manufacturing,Corporate,Netherlands,Amsterdam,85615,2023-08-26,14
-141,Mays-Baxter,Company,Finance,Consumer,Netherlands,Amsterdam,36544,2022-12-31,9
-142,"Howard, Garcia and Durham",Individual,Manufacturing,Corporate,Netherlands,Amsterdam,72933,2024-06-09,6
-143,"Smith, Shepard and Davis",Company,Logistics,Small Business,Switzerland,Zurich,44089,2025-07-01,16
-144,Garcia Inc,Company,Retail,Corporate,Belgium,Brussels,58605,2024-06-24,11
-145,"Wright, Francis and Thomas",Company,Finance,Consumer,Italy,Rome,53339,2023-06-28,14
-146,Nolan-Melton,Individual,Manufacturing,Corporate,Germany,Hamburg,07717,2024-03-01,5
-147,"Rogers, Nguyen and Cox",Company,Finance,Corporate,Netherlands,Amsterdam,69706,2023-02-16,15
-148,"Maldonado, Clayton and Davis",Individual,Logistics,Small Business,Germany,Frankfurt,71563,2024-01-28,10
-149,Preston Ltd,Company,Telecommunications,Small Business,Switzerland,Zurich,91592,2024-12-21,2
-150,Norris Inc,Company,Logistics,Small Business,Netherlands,Amsterdam,14762,2024-07-15,2
-151,"Lopez, Ortiz and Smith",Company,Education,Consumer,France,Marseille,99275,2023-05-11,20
-152,Lewis PLC,Company,Telecommunications,Consumer,France,Marseille,68277,2025-10-25,17
-153,Bowman-Banks,Company,Manufacturing,Consumer,Germany,Cologne,83653,2023-08-31,16
-154,"Aguilar, Johnson and Cruz",Individual,Healthcare,Consumer,Switzerland,Zurich,41651,2024-06-17,18
-155,Parker-Pierce,Company,Logistics,Consumer,France,Marseille,11998,2023-02-05,3
-156,"Cox, Johnson and Lane",Individual,Retail,Consumer,Spain,Madrid,45224,2025-11-04,18
-157,"King, Mullen and Rodgers",Individual,Education,Corporate,France,Lyon,56996,2024-04-19,2
-158,Morrison PLC,Individual,Finance,Small Business,Italy,Milan,09832,2024-06-05,15
-159,"Lane, Fletcher and Wagner",Individual,Education,Corporate,Netherlands,Amsterdam,96350,2025-01-15,7
-160,"Garza, Thomas and Nunez",Individual,Finance,Corporate,Austria,Vienna,40532,2023-05-05,14
-161,Lewis LLC,Individual,Finance,Corporate,France,Lyon,27284,2024-02-23,10
-162,Zhang and Sons,Company,Logistics,Consumer,Switzerland,Zurich,83363,2023-08-15,1
-163,Adams Group,Company,Finance,Corporate,Netherlands,Amsterdam,87476,2024-12-13,19
-164,Jones-Crawford,Company,Finance,Consumer,France,Lyon,77429,2025-12-05,9
-165,"Bonilla, Smith and Lopez",Individual,Healthcare,Consumer,Netherlands,Amsterdam,78065,2023-11-15,20
-166,Walker-Chavez,Individual,Logistics,Small Business,France,Marseille,10107,2022-10-03,3
-167,Garcia LLC,Company,IT,Small Business,Italy,Milan,34102,2024-11-06,10
-168,Lee LLC,Company,Education,Small Business,Germany,Hamburg,66602,2023-08-20,15
-169,"Russo, Maldonado and Roy",Individual,Healthcare,Corporate,Spain,Barcelona,58522,2023-05-14,14
-170,"Gonzalez, Williams and Bennett",Company,Finance,Small Business,Switzerland,Zurich,44812,2023-05-14,3
-171,"Dixon, Jackson and Ramos",Individual,IT,Small Business,Belgium,Brussels,23934,2024-07-06,15
-172,Smith-Quinn,Individual,Telecommunications,Consumer,Netherlands,Amsterdam,57616,2023-10-31,16
-173,Pittman Group,Individual,Healthcare,Consumer,Austria,Vienna,47515,2024-04-18,4
-174,Myers Group,Company,IT,Consumer,Germany,Hamburg,12226,2025-06-28,12
-175,George Ltd,Company,Healthcare,Small Business,Italy,Milan,16770,2023-10-14,10
-176,Evans-Pierce,Individual,Telecommunications,Small Business,Austria,Vienna,03696,2023-01-02,1
-177,Hanna-Diaz,Company,Logistics,Small Business,Netherlands,Amsterdam,04597,2025-04-11,8
-178,Levy-Gonzales,Individual,Manufacturing,Corporate,Italy,Rome,03266,2022-09-10,12
-179,Moore-Mccann,Company,Healthcare,Corporate,Netherlands,Amsterdam,70310,2025-01-08,11
-180,"Rice, Meyer and Fernandez",Individual,Finance,Corporate,Austria,Vienna,18471,2025-05-12,18
-181,Collins LLC,Company,Education,Consumer,France,Lyon,38779,2025-03-08,3
-182,Rios PLC,Individual,Healthcare,Small Business,Austria,Vienna,07245,2025-12-18,14
-183,Gordon Group,Company,Healthcare,Corporate,Italy,Milan,39752,2026-06-30,16
-184,"Sandoval, Raymond and Valencia",Company,Retail,Consumer,Spain,Madrid,37995,2025-08-13,19
-185,"Hunter, Padilla and Lawson",Company,IT,Small Business,Germany,Cologne,50607,2024-03-05,2
-186,Pollard Group,Individual,Retail,Corporate,Belgium,Brussels,94728,2025-07-12,10
-187,Sanders Ltd,Individual,IT,Consumer,Germany,Frankfurt,70034,2025-12-09,9
-188,Martin-Miller,Individual,Healthcare,Consumer,Belgium,Brussels,02975,2025-04-02,15
-189,"Mendoza, Oliver and Martinez",Company,IT,Consumer,Switzerland,Zurich,63740,2024-11-22,20
-190,Douglas Group,Company,Finance,Consumer,Switzerland,Zurich,55134,2022-12-01,6
-191,Davis-Moore,Company,Education,Small Business,France,Marseille,73574,2025-04-05,16
-192,Garcia-Davis,Individual,Healthcare,Consumer,Switzerland,Zurich,37424,2024-09-03,18
-193,Schneider Group,Individual,IT,Corporate,Italy,Milan,07330,2026-01-18,9
-194,Santiago and Sons,Individual,Finance,Small Business,Belgium,Brussels,01370,2023-01-06,7
-195,Gomez-Gonzalez,Individual,Telecommunications,Small Business,Spain,Barcelona,77569,2025-12-14,15
-196,Williams-Hull,Company,Finance,Small Business,Germany,Hamburg,80811,2023-07-10,3
-197,Thomas-Howell,Company,Manufacturing,Corporate,Austria,Vienna,48694,2026-02-22,1
-198,White and Sons,Individual,Manufacturing,Corporate,Italy,Rome,94889,2024-05-24,3
-199,"Williams, Green and Castro",Company,Telecommunications,Consumer,Belgium,Brussels,24095,2024-05-10,7
-200,Cross-Scott,Individual,Retail,Corporate,Netherlands,Amsterdam,93913,2025-07-29,4
-201,Hanson Group,Company,Telecommunications,Corporate,Germany,Hamburg,36963,2026-01-25,2
-202,"Miller, Smith and Meyer",Individual,IT,Consumer,Belgium,Brussels,47595,2022-11-18,6
-203,"Choi, Frank and Robertson",Company,Healthcare,Consumer,Netherlands,Amsterdam,79701,2024-09-21,3
-204,Mcdonald-Odom,Company,Telecommunications,Small Business,Spain,Barcelona,86376,2025-03-30,20
-205,Lucas Ltd,Company,Healthcare,Consumer,Switzerland,Zurich,51261,2022-09-16,1
-206,Young-Wilkerson,Company,Retail,Small Business,France,Paris,79715,2026-05-23,1
-207,Harris-Martin,Individual,Telecommunications,Corporate,Germany,Munich,83712,2025-03-27,4
-208,Medina PLC,Company,Healthcare,Consumer,France,Marseille,51002,2025-03-07,10
-209,"Simpson, Rogers and Burton",Company,Finance,Small Business,Spain,Barcelona,55314,2026-06-15,15
-210,Krause PLC,Individual,Logistics,Consumer,Switzerland,Zurich,61911,2023-06-03,16
-211,"Pearson, Davis and Morton",Individual,Retail,Small Business,Italy,Rome,73997,2024-10-06,7
-212,Wilkinson Inc,Company,IT,Consumer,Italy,Rome,72524,2023-03-25,2
-213,Mason Inc,Individual,IT,Corporate,Italy,Milan,41937,2024-10-21,13
-214,Smith and Sons,Individual,IT,Corporate,Belgium,Brussels,44250,2023-08-02,16
-215,Ramos-Brown,Company,IT,Small Business,Switzerland,Zurich,78157,2023-12-03,12
-216,Taylor-Knight,Company,Healthcare,Consumer,Austria,Vienna,74174,2022-08-22,2
-217,Myers Ltd,Individual,Retail,Small Business,Germany,Frankfurt,15638,2022-08-23,11
-218,"Pacheco, Campbell and Cantrell",Individual,Telecommunications,Consumer,Switzerland,Zurich,40235,2025-08-02,18
-219,Lopez LLC,Company,Logistics,Corporate,Italy,Rome,44915,2024-10-26,7
-220,Mitchell-Young,Company,Education,Consumer,Spain,Madrid,74408,2022-07-26,6
-221,"Nguyen, Benson and Golden",Individual,Telecommunications,Corporate,Switzerland,Zurich,62619,2024-08-25,18
-222,Cantu-Mendoza,Individual,Manufacturing,Corporate,Netherlands,Amsterdam,17843,2022-09-17,6
-223,Padilla and Sons,Company,Retail,Consumer,France,Paris,63485,2024-11-03,12
-224,Ayers-Smith,Individual,IT,Corporate,Netherlands,Amsterdam,88838,2023-10-06,3
-225,Flowers Ltd,Individual,Retail,Consumer,Netherlands,Amsterdam,63035,2025-11-13,9
-226,Morris-Robinson,Individual,Healthcare,Corporate,Spain,Madrid,26591,2025-08-10,8
-227,"Martin, Rodriguez and Lopez",Individual,IT,Corporate,Germany,Munich,80850,2025-12-06,19
-228,Ward-Santos,Company,IT,Small Business,Switzerland,Zurich,86737,2025-08-13,18
-229,Andrews and Sons,Company,Manufacturing,Corporate,Netherlands,Amsterdam,29542,2023-04-14,16
-230,Mitchell-Pitts,Company,IT,Consumer,Switzerland,Zurich,96068,2022-11-10,20
-231,Sullivan Inc,Company,Finance,Small Business,Austria,Vienna,01181,2024-11-27,4
-232,"Lawson, Harris and Scott",Individual,Retail,Corporate,Belgium,Brussels,59593,2023-06-19,2
-233,Avila PLC,Company,Education,Consumer,Belgium,Brussels,26893,2022-11-04,15
-234,Harrington LLC,Individual,Logistics,Small Business,Spain,Barcelona,85635,2025-11-04,15
-235,Scott-Anderson,Individual,Retail,Consumer,Germany,Munich,99596,2026-04-15,15
-236,Jarvis-Ramos,Company,Manufacturing,Consumer,Spain,Barcelona,99788,2025-09-04,5
-237,"Hendricks, Cochran and Vasquez",Individual,Education,Consumer,Italy,Rome,29828,2024-09-15,17
-238,Rodriguez Ltd,Individual,Logistics,Consumer,Germany,Hamburg,53498,2022-11-11,3
-239,Cooper and Sons,Company,Logistics,Small Business,France,Lyon,89623,2023-02-16,5
-240,"Benjamin, Little and Rivers",Individual,Education,Consumer,Belgium,Brussels,38277,2025-09-19,4
-241,Stanton and Sons,Company,Retail,Corporate,Germany,Munich,36430,2023-11-01,16
-242,Cowan-Garcia,Company,Retail,Corporate,Italy,Milan,06844,2023-11-16,10
-243,Hall-Ortiz,Company,Logistics,Small Business,Netherlands,Amsterdam,95253,2022-07-29,14
-244,Lee-Stokes,Company,Manufacturing,Small Business,France,Paris,54137,2024-03-09,8
-245,Yang-Lynch,Individual,IT,Consumer,Germany,Cologne,33996,2023-08-06,2
-246,"Rogers, Jimenez and Alvarez",Company,Logistics,Corporate,Switzerland,Zurich,25379,2025-12-10,2
-247,Craig-Shah,Individual,Telecommunications,Small Business,Netherlands,Amsterdam,11360,2023-08-15,9
-248,Wong Group,Individual,IT,Small Business,Austria,Vienna,90923,2024-06-18,14
-249,Burgess-Lewis,Company,Education,Consumer,Italy,Milan,48574,2024-08-19,1
-250,Davenport Ltd,Individual,Telecommunications,Consumer,Switzerland,Zurich,29148,2022-12-18,6
-251,"Gardner, Marquez and Anderson",Individual,Education,Corporate,Belgium,Brussels,35197,2023-03-19,1
-252,Osborne and Sons,Company,Education,Corporate,Netherlands,Amsterdam,38849,2024-09-13,12
-253,Moore-Martinez,Company,Finance,Consumer,Austria,Vienna,06620,2024-12-20,5
-254,"Gould, Elliott and Wyatt",Individual,Finance,Corporate,Netherlands,Amsterdam,45857,2025-06-01,16
-255,Chavez LLC,Individual,Healthcare,Small Business,France,Paris,88839,2022-10-07,12
-256,"Johnson, Hardin and Salas",Individual,Retail,Small Business,France,Lyon,34363,2022-10-26,8
-257,Sullivan-Mccall,Individual,Manufacturing,Consumer,Netherlands,Amsterdam,38352,2025-12-17,2
-258,"Phillips, Kennedy and Fuller",Company,Telecommunications,Consumer,Netherlands,Amsterdam,07814,2025-07-20,12
-259,"Brown, Banks and Ramirez",Individual,Manufacturing,Corporate,Belgium,Brussels,20421,2024-07-26,11
-260,Mahoney-Perry,Individual,Retail,Consumer,Netherlands,Amsterdam,88200,2023-02-02,11
-261,Hammond PLC,Company,Education,Consumer,Italy,Rome,07838,2024-09-21,3
-262,Thomas LLC,Individual,Retail,Small Business,Germany,Munich,80115,2022-08-09,4
-263,Carey Group,Individual,IT,Corporate,Spain,Barcelona,20274,2023-04-19,18
-264,Young-Ortiz,Individual,Telecommunications,Consumer,Belgium,Brussels,06458,2024-04-24,16
-265,Gonzales-Smith,Individual,Finance,Corporate,Spain,Madrid,93394,2024-11-05,10
-266,Greer LLC,Company,IT,Small Business,Belgium,Brussels,94540,2026-04-08,2
-267,Herman-Lee,Individual,Telecommunications,Corporate,Italy,Milan,64164,2026-01-23,4
-268,Knight Ltd,Individual,Manufacturing,Consumer,Switzerland,Zurich,88927,2024-01-17,20
-269,Johnson-Kramer,Individual,Retail,Small Business,Spain,Madrid,72505,2023-04-07,14
-270,Marquez Group,Individual,Retail,Consumer,Netherlands,Amsterdam,25654,2022-12-23,17
-271,"Sanders, Griffin and Jackson",Individual,IT,Consumer,Switzerland,Zurich,61583,2025-09-21,16
-272,"Johnson, Foley and Dunn",Company,Education,Consumer,Germany,Berlin,76996,2024-07-06,11
-273,"Morris, Hodges and Jones",Individual,Logistics,Small Business,Italy,Milan,24681,2025-02-07,5
-274,Wright Ltd,Company,Retail,Corporate,Switzerland,Zurich,69276,2026-02-10,18
-275,Gonzalez-Farley,Individual,Telecommunications,Corporate,Belgium,Brussels,44262,2024-11-19,17
-276,Carpenter-Fletcher,Individual,Education,Corporate,Austria,Vienna,10971,2023-11-21,12
-277,Ritter Group,Individual,Telecommunications,Corporate,Austria,Vienna,59521,2026-06-16,12
-278,Burke LLC,Company,Manufacturing,Small Business,Spain,Barcelona,57739,2022-08-18,3
-279,Rowland-Villanueva,Company,IT,Corporate,Switzerland,Zurich,46266,2022-09-30,14
-280,"Garrison, Stevenson and Oneill",Individual,Logistics,Consumer,Germany,Munich,84529,2026-05-28,2
-281,"Ramirez, Boyd and Robertson",Company,Retail,Corporate,Netherlands,Amsterdam,35479,2022-08-31,2
-282,Sanchez-Gonzalez,Individual,Logistics,Consumer,France,Paris,32297,2024-05-31,9
-283,"Jones, Gallegos and Hawkins",Company,IT,Corporate,Italy,Rome,01115,2025-01-31,19
-284,Hughes Inc,Individual,Manufacturing,Corporate,Spain,Barcelona,31070,2024-03-26,8
-285,Wright-Carpenter,Company,Manufacturing,Small Business,Germany,Munich,53938,2022-09-09,9
-286,Riley PLC,Company,Finance,Corporate,Spain,Madrid,18517,2024-04-15,14
-287,Copeland Inc,Company,Manufacturing,Small Business,Netherlands,Amsterdam,94114,2024-09-05,2
-288,"Richardson, Williams and Leonard",Individual,Finance,Corporate,Germany,Hamburg,35638,2024-04-04,1
-289,"Young, Glover and Robbins",Individual,Education,Corporate,Spain,Barcelona,77291,2025-02-07,15
-290,Gill-Mitchell,Company,Logistics,Corporate,Austria,Vienna,74845,2026-06-09,9
-291,Smith Ltd,Individual,Finance,Consumer,France,Marseille,23617,2024-10-12,3
-292,"Baker, Moore and Lindsey",Company,Manufacturing,Small Business,Spain,Barcelona,05381,2024-07-20,9
-293,"Cunningham, Peterson and Silva",Individual,Education,Small Business,Germany,Frankfurt,40319,2023-10-17,2
-294,"Greene, Barry and Anderson",Individual,Finance,Corporate,Netherlands,Amsterdam,58961,2026-02-26,18
-295,"Peterson, Pena and Warren",Individual,Telecommunications,Consumer,France,Paris,69305,2025-02-01,15
-296,Meyer-Zhang,Company,Logistics,Small Business,Belgium,Brussels,65473,2025-09-07,15
-297,Torres PLC,Individual,IT,Corporate,Austria,Vienna,03844,2022-08-31,17
-298,Villa Inc,Company,Manufacturing,Small Business,Switzerland,Zurich,88327,2022-09-01,1
-299,"Adams, Rodriguez and Hodges",Individual,IT,Small Business,Germany,Hamburg,90054,2024-08-11,12
-300,Gill Inc,Individual,Manufacturing,Corporate,France,Paris,27452,2024-11-02,16
-301,"Travis, Patel and Schultz",Individual,Education,Consumer,Netherlands,Amsterdam,69058,2023-10-03,13
-302,Sullivan-Richards,Individual,Healthcare,Corporate,Austria,Vienna,08019,2026-04-10,7
-303,Murphy Inc,Company,Finance,Small Business,Austria,Vienna,40135,2022-09-20,2
-304,"Trujillo, Nguyen and Ross",Individual,IT,Corporate,Belgium,Brussels,90994,2026-05-01,6
-305,Jordan-Cook,Company,Healthcare,Consumer,Switzerland,Zurich,63592,2026-06-14,12
-306,Anderson-Cox,Individual,Healthcare,Corporate,France,Lyon,70466,2023-01-31,15
-307,"Bell, Caldwell and Jackson",Individual,Logistics,Consumer,Italy,Milan,22577,2023-10-07,7
-308,Simon Inc,Individual,Healthcare,Corporate,France,Paris,86585,2024-12-03,5
-309,"Martin, Evans and Nelson",Company,IT,Corporate,Germany,Frankfurt,05678,2022-10-26,17
-310,Gonzales-Stanley,Company,Logistics,Corporate,Netherlands,Amsterdam,82653,2026-05-06,4
-311,Brown-Cook,Company,Retail,Corporate,Austria,Vienna,44372,2023-02-27,20
-312,Williams-Jordan,Company,IT,Small Business,Germany,Frankfurt,60000,2023-05-22,7
-313,Martinez and Sons,Individual,Telecommunications,Consumer,France,Lyon,62959,2026-06-08,14
-314,Fox Group,Individual,Retail,Corporate,Switzerland,Zurich,65500,2022-09-01,19
-315,Nelson and Sons,Individual,Education,Consumer,Italy,Rome,80760,2024-08-26,18
-316,Alvarez Group,Company,Manufacturing,Consumer,Netherlands,Amsterdam,98977,2025-03-10,2
-317,Steele Ltd,Company,Education,Small Business,Italy,Milan,28033,2025-09-20,18
-318,Cox-Mills,Individual,Retail,Small Business,Germany,Frankfurt,94635,2024-10-20,5
-319,Morales-Campbell,Company,Education,Small Business,Spain,Barcelona,87889,2025-03-21,20
-320,Taylor-Mahoney,Individual,Logistics,Small Business,Switzerland,Zurich,36421,2023-07-10,4
-321,Thomas-Hampton,Individual,Manufacturing,Corporate,Switzerland,Zurich,05834,2026-06-15,7
-322,Mcguire and Sons,Individual,Healthcare,Corporate,Germany,Frankfurt,56694,2025-03-04,19
-323,Hill-Dennis,Individual,Finance,Consumer,France,Paris,49105,2023-01-18,7
-324,Terrell PLC,Company,Finance,Small Business,Austria,Vienna,19526,2025-01-17,18
-325,"Erickson, Campbell and Carey",Individual,Finance,Small Business,Netherlands,Amsterdam,76284,2025-09-10,4
-326,Smith-Richardson,Individual,Manufacturing,Small Business,Switzerland,Zurich,22755,2025-08-09,13
-327,Hill-Hart,Company,Logistics,Consumer,Belgium,Brussels,88892,2025-09-09,19
-328,Wright-Donovan,Individual,Healthcare,Corporate,Germany,Berlin,04134,2023-12-17,20
-329,"Miller, Bishop and Richards",Individual,Manufacturing,Small Business,Austria,Vienna,54885,2025-10-29,10
-330,Moore PLC,Individual,Logistics,Consumer,Austria,Vienna,99013,2024-02-01,8
-331,Thomas LLC,Company,Education,Small Business,Netherlands,Amsterdam,47156,2025-05-26,12
-332,"Mann, Sanders and Sanders",Company,IT,Corporate,Switzerland,Zurich,18555,2024-11-26,19
-333,Strickland Inc,Company,Healthcare,Small Business,Belgium,Brussels,19916,2025-09-24,4
-334,Barnes Group,Company,Manufacturing,Consumer,Switzerland,Zurich,68164,2023-09-01,13
-335,Myers PLC,Individual,Manufacturing,Small Business,Spain,Barcelona,77537,2022-09-01,14
-336,Rocha-Vaughn,Company,Manufacturing,Consumer,France,Marseille,76087,2023-06-17,10
-337,"Erickson, White and Graves",Individual,Retail,Small Business,Germany,Cologne,84842,2025-05-18,20
-338,Guzman-Reyes,Individual,Logistics,Small Business,Italy,Rome,41586,2026-01-20,16
-339,"Anderson, Graves and Lyons",Company,Manufacturing,Corporate,Germany,Berlin,35391,2023-01-20,17
-340,Jimenez-Friedman,Individual,Manufacturing,Corporate,Germany,Berlin,53524,2023-08-16,16
-341,Smith LLC,Company,Telecommunications,Small Business,Austria,Vienna,92384,2024-04-16,17
-342,"Williams, Stanley and Caldwell",Company,Healthcare,Consumer,Switzerland,Zurich,60145,2024-08-18,2
-343,"Smith, Higgins and Benson",Company,Telecommunications,Corporate,Belgium,Brussels,17076,2024-04-12,15
-344,Smith-Bullock,Company,Manufacturing,Consumer,Belgium,Brussels,06165,2024-01-18,12
-345,"Henson, Allen and Carter",Individual,IT,Corporate,Belgium,Brussels,14343,2022-11-29,4
-346,Johnson-Barker,Company,Telecommunications,Consumer,France,Marseille,48300,2024-07-18,15
-347,"Barton, Santos and Lopez",Individual,Manufacturing,Corporate,Italy,Rome,00833,2023-05-05,4
-348,Ortiz and Sons,Company,Retail,Consumer,Switzerland,Zurich,68206,2025-02-26,20
-349,"Harvey, Henderson and Edwards",Individual,IT,Small Business,Germany,Hamburg,36005,2024-06-20,3
-350,Howard PLC,Company,Education,Small Business,France,Lyon,42263,2025-02-22,5
-351,Copeland-Johnson,Individual,IT,Small Business,Spain,Barcelona,81853,2026-04-18,2
-352,Snyder-White,Individual,Finance,Consumer,Italy,Rome,92955,2022-10-19,15
-353,Fitzgerald-Cooke,Company,Retail,Corporate,Italy,Rome,18523,2022-07-28,5
-354,Diaz-Alvarez,Company,Telecommunications,Corporate,Germany,Hamburg,79017,2023-03-04,3
-355,Robinson Inc,Individual,Logistics,Small Business,Italy,Milan,79732,2022-12-19,9
-356,Ramirez-Roth,Company,IT,Corporate,Netherlands,Amsterdam,98672,2026-04-17,8
-357,"Carter, Johnson and Newman",Individual,Manufacturing,Consumer,Germany,Frankfurt,95231,2025-06-04,16
-358,"Lamb, Davila and Myers",Company,Logistics,Corporate,Germany,Frankfurt,56969,2023-05-11,11
-359,Deleon-Moody,Individual,Finance,Small Business,Austria,Vienna,77584,2026-05-29,16
-360,Wood Ltd,Company,Telecommunications,Corporate,Switzerland,Zurich,60022,2026-02-02,2
-361,Jones-Taylor,Company,Manufacturing,Small Business,Austria,Vienna,95189,2023-01-25,17
-362,Cummings-Griffith,Company,Finance,Corporate,Netherlands,Amsterdam,64030,2024-06-04,19
-363,Smith-Wade,Company,Manufacturing,Consumer,Belgium,Brussels,96985,2023-10-20,10
-364,"Ruiz, Edwards and Woodward",Company,IT,Small Business,Netherlands,Amsterdam,64409,2023-03-27,1
-365,Avery and Sons,Individual,Education,Small Business,Austria,Vienna,76157,2024-10-17,7
-366,Jones-Brady,Individual,Manufacturing,Small Business,Austria,Vienna,98084,2022-10-04,20
-367,Stanley-Cisneros,Company,IT,Consumer,Belgium,Brussels,07739,2024-09-26,2
-368,"Howe, Ramirez and Smith",Company,Healthcare,Consumer,Netherlands,Amsterdam,91257,2025-04-27,7
-369,"Thompson, Johnson and Hughes",Company,Logistics,Consumer,Germany,Frankfurt,98806,2025-10-14,18
-370,Jones and Sons,Individual,IT,Consumer,Spain,Madrid,77115,2025-10-25,12
-371,Bush-Williams,Individual,Logistics,Consumer,Switzerland,Zurich,88195,2022-10-25,13
-372,"Hardy, Salazar and Morris",Company,Healthcare,Consumer,Austria,Vienna,05358,2025-03-20,16
-373,Miller PLC,Company,IT,Small Business,Austria,Vienna,52179,2025-12-03,10
-374,Johnston-Kent,Individual,Telecommunications,Consumer,Switzerland,Zurich,43575,2026-02-05,16
-375,Meyers and Sons,Individual,Education,Consumer,Switzerland,Zurich,35003,2025-06-21,5
-376,"Stephens, Hoover and Jacobs",Individual,Healthcare,Corporate,Austria,Vienna,19599,2023-08-19,4
-377,"Peters, Hernandez and Parker",Company,Retail,Small Business,Spain,Madrid,28417,2025-09-26,6
-378,Martinez-Bennett,Individual,Telecommunications,Small Business,Netherlands,Amsterdam,31219,2026-05-14,20
-379,Rodriguez Group,Company,Finance,Consumer,Switzerland,Zurich,35582,2024-05-05,16
-380,"Chavez, Rivas and Goodman",Individual,Telecommunications,Corporate,Switzerland,Zurich,70020,2026-07-22,16
-381,"Wallace, Stone and Harper",Company,Logistics,Small Business,Netherlands,Amsterdam,98155,2024-02-25,9
-382,Aguirre Inc,Company,Education,Consumer,Italy,Milan,60404,2026-02-23,19
-383,Ruiz-Norman,Company,Education,Corporate,France,Paris,06051,2026-05-29,3
-384,"Brandt, Harris and Vasquez",Company,Telecommunications,Small Business,Spain,Barcelona,21408,2026-03-21,19
-385,Campbell Ltd,Company,IT,Small Business,Austria,Vienna,70669,2023-01-13,9
-386,Gibson-Collins,Company,IT,Consumer,Netherlands,Amsterdam,29685,2022-08-23,8
-387,"Jones, Cisneros and Brooks",Individual,Retail,Small Business,France,Lyon,61225,2022-12-02,11
-388,Gray-Bradley,Company,Healthcare,Consumer,Netherlands,Amsterdam,15284,2025-10-21,5
-389,Kelly-Esparza,Individual,Retail,Consumer,Germany,Frankfurt,95141,2025-04-12,8
-390,"Mccann, Johnson and Miller",Individual,Telecommunications,Corporate,Spain,Barcelona,65720,2025-03-27,2
-391,"Kirby, Villanueva and Barrett",Company,Healthcare,Corporate,Italy,Rome,23118,2025-09-10,3
-392,Campos LLC,Individual,Education,Consumer,Netherlands,Amsterdam,50175,2023-12-06,9
-393,Salas-Drake,Individual,Logistics,Corporate,Belgium,Brussels,80381,2026-02-13,16
-394,Reynolds-Williams,Individual,Logistics,Corporate,Spain,Barcelona,64532,2026-03-14,6
-395,Smith PLC,Company,Telecommunications,Consumer,Belgium,Brussels,99260,2024-09-04,14
-396,Hays LLC,Company,Retail,Corporate,Netherlands,Amsterdam,19700,2024-07-13,18
-397,Gray LLC,Company,IT,Consumer,France,Lyon,77570,2026-07-20,20
-398,Alvarado-Hernandez,Company,Finance,Corporate,Austria,Vienna,45451,2025-06-06,10
-399,Mann PLC,Individual,Manufacturing,Small Business,Belgium,Brussels,51345,2026-05-05,15
-400,Lewis PLC,Individual,Logistics,Small Business,Switzerland,Zurich,01475,2024-08-13,16
-401,Anderson-Brown,Company,Logistics,Small Business,France,Lyon,61602,2025-07-27,13
-402,Jackson Group,Company,Healthcare,Corporate,Netherlands,Amsterdam,69155,2023-06-12,12
-403,Harrison-Combs,Individual,IT,Consumer,Switzerland,Zurich,63701,2023-05-02,2
-404,"Campbell, Dawson and Thompson",Individual,Telecommunications,Corporate,Belgium,Brussels,96577,2023-07-03,5
-405,Young-Conrad,Company,Finance,Small Business,France,Lyon,22113,2022-09-21,12
-406,Meyer Inc,Individual,Finance,Consumer,Austria,Vienna,07655,2022-10-10,8
-407,"Wilson, Meyers and Smith",Company,Healthcare,Small Business,Austria,Vienna,89251,2024-03-26,8
-408,"Mitchell, Ross and Walters",Company,Manufacturing,Small Business,Belgium,Brussels,81338,2025-04-03,11
-409,"Robertson, Collins and Parsons",Individual,Finance,Small Business,Italy,Rome,53302,2023-11-27,20
-410,Bell and Sons,Individual,Telecommunications,Consumer,Germany,Frankfurt,17712,2023-08-10,20
-411,Mahoney-Klein,Individual,Finance,Small Business,Netherlands,Amsterdam,74197,2024-03-20,9
-412,Villanueva-Williams,Company,Logistics,Consumer,Spain,Madrid,56413,2022-09-26,4
-413,Kelly PLC,Company,Education,Corporate,Netherlands,Amsterdam,07236,2022-11-26,19
-414,White LLC,Individual,Healthcare,Corporate,Germany,Frankfurt,22938,2025-08-25,16
-415,"Cruz, Baldwin and Bailey",Company,Logistics,Small Business,Belgium,Brussels,95680,2025-12-19,17
-416,"Miller, Montgomery and Martin",Company,Education,Consumer,Spain,Barcelona,87092,2025-12-28,13
-417,Smith-Ross,Individual,Retail,Consumer,Switzerland,Zurich,54096,2025-06-27,15
-418,Barker-Wu,Individual,Education,Small Business,Germany,Cologne,13494,2026-06-20,6
-419,Cummings-Lee,Company,Retail,Small Business,Belgium,Brussels,73548,2026-04-13,8
-420,Jones PLC,Company,Logistics,Corporate,Austria,Vienna,61706,2024-06-27,17
-421,Michael Group,Individual,Manufacturing,Small Business,Belgium,Brussels,59886,2025-04-23,12
-422,Arroyo-Wagner,Company,Manufacturing,Corporate,Spain,Barcelona,87563,2023-01-02,9
-423,Thomas Inc,Individual,Logistics,Small Business,France,Lyon,97006,2026-06-30,14
-424,Moore-Stokes,Individual,IT,Corporate,Austria,Vienna,28069,2022-11-11,6
-425,"Robles, Martin and Phillips",Individual,IT,Small Business,Italy,Milan,84875,2023-11-15,9
-426,Clark and Sons,Company,Telecommunications,Small Business,Spain,Barcelona,43157,2023-10-11,14
-427,Alexander-Bryant,Company,IT,Corporate,Germany,Berlin,48921,2025-05-23,11
-428,Gallagher Inc,Individual,Manufacturing,Small Business,Spain,Madrid,72627,2023-01-08,10
-429,Duran-Miller,Company,Telecommunications,Small Business,Italy,Rome,68445,2023-08-06,12
-430,"Charles, Randolph and Carroll",Individual,Telecommunications,Consumer,Spain,Madrid,95528,2024-04-05,12
-431,Vaughn-Young,Individual,Retail,Small Business,Germany,Berlin,91066,2025-10-14,12
-432,Garcia-Gonzalez,Company,IT,Corporate,Austria,Vienna,42609,2025-03-12,19
-433,Hebert-Ford,Company,Logistics,Corporate,Germany,Frankfurt,37227,2023-10-14,13
-434,Shepard Group,Individual,Logistics,Consumer,Switzerland,Zurich,58619,2025-03-07,5
-435,Leach-Turner,Company,Finance,Small Business,Switzerland,Zurich,07961,2025-09-28,18
-436,"Mendoza, Guzman and Austin",Individual,Healthcare,Small Business,Austria,Vienna,10461,2024-08-28,6
-437,"Arnold, Davis and Bullock",Individual,Telecommunications,Corporate,Spain,Madrid,73839,2025-03-28,14
-438,"Short, Mccall and Kerr",Company,Finance,Small Business,Austria,Vienna,90483,2026-03-05,19
-439,Gomez Inc,Company,Retail,Corporate,Belgium,Brussels,53766,2023-08-31,2
-440,"Jacobs, Diaz and Mcdaniel",Company,IT,Corporate,Germany,Hamburg,47137,2026-06-24,8
-441,"Bell, Perry and Bush",Company,Finance,Consumer,Spain,Madrid,52905,2022-09-11,17
-442,Harris-Bryant,Company,Retail,Corporate,Netherlands,Amsterdam,61654,2024-09-18,3
-443,Nguyen Group,Individual,Finance,Consumer,Switzerland,Zurich,46992,2023-09-11,16
-444,Gamble-Goodman,Individual,Telecommunications,Consumer,France,Paris,65178,2026-06-04,16
-445,May-Lee,Individual,Manufacturing,Consumer,Belgium,Brussels,83965,2023-08-16,13
-446,Gates-Knight,Individual,IT,Consumer,Netherlands,Amsterdam,70578,2025-05-03,10
-447,Tate-Brown,Individual,Healthcare,Corporate,France,Paris,54015,2023-08-14,14
-448,Young Group,Company,Manufacturing,Corporate,Belgium,Brussels,01509,2026-01-14,5
-449,Tran PLC,Company,Logistics,Consumer,Italy,Rome,84942,2023-03-18,14
-450,Martin-Woods,Company,Education,Small Business,Spain,Madrid,82847,2023-08-31,6
-451,Miles-Reed,Company,Logistics,Corporate,Switzerland,Zurich,57801,2025-07-28,16
-452,Martinez-Ford,Individual,Manufacturing,Corporate,Spain,Barcelona,15714,2022-12-06,15
-453,"Cooper, Davis and Cooper",Individual,Retail,Corporate,Austria,Vienna,49018,2024-03-18,14
-454,"Phillips, Martin and Blair",Individual,Retail,Consumer,Germany,Frankfurt,51617,2025-09-14,9
-455,Smith and Sons,Individual,Retail,Corporate,Switzerland,Zurich,98415,2023-12-25,2
-456,Larson-Morales,Individual,Healthcare,Consumer,Spain,Barcelona,18695,2024-03-20,5
-457,"Moran, Stevens and Henderson",Individual,Telecommunications,Small Business,Germany,Munich,05393,2022-12-03,19
-458,"Miller, Potts and Jordan",Company,Finance,Small Business,Germany,Hamburg,87558,2025-08-25,10
-459,"Riley, Roberts and Mcmillan",Individual,Telecommunications,Consumer,Belgium,Brussels,86118,2024-06-30,6
-460,"Zavala, Olson and Washington",Company,Healthcare,Consumer,Germany,Cologne,46893,2025-08-18,2
-461,"Kennedy, Fuller and Molina",Individual,Telecommunications,Consumer,Austria,Vienna,41121,2025-10-15,18
-462,Mccoy-Gray,Company,Manufacturing,Consumer,Austria,Vienna,21965,2023-09-12,3
-463,Lopez-Hubbard,Company,Retail,Corporate,France,Marseille,09238,2025-08-05,19
-464,Saunders Inc,Company,Retail,Consumer,Belgium,Brussels,75280,2026-06-15,2
-465,"Ryan, Garcia and Morrow",Company,Education,Consumer,Germany,Frankfurt,67530,2024-06-26,10
-466,"Jennings, Moore and Moses",Individual,Retail,Small Business,Germany,Munich,27479,2023-04-29,14
-467,Young-Martin,Company,IT,Corporate,France,Paris,39141,2024-07-17,3
-468,Cabrera-Simmons,Company,Finance,Corporate,France,Paris,52823,2023-06-03,6
-469,Smith-Brown,Company,Healthcare,Small Business,Switzerland,Zurich,03101,2024-03-26,1
-470,Taylor-Decker,Individual,Healthcare,Corporate,Austria,Vienna,83398,2023-02-20,6
-471,Gutierrez-Vaughn,Individual,Telecommunications,Corporate,Germany,Hamburg,96105,2023-03-14,13
-472,Garza LLC,Individual,Retail,Corporate,Austria,Vienna,61002,2022-11-24,1
-473,Rowe and Sons,Individual,Education,Corporate,France,Lyon,36013,2023-03-04,7
-474,"James, Silva and Ramirez",Company,Manufacturing,Small Business,Italy,Milan,15579,2024-06-02,15
-475,Robinson PLC,Company,IT,Consumer,Italy,Milan,73748,2022-12-12,19
-476,Rich-Mcfarland,Individual,Finance,Consumer,Netherlands,Amsterdam,09589,2024-05-04,14
-477,Lewis-Hunt,Company,Healthcare,Small Business,Spain,Barcelona,21292,2026-05-30,18
-478,Spears-Miller,Company,Education,Consumer,Spain,Barcelona,65595,2025-12-26,15
-479,Young-Miranda,Company,Healthcare,Corporate,Italy,Rome,11100,2026-06-28,3
-480,Johnson-Mcclain,Individual,Telecommunications,Consumer,Belgium,Brussels,06304,2023-01-06,9
-481,Taylor and Sons,Company,Education,Consumer,Germany,Berlin,25439,2025-05-08,17
-482,Buck-Flynn,Company,IT,Corporate,Italy,Milan,08104,2023-04-09,4
-483,"Berry, Jimenez and Murphy",Individual,Finance,Corporate,Austria,Vienna,31605,2026-04-17,20
-484,"Santiago, Doyle and Wallace",Company,Logistics,Corporate,Netherlands,Amsterdam,76645,2022-09-29,6
-485,Sawyer Group,Individual,Healthcare,Consumer,Italy,Milan,55402,2024-09-09,2
-486,Barton-Dean,Individual,Logistics,Consumer,Austria,Vienna,92258,2023-02-23,5
-487,"Christensen, Tucker and Garrison",Individual,Telecommunications,Small Business,Italy,Rome,99621,2025-07-06,15
-488,"Durham, Miller and Crawford",Company,Manufacturing,Corporate,Spain,Madrid,07970,2026-02-08,13
-489,Rodriguez-Moreno,Individual,Education,Consumer,Italy,Rome,19961,2024-04-13,20
-490,Davis-Daniel,Company,Logistics,Consumer,Germany,Frankfurt,88704,2024-03-03,15
-491,"Lin, Long and Rios",Company,Telecommunications,Small Business,Netherlands,Amsterdam,56714,2022-12-02,8
-492,Burns PLC,Individual,Healthcare,Consumer,Netherlands,Amsterdam,14800,2026-05-02,4
-493,"Mcdaniel, Vega and Sharp",Individual,Healthcare,Consumer,Italy,Rome,32009,2023-04-20,19
-494,Campbell Ltd,Company,Retail,Small Business,Switzerland,Zurich,29157,2024-03-05,14
-495,Rowe-Brown,Individual,Healthcare,Consumer,Austria,Vienna,91444,2023-03-07,1
-496,Howard PLC,Company,IT,Corporate,Italy,Milan,88936,2022-07-30,14
-497,Robbins-Knox,Company,Education,Small Business,Spain,Madrid,48391,2026-01-03,20
-498,"Middleton, Herrera and Hart",Company,Manufacturing,Corporate,Belgium,Brussels,54762,2025-06-21,7
-499,Fuentes-Diaz,Company,Education,Consumer,Austria,Vienna,03128,2025-05-28,11
-500,"Rodgers, Garrett and Mcdonald",Company,Telecommunications,Corporate,Netherlands,Amsterdam,43150,2026-05-22,9
-501,Pittman-Hancock,Company,Retail,Small Business,Italy,Milan,15291,2022-11-21,19
-502,Nelson Group,Company,Education,Corporate,France,Lyon,44177,2026-01-14,5
-503,"Hughes, Patel and Hughes",Individual,Finance,Corporate,Italy,Rome,19067,2025-11-22,19
-504,Hughes PLC,Individual,Telecommunications,Corporate,Netherlands,Amsterdam,42848,2023-01-30,16
-505,"Smith, Wright and Olson",Individual,Logistics,Consumer,Netherlands,Amsterdam,82548,2025-04-08,9
-506,Anderson-Dunn,Company,Telecommunications,Consumer,France,Paris,38881,2025-11-16,6
-507,"Sullivan, Hill and Smith",Individual,Manufacturing,Consumer,Austria,Vienna,07551,2022-08-28,9
-508,Garcia-Evans,Company,Telecommunications,Small Business,Netherlands,Amsterdam,25081,2022-09-07,14
-509,Ross LLC,Company,Telecommunications,Corporate,Switzerland,Zurich,38388,2024-05-22,10
-510,"Wilcox, Cameron and Green",Company,IT,Consumer,Switzerland,Zurich,11808,2024-02-21,20
-511,Gilmore Inc,Company,Logistics,Corporate,Austria,Vienna,26861,2023-01-25,2
-512,Mckinney Ltd,Individual,Healthcare,Small Business,Belgium,Brussels,83498,2026-07-03,7
-513,"Coleman, Johnson and Gutierrez",Individual,Healthcare,Small Business,Netherlands,Amsterdam,33435,2023-04-15,4
-514,Thompson and Sons,Company,Healthcare,Consumer,Netherlands,Amsterdam,28958,2026-02-04,9
-515,Evans-Mckenzie,Company,Retail,Consumer,Spain,Madrid,81765,2024-11-10,7
-516,"Matthews, Gilbert and Mckinney",Individual,Healthcare,Small Business,Belgium,Brussels,88675,2025-12-27,15
-517,Gonzalez LLC,Individual,Finance,Consumer,Italy,Rome,60944,2023-01-20,20
-518,Roberts LLC,Company,Finance,Corporate,Belgium,Brussels,46206,2024-03-16,15
-519,"Santos, Meyer and Hart",Individual,Telecommunications,Consumer,Netherlands,Amsterdam,13423,2025-01-05,16
-520,"Jacobs, Barnes and Boyle",Individual,Education,Consumer,France,Paris,66800,2025-01-23,13
-521,Diaz PLC,Company,Logistics,Small Business,Switzerland,Zurich,69772,2024-06-25,19
-522,Estes-Cervantes,Individual,Manufacturing,Small Business,Austria,Vienna,07950,2024-12-25,14
-523,"Cowan, Graham and Lewis",Individual,Education,Corporate,Austria,Vienna,69732,2024-11-17,3
-524,Hamilton Group,Company,Telecommunications,Corporate,Switzerland,Zurich,41567,2023-02-17,5
-525,"Barnes, Henderson and Norman",Individual,IT,Corporate,Italy,Rome,44056,2024-04-14,9
-526,Thomas-Taylor,Company,Manufacturing,Corporate,Germany,Frankfurt,82718,2026-01-10,18
-527,Dennis Inc,Company,Retail,Small Business,Spain,Barcelona,96050,2024-04-21,3
-528,Meyer-Lynch,Individual,Finance,Small Business,Austria,Vienna,02053,2024-05-27,6
-529,Williams-Gross,Company,Education,Corporate,Spain,Barcelona,68484,2023-05-31,7
-530,Brown and Sons,Company,Healthcare,Corporate,France,Paris,05376,2022-11-05,10
-531,"Ruiz, Clark and Miller",Company,Education,Consumer,France,Paris,40178,2024-05-17,18
-532,Harris-Ayala,Company,Retail,Corporate,Spain,Barcelona,62474,2025-07-17,1
-533,Gray-Hernandez,Company,Manufacturing,Small Business,Switzerland,Zurich,69356,2024-11-22,19
-534,Jones-Hobbs,Company,Retail,Consumer,Spain,Barcelona,16996,2025-03-07,4
-535,Costa-Long,Company,Logistics,Small Business,Switzerland,Zurich,05335,2024-05-22,16
-536,Moody Group,Individual,Retail,Small Business,Netherlands,Amsterdam,03217,2023-07-30,12
-537,Ross-Zuniga,Company,Education,Corporate,Germany,Frankfurt,51283,2023-05-08,10
-538,Henry-Ortiz,Individual,Education,Consumer,Switzerland,Zurich,90485,2026-06-19,6
-539,"Rodriguez, Bell and Jones",Company,Healthcare,Small Business,Belgium,Brussels,81755,2026-03-05,16
-540,"Cunningham, Neal and Rhodes",Company,IT,Consumer,Italy,Milan,80260,2022-12-04,7
-541,Roberson-Lawrence,Individual,Logistics,Corporate,Italy,Rome,13268,2025-11-09,6
-542,"Smith, Washington and Torres",Company,Telecommunications,Consumer,Netherlands,Amsterdam,98237,2023-11-28,4
-543,Valdez PLC,Company,Logistics,Consumer,Netherlands,Amsterdam,81963,2023-02-04,14
-544,Tran-Patterson,Company,IT,Small Business,Austria,Vienna,61709,2024-10-31,17
-545,Nelson PLC,Company,Logistics,Consumer,Belgium,Brussels,19364,2026-04-13,6
-546,Vaughn-Stone,Company,Telecommunications,Corporate,Spain,Barcelona,70055,2024-02-18,17
-547,Ross Group,Individual,IT,Corporate,Germany,Frankfurt,76779,2022-08-27,16
-548,Humphrey-Wilson,Individual,IT,Corporate,Spain,Madrid,69869,2026-04-04,2
-549,"Ramos, Skinner and Fisher",Company,Finance,Consumer,Spain,Barcelona,03939,2024-10-07,6
-550,Gonzalez-Madden,Individual,Retail,Corporate,France,Lyon,83754,2024-03-29,12
-551,"Melendez, Young and Mcdaniel",Company,Retail,Corporate,Belgium,Brussels,46158,2024-02-21,7
-552,"Ortiz, Kim and Gardner",Individual,Telecommunications,Consumer,Italy,Milan,32951,2024-05-19,19
-553,Miles Ltd,Individual,Education,Small Business,Spain,Madrid,55275,2022-12-28,4
-554,"Ramirez, Jones and Jensen",Company,Retail,Small Business,Netherlands,Amsterdam,48617,2025-03-13,3
-555,"Robertson, Collins and Thomas",Individual,IT,Corporate,Italy,Rome,26921,2024-08-07,10
-556,"Price, Hicks and Miller",Individual,Education,Consumer,Austria,Vienna,41188,2026-01-25,19
-557,"Martinez, Jones and Hall",Individual,Manufacturing,Corporate,Austria,Vienna,72565,2023-05-19,18
-558,Stevens-Thomas,Individual,Retail,Corporate,Switzerland,Zurich,74689,2025-02-03,15
-559,Jackson-Goodwin,Company,Manufacturing,Corporate,France,Paris,37097,2026-01-15,20
-560,Oliver Ltd,Individual,Healthcare,Small Business,Belgium,Brussels,83394,2025-11-23,4
-561,Davis Inc,Company,Manufacturing,Consumer,Netherlands,Amsterdam,12804,2026-07-09,17
-562,"Simon, Reeves and Lopez",Company,Retail,Consumer,Spain,Barcelona,18525,2023-05-29,3
-563,Miller-Norris,Company,Manufacturing,Corporate,Spain,Barcelona,40814,2026-03-04,19
-564,Clark-Manning,Company,Education,Small Business,Belgium,Brussels,87686,2025-02-28,4
-565,Gonzalez Ltd,Company,Manufacturing,Small Business,Netherlands,Amsterdam,36952,2023-04-06,9
-566,"Dixon, Benjamin and Torres",Company,Finance,Corporate,Italy,Milan,16999,2023-11-29,11
-567,Montgomery-Jones,Company,Logistics,Consumer,Belgium,Brussels,88654,2024-06-03,6
-568,Johnson-Armstrong,Company,Manufacturing,Consumer,Switzerland,Zurich,97152,2023-07-10,5
-569,"Lewis, Fleming and Pittman",Individual,Healthcare,Consumer,Germany,Berlin,77026,2023-04-05,7
-570,Jackson-Silva,Individual,Manufacturing,Corporate,Germany,Frankfurt,82496,2023-08-08,12
-571,Davis-Archer,Company,Education,Small Business,Spain,Barcelona,61199,2023-06-05,17
-572,Johnson Group,Individual,Education,Corporate,Switzerland,Zurich,30461,2025-05-03,4
-573,Flynn-Ross,Company,Telecommunications,Corporate,Belgium,Brussels,49204,2024-10-08,20
-574,Martinez-Gibson,Company,Finance,Consumer,Austria,Vienna,46736,2026-06-25,16
-575,Oneill-Martin,Company,Finance,Consumer,Italy,Rome,94069,2025-03-04,10
-576,Young Inc,Individual,Healthcare,Small Business,Spain,Barcelona,92198,2023-02-07,15
-577,"Campbell, Huber and Cherry",Company,IT,Corporate,Belgium,Brussels,39311,2024-08-09,6
-578,Hubbard-Moore,Individual,Manufacturing,Consumer,Belgium,Brussels,03100,2023-09-29,4
-579,Diaz Group,Individual,Manufacturing,Corporate,Netherlands,Amsterdam,88264,2023-01-12,19
-580,Carter Group,Individual,Logistics,Small Business,Austria,Vienna,79177,2024-08-10,15
-581,Smith and Sons,Individual,Retail,Corporate,Spain,Barcelona,83540,2023-03-31,15
-582,Henderson-Ferguson,Individual,Manufacturing,Corporate,Belgium,Brussels,89230,2023-10-26,2
-583,Blake Ltd,Individual,Finance,Corporate,Belgium,Brussels,93202,2024-10-31,17
-584,Whitehead LLC,Individual,Healthcare,Consumer,France,Lyon,27033,2023-06-07,20
-585,"Neal, Rivera and Herrera",Individual,Telecommunications,Small Business,Germany,Frankfurt,64992,2026-02-01,11
-586,"Jones, Smith and Clark",Individual,Education,Corporate,Italy,Milan,87777,2022-10-15,17
-587,Parks-Hodge,Company,IT,Corporate,France,Lyon,81299,2024-12-06,4
-588,Powell-Nguyen,Individual,IT,Small Business,Italy,Milan,24074,2024-03-29,8
-589,Fernandez Ltd,Company,Retail,Consumer,Italy,Milan,79625,2026-06-13,3
-590,Smith-Shelton,Individual,Education,Small Business,Belgium,Brussels,61988,2026-07-07,18
-591,"Wallace, Hess and Morgan",Individual,Retail,Small Business,Belgium,Brussels,96223,2025-06-12,13
-592,Thompson-Myers,Company,Healthcare,Small Business,Germany,Frankfurt,24025,2026-05-21,3
-593,"Ruiz, Miller and Weiss",Individual,Education,Small Business,Germany,Frankfurt,59168,2026-05-29,5
-594,Lopez LLC,Company,Education,Corporate,Italy,Milan,48873,2025-09-26,17
-595,Parker PLC,Company,Healthcare,Small Business,Netherlands,Amsterdam,48211,2024-04-20,5
-596,Ramsey-Browning,Company,Finance,Small Business,Germany,Cologne,42994,2023-10-31,9
-597,Griffin-Ross,Company,Education,Consumer,Austria,Vienna,76728,2023-02-21,13
-598,"Perry, Barker and Melton",Company,Manufacturing,Corporate,Spain,Madrid,98974,2023-06-08,6
-599,Mercado-Chang,Individual,IT,Small Business,Spain,Barcelona,05054,2026-03-28,11
-600,Davis-Khan,Individual,Finance,Small Business,France,Paris,76859,2026-07-19,20
-601,"Hays, Humphrey and Sandoval",Individual,Finance,Small Business,Spain,Madrid,47271,2025-04-24,11
-602,Mayo PLC,Individual,Logistics,Small Business,Switzerland,Zurich,55623,2024-07-07,5
-603,Brooks-Singleton,Individual,Finance,Corporate,France,Marseille,47921,2025-12-01,10
-604,Blake Ltd,Company,Education,Consumer,Netherlands,Amsterdam,41393,2026-01-23,4
-605,Adams Inc,Individual,Manufacturing,Corporate,France,Marseille,03462,2023-04-06,1
-606,Williams-King,Individual,Retail,Small Business,Austria,Vienna,19495,2024-03-25,15
-607,Smith Inc,Company,Telecommunications,Consumer,Austria,Vienna,73198,2026-06-18,16
-608,Hamilton-Carson,Individual,IT,Consumer,Austria,Vienna,01462,2025-04-06,20
-609,"Munoz, Wilson and Olson",Company,Telecommunications,Small Business,Germany,Berlin,40950,2022-08-29,4
-610,Hoffman-Stevenson,Company,IT,Consumer,Spain,Barcelona,15070,2024-10-28,7
-611,"Logan, Castro and Davis",Individual,Finance,Consumer,France,Paris,93186,2024-01-10,20
-612,Martin-Richards,Company,Healthcare,Consumer,France,Lyon,54641,2026-06-02,10
-613,Lopez Group,Individual,Retail,Corporate,Spain,Barcelona,82335,2026-04-24,4
-614,"Bird, Bell and Flores",Individual,Retail,Corporate,Italy,Rome,92093,2024-05-21,15
-615,Graves-Norman,Individual,Healthcare,Consumer,Italy,Milan,41576,2026-06-23,4
-616,Ortiz-Gardner,Individual,Retail,Corporate,Switzerland,Zurich,37053,2023-04-28,20
-617,"Meyers, Scott and Anderson",Individual,Finance,Corporate,Spain,Madrid,67396,2022-11-07,11
-618,Sparks-Finley,Individual,IT,Small Business,Netherlands,Amsterdam,64618,2024-01-29,17
-619,Rogers Ltd,Individual,Telecommunications,Corporate,Austria,Vienna,93330,2025-06-27,3
-620,"Thompson, Schwartz and Thompson",Individual,Telecommunications,Small Business,Netherlands,Amsterdam,33172,2023-03-31,12
-621,Wilson and Sons,Company,Education,Corporate,France,Paris,67643,2024-01-22,11
-622,Howell-Robinson,Company,Retail,Consumer,Switzerland,Zurich,44866,2022-10-08,11
-623,Ray Group,Individual,Finance,Corporate,Belgium,Brussels,97736,2024-12-08,10
-624,Horne-Ellis,Company,IT,Consumer,Germany,Berlin,91432,2024-11-26,12
-625,Calhoun-Smith,Company,IT,Corporate,France,Lyon,25241,2024-08-29,6
-626,"Ortiz, Richardson and Anderson",Company,Manufacturing,Corporate,France,Lyon,69696,2024-11-28,4
-627,"Cervantes, Arellano and Castro",Company,Telecommunications,Small Business,Switzerland,Zurich,02238,2023-03-29,6
-628,Wheeler-Summers,Company,Logistics,Corporate,France,Paris,28410,2022-11-16,15
-629,Gonzales-Jones,Individual,Logistics,Consumer,Italy,Rome,66016,2024-05-21,12
-630,"Irwin, Hill and Adams",Company,IT,Corporate,France,Paris,11780,2026-02-07,12
-631,Cisneros and Sons,Company,Education,Corporate,Switzerland,Zurich,23425,2025-01-20,6
-632,"Gonzalez, Moore and Shelton",Company,Telecommunications,Consumer,Spain,Madrid,21726,2024-03-15,8
-633,"Pope, Cruz and Watts",Individual,Telecommunications,Corporate,France,Lyon,28503,2026-05-28,12
-634,"Jones, Mitchell and Nelson",Company,Telecommunications,Small Business,France,Marseille,55596,2025-01-20,5
-635,Parks Inc,Company,Finance,Corporate,Germany,Munich,66578,2023-09-04,12
-636,Bean LLC,Company,IT,Small Business,Austria,Vienna,82401,2026-04-22,20
-637,Gonzalez Ltd,Company,Manufacturing,Small Business,Germany,Berlin,03612,2024-09-07,18
-638,Freeman Inc,Individual,Education,Small Business,Netherlands,Amsterdam,75393,2022-08-08,20
-639,Morales PLC,Individual,IT,Small Business,Netherlands,Amsterdam,78170,2022-09-23,6
-640,"Hill, Holmes and Morales",Individual,Manufacturing,Consumer,Belgium,Brussels,53841,2025-11-13,2
-641,Gonzalez PLC,Individual,Telecommunications,Corporate,Spain,Madrid,86968,2024-09-06,4
-642,Hunter-Lopez,Company,Finance,Corporate,Austria,Vienna,04447,2026-01-19,12
-643,"Lopez, Fernandez and Griffin",Individual,Retail,Consumer,Belgium,Brussels,07676,2024-05-29,15
-644,"Hill, Weber and Mays",Individual,Healthcare,Consumer,Switzerland,Zurich,81517,2022-09-12,20
-645,Thomas-Howe,Individual,Telecommunications,Consumer,Germany,Frankfurt,68486,2025-07-02,7
-646,Thomas-Wood,Individual,Healthcare,Small Business,France,Lyon,75440,2022-10-23,16
-647,Myers-Irwin,Individual,Education,Consumer,France,Marseille,31640,2025-09-13,9
-648,Hunter-Johnson,Company,Telecommunications,Corporate,Austria,Vienna,05305,2023-11-30,18
-649,"James, Owen and King",Company,Telecommunications,Small Business,Germany,Frankfurt,41762,2023-02-06,4
-650,"Ryan, Mosley and Garcia",Individual,Retail,Consumer,France,Lyon,75642,2023-10-17,12
-651,Tucker PLC,Individual,Education,Small Business,Germany,Cologne,46943,2023-08-27,13
-652,Garcia Ltd,Company,Telecommunications,Small Business,Netherlands,Amsterdam,91672,2026-05-27,12
-653,"Lin, Walton and Whitehead",Individual,Healthcare,Small Business,Netherlands,Amsterdam,31036,2023-01-22,7
-654,Tran-Lewis,Company,Logistics,Small Business,Italy,Milan,63074,2026-01-21,17
-655,Allen LLC,Individual,Telecommunications,Small Business,Italy,Milan,39945,2025-11-02,7
-656,Anderson-Jones,Company,Retail,Corporate,Belgium,Brussels,79344,2024-06-18,17
-657,"Greer, Sandoval and Young",Company,Healthcare,Consumer,Belgium,Brussels,67918,2025-09-07,2
-658,"Salas, Scott and Donaldson",Company,Retail,Consumer,Germany,Frankfurt,75446,2024-12-19,19
-659,"Holloway, Nicholson and Brown",Company,Logistics,Small Business,Spain,Barcelona,70603,2024-12-26,16
-660,"Jennings, Bowman and Weiss",Company,Telecommunications,Consumer,Switzerland,Zurich,40723,2022-11-19,20
-661,Wiley Inc,Company,Manufacturing,Corporate,Germany,Cologne,93649,2026-04-12,19
-662,Torres Group,Company,Retail,Small Business,Switzerland,Zurich,23828,2023-07-13,13
-663,Espinoza-Smith,Individual,Manufacturing,Consumer,Germany,Cologne,31123,2026-05-26,12
-664,George Inc,Individual,IT,Small Business,Italy,Milan,29519,2022-11-05,10
-665,"Ballard, Craig and Joseph",Company,Retail,Corporate,Belgium,Brussels,56141,2023-06-16,20
-666,Luna-Morrison,Company,Healthcare,Small Business,Netherlands,Amsterdam,37332,2022-08-27,10
-667,Robinson Group,Individual,Healthcare,Consumer,Switzerland,Zurich,02727,2022-10-20,14
-668,Allen-Ochoa,Individual,IT,Small Business,Switzerland,Zurich,49834,2024-07-26,16
-669,"Parks, Pope and Williams",Company,Finance,Small Business,Belgium,Brussels,77244,2024-11-20,13
-670,Ho-Hernandez,Company,IT,Small Business,Spain,Barcelona,99532,2025-08-02,16
-671,Pacheco-Chambers,Individual,IT,Corporate,Italy,Milan,20136,2026-01-06,6
-672,Martin and Sons,Company,Education,Consumer,Spain,Madrid,26862,2023-10-18,20
-673,"Castro, Williams and Hamilton",Individual,Logistics,Small Business,Austria,Vienna,66297,2025-06-06,7
-674,Jordan Group,Individual,Healthcare,Small Business,Netherlands,Amsterdam,02848,2026-01-28,5
-675,Lynch LLC,Individual,IT,Consumer,Germany,Berlin,68890,2024-12-06,5
-676,"Carter, Patel and Matthews",Company,Telecommunications,Consumer,Germany,Hamburg,40761,2023-02-24,4
-677,"Rush, Williams and Wright",Individual,Healthcare,Consumer,Belgium,Brussels,51786,2023-06-30,3
-678,Kim-Carter,Company,Healthcare,Small Business,Netherlands,Amsterdam,86555,2024-12-15,16
-679,"Greer, Romero and Hanson",Company,IT,Corporate,Italy,Rome,28422,2026-02-11,7
-680,"Ward, Wilson and Brown",Company,Telecommunications,Consumer,France,Paris,76697,2023-06-17,2
-681,"Mcgee, Rush and Sandoval",Individual,Education,Consumer,Austria,Vienna,75669,2025-11-21,20
-682,Alexander LLC,Individual,IT,Corporate,Netherlands,Amsterdam,39630,2022-11-26,8
-683,Anderson-Jackson,Individual,Manufacturing,Small Business,Germany,Munich,13246,2024-12-16,16
-684,Stephens-Anderson,Company,Manufacturing,Consumer,Netherlands,Amsterdam,34498,2022-08-27,2
-685,Peterson LLC,Company,Logistics,Consumer,Spain,Barcelona,88613,2023-01-14,6
-686,"Miles, Hunt and Andersen",Individual,Education,Small Business,France,Marseille,05810,2023-04-24,11
-687,Hudson-Brown,Individual,IT,Consumer,Belgium,Brussels,52242,2023-08-03,7
-688,Campos Inc,Individual,Retail,Small Business,Switzerland,Zurich,84060,2023-02-15,16
-689,Martin-Malone,Individual,Healthcare,Consumer,Spain,Barcelona,33405,2026-03-03,13
-690,"Grant, Morris and Coleman",Individual,Retail,Corporate,Belgium,Brussels,53586,2022-10-11,2
-691,King-Reilly,Company,Telecommunications,Small Business,Germany,Cologne,54802,2024-02-26,16
-692,Sutton LLC,Company,Retail,Corporate,Spain,Madrid,02653,2024-02-15,1
-693,Mathews-Nielsen,Company,Finance,Corporate,France,Paris,21712,2024-06-22,14
-694,Scott-Williamson,Company,Finance,Corporate,Belgium,Brussels,00564,2023-10-26,10
-695,Huynh Group,Individual,Telecommunications,Consumer,Spain,Madrid,11198,2022-11-17,20
-696,Murphy-Ramos,Individual,Healthcare,Small Business,Germany,Munich,09384,2024-03-02,16
-697,Graves LLC,Individual,Retail,Small Business,Belgium,Brussels,87986,2024-08-19,10
-698,Hall-Herrera,Company,Healthcare,Corporate,France,Paris,84765,2024-09-05,9
-699,Torres-Bowman,Company,Telecommunications,Corporate,Germany,Berlin,85333,2025-05-25,3
-700,Gallegos and Sons,Individual,Finance,Consumer,Netherlands,Amsterdam,21439,2023-01-26,19
-701,Marshall Ltd,Individual,Healthcare,Consumer,Belgium,Brussels,79937,2023-02-11,2
-702,"Carroll, Hardy and Hayes",Individual,Finance,Corporate,France,Paris,83812,2023-01-22,10
-703,Long LLC,Company,Education,Corporate,France,Marseille,94405,2025-01-20,3
-704,Osborn-Lynn,Company,Logistics,Consumer,Netherlands,Amsterdam,80390,2023-08-11,12
-705,Davis Inc,Company,Finance,Small Business,Germany,Berlin,24914,2025-02-26,14
-706,Hester Inc,Individual,Manufacturing,Corporate,Italy,Milan,19495,2023-07-08,14
-707,Burns-Neal,Individual,Finance,Corporate,France,Marseille,51701,2023-08-14,1
-708,Jensen and Sons,Individual,Manufacturing,Corporate,Austria,Vienna,09097,2024-10-17,9
-709,Rodriguez Inc,Company,Finance,Consumer,Spain,Madrid,90567,2023-08-23,12
-710,Randall-Shea,Company,Healthcare,Consumer,Austria,Vienna,16063,2023-04-29,5
-711,Salas and Sons,Company,Telecommunications,Small Business,Switzerland,Zurich,36309,2026-04-04,12
-712,Griffin-Marquez,Company,Finance,Small Business,Switzerland,Zurich,61355,2024-09-19,1
-713,"Wilson, Patel and Mathis",Individual,Finance,Consumer,Belgium,Brussels,18556,2026-03-16,15
-714,Page LLC,Company,Healthcare,Corporate,France,Paris,63787,2026-03-26,4
-715,Gallagher-Dougherty,Company,Manufacturing,Small Business,Netherlands,Amsterdam,66187,2022-12-28,15
-716,"Myers, Taylor and Ortiz",Company,IT,Corporate,Spain,Madrid,25965,2024-12-04,10
-717,Hogan Group,Company,IT,Small Business,France,Paris,52889,2023-01-23,12
-718,"Smith, Turner and Watson",Individual,Education,Consumer,Netherlands,Amsterdam,76976,2023-11-18,1
-719,Mccall-Gonzalez,Company,Finance,Corporate,Belgium,Brussels,55140,2025-12-31,2
-720,Morgan-House,Individual,Manufacturing,Corporate,Germany,Frankfurt,73318,2025-11-19,7
-721,Martinez and Sons,Individual,Finance,Consumer,Germany,Munich,77105,2024-04-14,17
-722,Marquez-Martin,Company,Retail,Consumer,Netherlands,Amsterdam,13556,2026-01-14,5
-723,Ryan Inc,Company,IT,Corporate,Netherlands,Amsterdam,70578,2025-03-26,4
-724,Smith Group,Company,Retail,Small Business,Spain,Barcelona,80936,2024-12-04,3
-725,Smith Ltd,Company,IT,Consumer,Netherlands,Amsterdam,65150,2024-10-11,1
-726,Alexander-Rodriguez,Individual,Finance,Consumer,Germany,Munich,33425,2023-07-13,6
-727,Dodson-Melendez,Individual,Finance,Consumer,Netherlands,Amsterdam,89621,2024-10-14,9
-728,Burke Ltd,Individual,Healthcare,Small Business,Italy,Milan,54104,2023-03-31,12
-729,Martinez-Cameron,Company,Finance,Consumer,Switzerland,Zurich,97138,2024-12-08,15
-730,Little Inc,Company,Logistics,Corporate,Netherlands,Amsterdam,21685,2022-08-24,17
-731,Simmons Ltd,Company,Retail,Consumer,Belgium,Brussels,19112,2026-05-02,2
-732,"Berg, Ortiz and Spencer",Individual,Healthcare,Corporate,Belgium,Brussels,23041,2023-06-09,10
-733,"Hatfield, Prince and Moore",Individual,Retail,Small Business,Austria,Vienna,75987,2023-09-11,3
-734,"Shepherd, Bass and Hooper",Individual,Finance,Small Business,Belgium,Brussels,64252,2025-10-12,19
-735,Rivera-Collier,Company,Education,Consumer,Austria,Vienna,68660,2024-02-03,16
-736,"Keith, Walker and Perry",Company,Retail,Consumer,Switzerland,Zurich,51850,2026-04-26,4
-737,Barry-King,Individual,Finance,Corporate,Switzerland,Zurich,17974,2022-08-11,17
-738,Lopez Inc,Company,IT,Small Business,Italy,Rome,99160,2023-04-18,5
-739,Foster and Sons,Company,IT,Corporate,Italy,Rome,71079,2024-02-29,13
-740,Cooper LLC,Company,Logistics,Corporate,Belgium,Brussels,24501,2023-04-27,12
-741,"Holmes, Solis and Taylor",Individual,IT,Consumer,Germany,Hamburg,50933,2025-12-13,14
-742,Hill-Chen,Individual,Finance,Small Business,Belgium,Brussels,37800,2026-05-14,4
-743,Romero-Williams,Company,Education,Corporate,Italy,Milan,49977,2023-10-29,9
-744,Hunt PLC,Individual,Finance,Consumer,Spain,Barcelona,64302,2022-09-02,6
-745,Mendoza PLC,Company,Logistics,Consumer,Italy,Rome,64763,2025-05-16,10
-746,"Rodriguez, Guzman and Dunn",Company,Finance,Small Business,Austria,Vienna,45025,2023-07-06,14
-747,Leon-Anderson,Individual,Logistics,Small Business,Germany,Hamburg,66969,2025-08-10,18
-748,Barron Inc,Company,IT,Corporate,Netherlands,Amsterdam,92097,2026-03-26,9
-749,Kim Inc,Company,Telecommunications,Corporate,Spain,Barcelona,50657,2024-02-19,16
-750,"Barnes, Griffin and Jackson",Individual,Education,Corporate,Germany,Hamburg,52985,2025-05-17,10
-751,Pineda LLC,Company,Finance,Consumer,Belgium,Brussels,11154,2024-03-22,19
-752,Burke LLC,Company,Healthcare,Small Business,Belgium,Brussels,19248,2023-01-08,3
-753,Wilcox LLC,Individual,Manufacturing,Consumer,Italy,Rome,45547,2024-01-20,8
-754,Baxter-Brooks,Company,Manufacturing,Consumer,Italy,Milan,29960,2022-11-18,5
-755,Chen Group,Company,Healthcare,Consumer,Switzerland,Zurich,38309,2024-04-09,17
-756,Sullivan-Barnes,Company,Education,Corporate,Germany,Munich,51395,2025-07-01,17
-757,"Woodward, Hill and Johnson",Individual,IT,Small Business,Belgium,Brussels,28986,2024-10-07,2
-758,Francis-Smith,Individual,Education,Consumer,Belgium,Brussels,83207,2024-02-27,12
-759,Romero-Jones,Company,Logistics,Small Business,Germany,Berlin,11107,2026-01-24,3
-760,"Scott, Huffman and Burke",Company,Retail,Consumer,Italy,Milan,03010,2023-08-27,2
-761,Martin Inc,Individual,Telecommunications,Consumer,France,Marseille,06071,2025-11-13,11
-762,"Jones, Hill and Thornton",Individual,IT,Small Business,Netherlands,Amsterdam,07313,2025-02-21,13
-763,Miller-Peterson,Individual,IT,Consumer,Austria,Vienna,14035,2023-04-13,4
-764,"Williams, Edwards and Washington",Company,Manufacturing,Small Business,France,Lyon,48199,2025-10-19,10
-765,"Marshall, Blackwell and Lambert",Company,Finance,Corporate,France,Marseille,20499,2026-03-02,17
-766,Harrison-Morris,Individual,Manufacturing,Small Business,Belgium,Brussels,16954,2025-01-20,2
-767,Taylor-Johnson,Company,Manufacturing,Consumer,Switzerland,Zurich,09265,2023-04-24,16
-768,White Ltd,Company,Telecommunications,Corporate,Switzerland,Zurich,98730,2025-12-09,13
-769,"Greene, Ellis and Austin",Company,Education,Consumer,Austria,Vienna,29816,2025-09-22,17
-770,Rivera LLC,Company,Finance,Consumer,France,Marseille,57393,2025-03-15,6
-771,"Boyd, Moore and Cohen",Individual,Education,Consumer,Belgium,Brussels,96126,2024-02-05,17
-772,"Williams, Ramos and Rodriguez",Company,Logistics,Corporate,Germany,Berlin,14375,2025-03-09,1
-773,Galvan PLC,Individual,Retail,Small Business,Belgium,Brussels,31968,2022-12-04,11
-774,Kramer-Bolton,Company,Manufacturing,Consumer,Austria,Vienna,10603,2026-03-12,2
-775,Lang and Sons,Individual,Logistics,Consumer,Germany,Berlin,73817,2025-06-16,2
-776,Johnson Group,Individual,Manufacturing,Corporate,Netherlands,Amsterdam,65329,2023-01-25,20
-777,Ward and Sons,Company,Healthcare,Small Business,France,Marseille,21765,2026-07-23,3
-778,"Brown, Orozco and Rice",Individual,Finance,Consumer,Germany,Munich,84112,2022-09-15,17
-779,"Douglas, Becker and Hall",Company,Retail,Small Business,France,Lyon,05578,2025-09-16,10
-780,Anderson and Sons,Company,Manufacturing,Corporate,Germany,Munich,74868,2024-08-08,1
-781,Crane Ltd,Company,Logistics,Small Business,Italy,Rome,18226,2026-06-29,14
-782,Williams and Sons,Individual,Manufacturing,Corporate,Belgium,Brussels,43549,2025-12-01,3
-783,James-Novak,Individual,Logistics,Consumer,Netherlands,Amsterdam,08780,2026-01-07,9
-784,"Romero, Hodges and Sanchez",Individual,Retail,Corporate,Belgium,Brussels,42558,2023-08-18,5
-785,Moran PLC,Individual,Education,Small Business,Germany,Hamburg,97489,2025-12-18,14
-786,"Middleton, Tucker and Ward",Individual,Telecommunications,Consumer,Austria,Vienna,64040,2023-06-16,11
-787,Chen Inc,Company,Education,Small Business,Switzerland,Zurich,63198,2022-12-22,2
-788,Gomez-Wallace,Company,Manufacturing,Small Business,France,Lyon,12747,2023-04-02,3
-789,King-Ayala,Individual,Logistics,Consumer,Netherlands,Amsterdam,15870,2023-02-27,10
-790,"Mcbride, Marquez and Fuentes",Company,IT,Small Business,Spain,Madrid,91528,2025-04-25,9
-791,Lee PLC,Individual,IT,Corporate,Spain,Barcelona,05077,2022-10-26,5
-792,"Jordan, Davis and Morton",Company,Healthcare,Consumer,Belgium,Brussels,16669,2022-10-16,7
-793,Harper-Henry,Individual,Healthcare,Small Business,Austria,Vienna,82361,2025-12-20,10
-794,Obrien Ltd,Individual,Manufacturing,Corporate,Netherlands,Amsterdam,11244,2025-09-26,8
-795,"Garcia, Mitchell and Green",Individual,IT,Small Business,Germany,Berlin,89381,2025-11-11,3
-796,"Patton, Perez and Phillips",Individual,Logistics,Corporate,Germany,Hamburg,33919,2026-03-16,15
-797,Mercer PLC,Company,Finance,Corporate,Italy,Milan,99119,2024-05-16,5
-798,Chandler LLC,Company,Retail,Corporate,Switzerland,Zurich,16187,2022-11-26,12
-799,"Solis, Griffith and Tran",Individual,Manufacturing,Small Business,Italy,Rome,35547,2024-08-15,9
-800,Perez and Sons,Company,Telecommunications,Small Business,Switzerland,Zurich,90839,2026-04-15,12
-801,Jackson Group,Company,Logistics,Consumer,France,Paris,25534,2022-11-01,10
-802,Smith Group,Individual,Manufacturing,Small Business,France,Paris,70867,2025-09-10,6
-803,"Robles, Mills and Fowler",Individual,Telecommunications,Corporate,Spain,Madrid,53386,2025-06-30,5
-804,Fox-Rogers,Company,Logistics,Corporate,Austria,Vienna,04497,2022-12-28,3
-805,Mccall LLC,Company,Healthcare,Small Business,Italy,Milan,87614,2023-12-07,11
-806,Banks Ltd,Individual,Logistics,Corporate,Germany,Hamburg,09557,2023-09-19,16
-807,Mcbride-Smith,Individual,Logistics,Small Business,France,Paris,68084,2023-10-10,8
-808,"Kidd, Collins and Haney",Individual,Logistics,Small Business,Italy,Rome,02072,2025-08-14,13
-809,"Hart, Williams and Fitzpatrick",Individual,Telecommunications,Consumer,Netherlands,Amsterdam,48442,2025-08-12,7
-810,King-Mendez,Individual,Healthcare,Consumer,Italy,Milan,62729,2024-05-30,9
-811,"Kelly, Taylor and Hudson",Individual,Manufacturing,Consumer,Belgium,Brussels,39292,2023-05-31,20
-812,Hodges-Williams,Individual,Healthcare,Consumer,Germany,Cologne,20075,2025-12-16,15
-813,Hickman-Perez,Company,Finance,Corporate,Germany,Hamburg,30106,2026-07-06,10
-814,Frederick-Robinson,Individual,Finance,Small Business,Netherlands,Amsterdam,02628,2023-07-13,13
-815,"Newman, Short and Velasquez",Individual,Retail,Consumer,France,Lyon,65642,2024-10-12,10
-816,Dominguez-Hayes,Company,Healthcare,Consumer,Belgium,Brussels,63960,2023-02-06,10
-817,"Anderson, Allen and Salinas",Individual,Healthcare,Consumer,Austria,Vienna,72283,2024-04-03,7
-818,Weber-Dyer,Individual,Healthcare,Consumer,Spain,Madrid,33216,2023-06-21,11
-819,Moreno-Ortiz,Company,Manufacturing,Consumer,Netherlands,Amsterdam,16262,2023-03-12,6
-820,"Ross, Watson and Jordan",Company,Retail,Corporate,Switzerland,Zurich,29587,2023-11-17,10
-821,Edwards-Jenkins,Company,IT,Corporate,Austria,Vienna,76482,2024-04-26,16
-822,Nguyen-Benson,Company,Education,Consumer,Belgium,Brussels,80953,2025-04-14,16
-823,Rush-Houston,Individual,Finance,Corporate,Spain,Barcelona,75089,2023-10-09,15
-824,"Cain, Carpenter and Greene",Individual,Healthcare,Consumer,Switzerland,Zurich,27350,2025-11-11,14
-825,Robinson-Miller,Individual,Telecommunications,Consumer,France,Paris,52237,2026-02-07,14
-826,Anderson-Webb,Individual,Manufacturing,Consumer,Austria,Vienna,59674,2023-01-30,13
-827,"White, Montgomery and Miller",Individual,Retail,Small Business,Belgium,Brussels,13774,2025-02-18,13
-828,"Kim, Stephens and Garza",Company,Finance,Small Business,Germany,Cologne,18506,2023-07-15,1
-829,"Stevenson, Cox and Flynn",Company,Education,Small Business,Italy,Rome,66305,2024-04-25,19
-830,Stewart Inc,Company,Retail,Consumer,Germany,Frankfurt,04807,2022-10-27,6
-831,"Dyer, Holder and Calhoun",Individual,Logistics,Corporate,Austria,Vienna,03846,2023-02-06,14
-832,"Edwards, Ballard and Young",Individual,Healthcare,Consumer,Belgium,Brussels,55631,2025-03-31,8
-833,Dennis-Chang,Individual,Healthcare,Small Business,Italy,Rome,93364,2026-04-05,2
-834,Williams-Galloway,Company,Healthcare,Consumer,France,Paris,72859,2025-06-21,15
-835,Brown-Briggs,Company,IT,Consumer,Switzerland,Zurich,05458,2023-12-15,13
-836,Morales-Hernandez,Company,Manufacturing,Small Business,Belgium,Brussels,06969,2022-10-14,13
-837,Moore PLC,Company,Education,Consumer,Switzerland,Zurich,48223,2026-01-12,4
-838,"Hernandez, Sutton and Parsons",Individual,Telecommunications,Corporate,Belgium,Brussels,78107,2023-02-13,18
-839,Huff-Douglas,Individual,Retail,Corporate,Switzerland,Zurich,50820,2024-06-02,6
-840,"Finley, Dodson and Martinez",Company,Manufacturing,Consumer,Belgium,Brussels,37291,2023-08-15,16
-841,Lee PLC,Individual,Finance,Small Business,Austria,Vienna,94121,2024-05-28,12
-842,Sullivan Group,Individual,Education,Corporate,Spain,Madrid,97611,2022-10-26,7
-843,Thomas LLC,Individual,Education,Corporate,Netherlands,Amsterdam,41176,2025-01-15,6
-844,Thomas LLC,Company,Finance,Corporate,Spain,Madrid,66838,2025-07-20,10
-845,Alvarez Inc,Company,Retail,Small Business,Germany,Cologne,97591,2023-06-05,7
-846,Shepard Inc,Individual,Telecommunications,Corporate,Switzerland,Zurich,01804,2022-08-19,17
-847,Miller-Horn,Company,Healthcare,Consumer,Italy,Rome,23125,2023-04-10,8
-848,"Munoz, Nguyen and Diaz",Individual,Healthcare,Consumer,Austria,Vienna,75192,2022-10-08,20
-849,Estes-Griffin,Company,Finance,Corporate,Italy,Rome,95925,2023-03-15,4
-850,"Morris, Kennedy and Perkins",Company,Education,Small Business,Italy,Milan,07753,2025-12-29,20
-851,Wolfe LLC,Company,Retail,Consumer,Germany,Munich,17834,2023-10-03,4
-852,Gomez LLC,Individual,Finance,Consumer,Netherlands,Amsterdam,96042,2023-10-28,9
-853,Garcia LLC,Individual,Manufacturing,Consumer,Belgium,Brussels,33163,2024-08-04,11
-854,Brown-Wagner,Individual,Education,Small Business,Italy,Milan,15907,2024-06-21,7
-855,Harvey PLC,Individual,Telecommunications,Corporate,Switzerland,Zurich,22918,2026-03-15,15
-856,Acosta-Jones,Individual,Education,Corporate,Switzerland,Zurich,58128,2025-05-08,1
-857,"Shah, Walker and Perez",Individual,IT,Small Business,Spain,Barcelona,15539,2026-03-06,8
-858,Gallagher and Sons,Individual,Telecommunications,Corporate,France,Marseille,33198,2023-02-22,7
-859,"Vaughn, Montoya and Butler",Company,IT,Corporate,Netherlands,Amsterdam,99580,2026-01-30,9
-860,Scott and Sons,Company,Logistics,Small Business,Netherlands,Amsterdam,94662,2024-04-26,17
-861,Mills PLC,Individual,Education,Consumer,France,Paris,32514,2022-10-17,1
-862,Allen-Miller,Individual,Retail,Corporate,Netherlands,Amsterdam,70768,2024-05-03,6
-863,Raymond Group,Individual,Healthcare,Consumer,Austria,Vienna,19719,2025-02-27,2
-864,Rivera and Sons,Company,Healthcare,Corporate,Switzerland,Zurich,45563,2024-02-24,2
-865,Hutchinson Group,Company,Finance,Consumer,Germany,Berlin,06061,2026-01-27,14
-866,Evans Ltd,Company,Manufacturing,Small Business,Austria,Vienna,72324,2026-01-21,5
-867,Villanueva Inc,Company,Logistics,Consumer,Italy,Rome,46035,2026-07-23,11
-868,Lewis LLC,Company,Logistics,Corporate,Switzerland,Zurich,25370,2025-04-26,6
-869,"Allen, Padilla and Mercado",Company,Healthcare,Consumer,Spain,Barcelona,98211,2025-08-16,9
-870,Byrd-Thompson,Individual,Finance,Consumer,Spain,Barcelona,72801,2024-03-25,12
-871,Nguyen-Jordan,Company,Finance,Corporate,Spain,Madrid,51830,2023-05-29,8
-872,"Pollard, Everett and Adams",Company,Finance,Corporate,Switzerland,Zurich,29405,2024-09-25,16
-873,Johnson Inc,Company,Healthcare,Small Business,Spain,Madrid,81581,2022-12-11,5
-874,Kaiser and Sons,Company,Manufacturing,Corporate,Netherlands,Amsterdam,28229,2023-12-12,3
-875,"Arroyo, Friedman and Moran",Company,Healthcare,Small Business,Germany,Cologne,95840,2024-09-27,6
-876,Andrews PLC,Company,Retail,Consumer,Italy,Rome,78528,2026-06-04,11
-877,"Collins, Wright and Day",Company,Healthcare,Small Business,Austria,Vienna,43504,2025-04-13,19
-878,"Cook, Flynn and Gordon",Company,Manufacturing,Consumer,Spain,Barcelona,91856,2023-08-18,11
-879,"Evans, Yates and Moran",Company,Healthcare,Corporate,France,Marseille,14444,2023-04-25,19
-880,Fletcher-Garcia,Individual,Healthcare,Consumer,Switzerland,Zurich,46690,2024-03-20,17
-881,Gates-Savage,Individual,Retail,Small Business,Netherlands,Amsterdam,26667,2024-08-01,16
-882,"Shields, Forbes and Kirk",Individual,Logistics,Small Business,Spain,Madrid,12469,2022-08-03,12
-883,Miller Ltd,Company,Manufacturing,Small Business,France,Lyon,21422,2023-06-09,10
-884,Smith-Archer,Individual,Finance,Consumer,Netherlands,Amsterdam,55856,2026-06-14,9
-885,Robinson Inc,Individual,Retail,Corporate,Switzerland,Zurich,77004,2022-11-18,4
-886,"Rose, Fernandez and Gillespie",Individual,IT,Corporate,Switzerland,Zurich,62901,2026-03-12,2
-887,"Schwartz, Wilson and Nelson",Company,Education,Consumer,Spain,Madrid,14838,2025-04-07,8
-888,Cook Ltd,Company,Education,Consumer,Switzerland,Zurich,57648,2025-04-23,19
-889,Cuevas Inc,Company,IT,Small Business,Belgium,Brussels,85144,2025-05-28,6
-890,Gomez Ltd,Individual,Finance,Consumer,Belgium,Brussels,57746,2024-08-07,17
-891,Patterson and Sons,Company,Logistics,Corporate,Austria,Vienna,70206,2026-04-01,16
-892,Wilcox Group,Company,Manufacturing,Consumer,Netherlands,Amsterdam,64393,2023-02-09,10
-893,Bennett-Logan,Company,Education,Corporate,Germany,Frankfurt,36917,2025-10-26,2
-894,Crawford-Rocha,Individual,Finance,Small Business,Netherlands,Amsterdam,41743,2024-02-29,4
-895,"Walker, Smith and Hines",Individual,Healthcare,Corporate,France,Marseille,35378,2022-11-20,16
-896,Mendez Ltd,Individual,Logistics,Corporate,Belgium,Brussels,50826,2025-08-08,7
-897,"Moody, Russell and Davenport",Company,IT,Small Business,Germany,Munich,04313,2025-11-16,16
-898,Cole Ltd,Company,Logistics,Small Business,Belgium,Brussels,39846,2025-09-08,16
-899,Harvey-Nixon,Company,Healthcare,Small Business,France,Marseille,85867,2025-07-15,14
-900,Young-Stephens,Individual,Telecommunications,Corporate,Austria,Vienna,66662,2025-05-22,2
-901,Wright-Martinez,Company,Telecommunications,Small Business,Austria,Vienna,54687,2023-03-01,18
-902,"Williams, Smith and Mendoza",Individual,Logistics,Consumer,Belgium,Brussels,10800,2025-08-13,2
-903,"Perez, Avila and Moore",Individual,Logistics,Corporate,Germany,Hamburg,01508,2023-03-10,4
-904,Adams-Hill,Company,IT,Corporate,Switzerland,Zurich,37857,2025-08-24,9
-905,"Fuller, Valenzuela and Ware",Company,Education,Small Business,Belgium,Brussels,14566,2024-11-01,18
-906,"Paul, Lee and Reese",Company,Retail,Small Business,Germany,Frankfurt,88411,2023-12-19,16
-907,Douglas-Walters,Individual,Telecommunications,Corporate,Austria,Vienna,49710,2024-05-16,4
-908,Chaney and Sons,Company,Manufacturing,Consumer,Spain,Madrid,32316,2022-09-24,5
-909,Mcfarland-Leblanc,Company,IT,Consumer,Italy,Rome,43779,2024-11-07,6
-910,Ellis Ltd,Individual,Logistics,Small Business,Spain,Madrid,28096,2026-02-23,16
-911,Phelps Inc,Company,Education,Consumer,France,Lyon,08571,2026-07-06,8
-912,Morales-Rodriguez,Individual,Manufacturing,Consumer,Belgium,Brussels,97775,2023-03-29,5
-913,"Everett, Wilson and Simmons",Individual,Manufacturing,Small Business,Netherlands,Amsterdam,07415,2026-07-17,6
-914,Spencer-Myers,Individual,Retail,Small Business,Italy,Rome,33368,2026-05-04,14
-915,Stewart LLC,Individual,Finance,Consumer,Belgium,Brussels,32984,2026-06-24,6
-916,Howard-Baxter,Company,Finance,Small Business,Austria,Vienna,09909,2024-09-04,8
-917,"Miller, Harding and Davis",Company,Logistics,Corporate,Germany,Hamburg,55577,2025-09-19,11
-918,Jensen-Brennan,Individual,Manufacturing,Consumer,Germany,Hamburg,34863,2023-02-24,6
-919,Savage LLC,Individual,Finance,Small Business,Germany,Frankfurt,08864,2025-09-28,12
-920,"Drake, Johnston and Dillon",Company,Manufacturing,Consumer,Germany,Berlin,62409,2023-09-18,4
-921,Stuart-Rodgers,Company,Logistics,Corporate,France,Paris,90151,2024-07-08,4
-922,Garrett Group,Individual,Logistics,Corporate,Austria,Vienna,00756,2025-11-12,12
-923,"Baker, Rivera and Allen",Company,Retail,Corporate,Italy,Milan,22335,2023-05-30,10
-924,"Salazar, Luna and Boyle",Company,Telecommunications,Corporate,Italy,Milan,10174,2023-12-19,16
-925,Arnold PLC,Company,Retail,Consumer,Austria,Vienna,80462,2023-03-19,3
-926,"Garcia, Coleman and Moore",Individual,Education,Small Business,Belgium,Brussels,60995,2024-09-16,6
-927,"Davis, Banks and Hernandez",Company,Retail,Consumer,Germany,Cologne,51347,2023-11-21,14
-928,Gallegos-Barnett,Individual,IT,Corporate,France,Paris,80840,2023-07-05,11
-929,"Turner, Perez and Jones",Company,Education,Small Business,Austria,Vienna,23700,2026-07-16,14
-930,"Gonzalez, Gonzalez and Hernandez",Company,Telecommunications,Consumer,Netherlands,Amsterdam,61790,2022-11-01,10
-931,"Lara, Brooks and Bailey",Company,Telecommunications,Corporate,Austria,Vienna,07855,2026-01-28,8
-932,"Shaw, Holland and Middleton",Company,Retail,Small Business,Switzerland,Zurich,54352,2023-02-26,8
-933,Thornton-Snyder,Company,Telecommunications,Small Business,Germany,Hamburg,93994,2023-03-13,20
-934,"Rivera, Meyer and Peterson",Individual,Healthcare,Corporate,Belgium,Brussels,73834,2024-03-07,2
-935,Stephens-Guerra,Company,Finance,Corporate,France,Marseille,71810,2025-11-09,12
-936,Wilson PLC,Individual,Manufacturing,Consumer,Switzerland,Zurich,64174,2025-08-30,9
-937,Shaw-Hahn,Individual,Education,Small Business,Switzerland,Zurich,92767,2024-08-29,10
-938,Pineda-Massey,Individual,Retail,Consumer,Italy,Milan,72380,2025-02-09,13
-939,"Carlson, Bates and Spence",Company,Education,Small Business,Belgium,Brussels,16923,2024-09-18,5
-940,"Bentley, Wood and Mcclure",Individual,Education,Corporate,Belgium,Brussels,95424,2024-06-19,6
-941,Pena-Cooper,Individual,IT,Small Business,Belgium,Brussels,12157,2023-10-02,20
-942,Fleming-Knox,Individual,Healthcare,Corporate,Netherlands,Amsterdam,13969,2024-07-26,8
-943,Chase-Nicholson,Individual,Retail,Consumer,Switzerland,Zurich,69106,2023-12-01,6
-944,Terry-Meza,Individual,Telecommunications,Small Business,Netherlands,Amsterdam,27951,2025-08-12,16
-945,"Sharp, Parker and Prince",Company,Telecommunications,Consumer,Austria,Vienna,65025,2024-10-07,12
-946,"Joseph, Espinoza and Brown",Individual,Logistics,Consumer,Germany,Cologne,60009,2024-01-18,11
-947,Brock LLC,Company,Manufacturing,Consumer,Netherlands,Amsterdam,96192,2025-03-16,7
-948,"Delgado, Simmons and Rogers",Individual,Finance,Small Business,Germany,Frankfurt,22247,2025-04-21,1
-949,"Jones, Bennett and Medina",Individual,Logistics,Small Business,Germany,Hamburg,18182,2023-01-29,6
-950,"Harris, Craig and Hale",Individual,Manufacturing,Corporate,Switzerland,Zurich,61277,2026-01-19,12
-951,Mccormick Group,Individual,Logistics,Small Business,Germany,Frankfurt,51031,2025-02-26,7
-952,Long Group,Individual,Healthcare,Small Business,Netherlands,Amsterdam,76962,2022-12-17,16
-953,Clark LLC,Company,Healthcare,Small Business,Belgium,Brussels,95070,2022-09-23,1
-954,Meyer Group,Individual,Education,Corporate,Germany,Cologne,38518,2024-01-02,6
-955,Richard-Martinez,Individual,Education,Corporate,Netherlands,Amsterdam,33013,2025-12-02,20
-956,Kirk-Clark,Individual,Healthcare,Small Business,Netherlands,Amsterdam,69296,2025-09-21,6
-957,"Shah, Long and Smith",Company,Education,Corporate,Netherlands,Amsterdam,81962,2023-04-07,12
-958,"Williams, Robinson and Davis",Individual,Retail,Small Business,Germany,Cologne,96877,2024-02-23,10
-959,Terry-Baldwin,Individual,Retail,Corporate,Austria,Vienna,93139,2022-08-23,19
-960,"Parks, Colon and Miller",Individual,Retail,Consumer,Spain,Barcelona,88387,2025-02-21,20
-961,"Thompson, Boone and Lucas",Individual,Logistics,Consumer,Belgium,Brussels,66255,2024-03-30,15
-962,Gibson-Morris,Individual,Education,Corporate,France,Paris,14223,2022-11-21,5
-963,"Taylor, Barnes and Reed",Individual,IT,Small Business,Italy,Rome,64101,2026-01-20,15
-964,Fuller Group,Individual,Logistics,Corporate,Netherlands,Amsterdam,02518,2023-06-09,12
-965,Lee-Leach,Individual,Telecommunications,Small Business,Netherlands,Amsterdam,06671,2023-10-05,10
-966,Ferguson-Bailey,Individual,Retail,Consumer,Germany,Hamburg,54471,2025-11-12,15
-967,"Garza, Jones and Allison",Company,Telecommunications,Consumer,Switzerland,Zurich,66049,2025-11-19,20
-968,Poole and Sons,Individual,Manufacturing,Small Business,Belgium,Brussels,69508,2023-09-04,15
-969,Long-Zimmerman,Individual,Retail,Consumer,Belgium,Brussels,31309,2026-04-23,16
-970,Franklin PLC,Company,Logistics,Corporate,Netherlands,Amsterdam,96712,2023-01-04,15
-971,Mora-Banks,Individual,IT,Small Business,France,Marseille,52244,2023-06-15,15
-972,"Harris, Deleon and Brown",Individual,Healthcare,Small Business,Netherlands,Amsterdam,25515,2025-06-03,10
-973,"Weaver, Ward and Price",Individual,Education,Small Business,Switzerland,Zurich,23619,2025-01-10,18
-974,"Newton, Michael and Johnson",Company,Education,Small Business,Austria,Vienna,51076,2025-11-07,10
-975,Massey and Sons,Individual,Finance,Small Business,Belgium,Brussels,53025,2022-12-30,5
-976,Webb Ltd,Individual,Healthcare,Consumer,Switzerland,Zurich,47809,2026-03-16,17
-977,Cohen Inc,Company,Education,Small Business,Switzerland,Zurich,76463,2022-11-27,20
-978,Henry Ltd,Individual,Telecommunications,Consumer,Germany,Frankfurt,20707,2023-02-04,16
-979,Barrett Ltd,Company,Manufacturing,Consumer,Switzerland,Zurich,64142,2025-03-30,8
-980,Allen-Fletcher,Individual,Logistics,Small Business,Belgium,Brussels,13165,2024-08-19,6
-981,"Jones, Ramirez and Stewart",Individual,Logistics,Small Business,France,Lyon,20875,2026-02-01,16
-982,Glenn-Flores,Company,IT,Small Business,Spain,Madrid,98044,2024-01-20,13
-983,Anderson PLC,Company,Retail,Small Business,Spain,Madrid,74765,2026-02-26,19
-984,"Nelson, Webb and Long",Individual,Education,Corporate,Italy,Milan,01139,2025-08-15,12
-985,"Holt, Carter and Johnson",Individual,Healthcare,Small Business,Spain,Madrid,98973,2023-01-12,19
-986,Armstrong-Ayala,Company,Telecommunications,Consumer,Italy,Rome,76044,2024-01-30,13
-987,Bradley Ltd,Company,Manufacturing,Corporate,France,Marseille,14152,2024-01-02,11
-988,Huff Group,Individual,Healthcare,Small Business,Spain,Madrid,07063,2023-04-07,6
-989,"Vaughn, Whitehead and Joseph",Individual,Manufacturing,Consumer,Spain,Barcelona,17449,2025-07-27,13
-990,Williams-Frazier,Company,Healthcare,Consumer,Switzerland,Zurich,02714,2022-10-10,12
-991,"Barron, Jimenez and Gray",Company,Finance,Corporate,Italy,Milan,67508,2023-07-24,5
-992,Mcdonald-Butler,Company,Healthcare,Corporate,Belgium,Brussels,92542,2023-07-16,19
-993,Miller Ltd,Individual,Logistics,Small Business,Switzerland,Zurich,68709,2026-01-30,14
-994,"Phelps, Owen and Williams",Individual,Manufacturing,Consumer,Switzerland,Zurich,69639,2025-01-01,9
-995,"Martin, Barajas and Stafford",Individual,Manufacturing,Small Business,Austria,Vienna,69125,2025-09-28,19
-996,"Floyd, Wilson and Rios",Individual,Healthcare,Small Business,Switzerland,Zurich,18569,2025-10-06,4
-997,Williamson Group,Individual,Manufacturing,Consumer,Austria,Vienna,30092,2025-11-29,10
-998,Cummings-Butler,Company,Education,Small Business,Austria,Vienna,37737,2025-11-13,12
-999,Garcia-Love,Company,Telecommunications,Small Business,Belgium,Brussels,04509,2022-12-15,17
-1000,Martinez PLC,Individual,Finance,Consumer,Belgium,Brussels,92055,2023-09-14,5
+1,"Ball, Johnson and Burch",Company,Education,Corporate,Belgium,Brussels,37883,2023-06-02,4
+2,Martinez-Chandler,Individual,Manufacturing,Consumer,Italy,Milan,52421,2025-11-24,13
+3,Swanson-Lee,Individual,Logistics,Consumer,Netherlands,Amsterdam,06608,2023-06-15,13
+4,"Hooper, Adkins and Hill",Company,Finance,Consumer,Spain,Madrid,66013,2025-10-05,4
+5,Maynard-Jackson,Individual,Logistics,Consumer,Germany,Cologne,63919,2024-02-24,16
+6,"Friedman, Carter and Hensley",Individual,Retail,Small Business,Spain,Madrid,89614,2023-01-08,11
+7,Garcia-Schneider,Company,Education,Consumer,Italy,Rome,86939,2022-10-31,15
+8,"Cuevas, Gonzalez and Johnson",Company,Healthcare,Corporate,Italy,Rome,73941,2023-10-16,18
+9,Clark Group,Company,Finance,Corporate,France,Marseille,84621,2022-09-13,19
+10,Chapman PLC,Individual,IT,Corporate,Spain,Madrid,52095,2024-01-15,20
+11,Lopez LLC,Company,Telecommunications,Corporate,Austria,Vienna,86845,2023-03-16,17
+12,Mcknight Inc,Company,Finance,Small Business,Austria,Vienna,65779,2025-11-29,19
+13,Smith and Sons,Company,Education,Consumer,France,Paris,18175,2025-07-29,8
+14,Rodgers-Graham,Company,Logistics,Small Business,Netherlands,Amsterdam,87900,2023-03-20,9
+15,Tucker-Santos,Individual,Retail,Consumer,Netherlands,Amsterdam,01645,2023-12-24,16
+16,Compton-Murray,Company,Telecommunications,Consumer,Italy,Milan,62173,2025-07-30,4
+17,Stafford Group,Individual,Finance,Corporate,France,Marseille,41006,2023-02-18,9
+18,Gaines LLC,Company,Healthcare,Consumer,Belgium,Brussels,10213,2023-07-30,19
+19,Meyer-Lopez,Company,Healthcare,Consumer,Belgium,Brussels,92747,2023-01-31,9
+20,"Garcia, Brown and Rivera",Individual,Healthcare,Consumer,Germany,Cologne,74827,2026-01-30,19
+21,Miller PLC,Company,Healthcare,Corporate,Belgium,Brussels,51412,2025-01-16,13
+22,Reed Ltd,Individual,Healthcare,Corporate,Spain,Madrid,47895,2024-08-12,14
+23,"Rodriguez, Williams and Welch",Individual,Retail,Small Business,Spain,Barcelona,16536,2025-01-17,12
+24,Yates Inc,Company,Healthcare,Corporate,Netherlands,Amsterdam,06864,2026-01-18,12
+25,Strong-Lee,Individual,Logistics,Corporate,France,Paris,34306,2024-12-14,13
+26,"Walker, Stone and Hernandez",Company,Education,Consumer,Austria,Vienna,87206,2025-01-25,13
+27,Malone Inc,Individual,Finance,Corporate,Austria,Vienna,31772,2024-06-05,3
+28,Stewart PLC,Individual,Logistics,Corporate,Germany,Frankfurt,42441,2026-07-09,16
+29,Bowers-Brown,Company,Healthcare,Small Business,France,Paris,56217,2023-02-20,17
+30,Sutton Ltd,Company,Retail,Small Business,Belgium,Brussels,32608,2025-10-09,18
+31,Jensen PLC,Individual,Healthcare,Small Business,Switzerland,Zurich,59398,2022-11-26,5
+32,"Robertson, Ramos and Martin",Company,Logistics,Small Business,Germany,Cologne,72009,2023-01-09,8
+33,Osborn-Nunez,Individual,Education,Small Business,France,Paris,00923,2026-03-20,12
+34,Roberts-Reynolds,Individual,Healthcare,Small Business,France,Paris,76262,2025-12-01,7
+35,Beck Ltd,Company,Manufacturing,Corporate,Austria,Vienna,26159,2022-11-17,18
+36,"Beard, Torres and Crawford",Company,Healthcare,Small Business,France,Paris,26024,2025-08-07,1
+37,Johnson PLC,Company,Logistics,Small Business,Netherlands,Amsterdam,86300,2023-01-29,14
+38,Anderson Inc,Individual,Finance,Corporate,Netherlands,Amsterdam,37131,2024-02-01,6
+39,Clark PLC,Individual,Healthcare,Consumer,Switzerland,Zurich,21468,2024-12-25,11
+40,King Inc,Individual,Finance,Consumer,Netherlands,Amsterdam,30301,2025-05-24,4
+41,Edwards PLC,Company,Manufacturing,Small Business,Switzerland,Zurich,19017,2023-02-05,4
+42,"Waller, Todd and Wilson",Company,Education,Consumer,Spain,Barcelona,73550,2023-07-14,20
+43,"Green, Ramos and Williams",Company,Retail,Consumer,France,Marseille,43629,2025-06-24,7
+44,Lawson Inc,Company,Retail,Corporate,Austria,Vienna,80179,2024-04-17,7
+45,Wallace-Hansen,Individual,Manufacturing,Small Business,Switzerland,Zurich,29081,2025-10-07,9
+46,"Sanders, Clark and Downs",Individual,Retail,Consumer,Austria,Vienna,54968,2023-01-17,15
+47,Gibbs PLC,Company,Healthcare,Small Business,Belgium,Brussels,31056,2023-05-17,2
+48,Chen-King,Company,Logistics,Corporate,Belgium,Brussels,88843,2025-03-14,5
+49,Brown-Klein,Individual,Education,Consumer,France,Paris,78400,2023-07-24,5
+50,"Young, Nguyen and Pennington",Individual,IT,Consumer,Austria,Vienna,94016,2025-06-26,1
+51,Carson Ltd,Company,IT,Corporate,Germany,Cologne,38242,2026-04-28,9
+52,Chapman Inc,Company,Manufacturing,Small Business,Italy,Milan,02795,2026-02-01,14
+53,"Morton, Anderson and Salazar",Company,IT,Corporate,Switzerland,Zurich,55251,2023-12-04,7
+54,"Schneider, Spencer and Avila",Company,IT,Consumer,Germany,Hamburg,96238,2025-03-18,20
+55,Harvey LLC,Individual,IT,Corporate,Spain,Madrid,26420,2023-03-14,9
+56,"Evans, Bennett and Barber",Company,Manufacturing,Corporate,Switzerland,Zurich,85490,2023-01-02,4
+57,"Simmons, Parks and Walsh",Individual,Finance,Consumer,Spain,Madrid,66420,2022-12-12,5
+58,"Brooks, Calderon and Jimenez",Individual,Finance,Corporate,Netherlands,Amsterdam,35567,2025-09-07,15
+59,Richmond-Smith,Company,Logistics,Small Business,Germany,Berlin,26688,2023-01-14,1
+60,"Stevens, Butler and Rodriguez",Company,IT,Small Business,Austria,Vienna,64022,2026-03-18,16
+61,"Woodward, Delgado and Acosta",Company,Manufacturing,Corporate,Belgium,Brussels,16487,2026-05-05,1
+62,Valdez-Vazquez,Individual,Education,Small Business,France,Marseille,42703,2026-04-01,12
+63,"Howard, White and Harris",Company,IT,Corporate,Switzerland,Zurich,58159,2022-12-03,2
+64,"Hinton, Horn and Williams",Individual,Retail,Consumer,Austria,Vienna,16722,2023-06-08,12
+65,Norman and Sons,Company,Finance,Small Business,Spain,Barcelona,75986,2024-05-24,18
+66,"Cook, Griffin and Thomas",Company,Finance,Corporate,Spain,Barcelona,40463,2024-05-19,1
+67,"Cain, Wyatt and Harris",Company,Finance,Corporate,Spain,Madrid,46677,2025-07-08,5
+68,Campbell and Sons,Individual,Retail,Corporate,Germany,Munich,37266,2023-04-30,11
+69,Liu-Sampson,Company,Telecommunications,Small Business,Austria,Vienna,32891,2024-11-16,12
+70,Wilcox LLC,Company,Education,Small Business,Netherlands,Amsterdam,71221,2024-06-23,15
+71,Shelton-Estrada,Individual,Healthcare,Corporate,Netherlands,Amsterdam,58489,2025-11-26,18
+72,"Garcia, Little and Robbins",Company,Telecommunications,Small Business,Netherlands,Amsterdam,39095,2024-07-26,17
+73,Miller LLC,Company,Healthcare,Corporate,Austria,Vienna,04175,2023-01-12,10
+74,Flowers Inc,Company,Healthcare,Consumer,Germany,Frankfurt,74290,2023-11-10,8
+75,"Hall, Freeman and Fernandez",Individual,Logistics,Small Business,Switzerland,Zurich,88097,2023-12-15,10
+76,Wilkerson Ltd,Company,Logistics,Corporate,Spain,Barcelona,54003,2026-04-30,16
+77,Ball-Erickson,Company,Finance,Small Business,Switzerland,Zurich,64757,2024-05-31,14
+78,"Berg, Morgan and Howard",Company,Telecommunications,Consumer,France,Marseille,59361,2023-01-14,7
+79,"Wells, Young and Stewart",Company,Education,Consumer,Belgium,Brussels,58986,2023-06-11,17
+80,Sloan-Alvarado,Individual,Finance,Consumer,Spain,Barcelona,71700,2023-07-21,4
+81,Martinez Inc,Individual,Finance,Consumer,Germany,Hamburg,25609,2024-09-30,5
+82,Young-Wheeler,Individual,IT,Consumer,France,Lyon,47453,2024-03-27,17
+83,"Reilly, Ramirez and Sosa",Company,Telecommunications,Small Business,Italy,Milan,98296,2023-12-06,18
+84,"Nelson, Hall and Robertson",Company,Manufacturing,Corporate,France,Marseille,96750,2023-08-14,10
+85,"Duran, Dean and Wells",Individual,Education,Corporate,Austria,Vienna,71960,2024-03-05,11
+86,Martinez Group,Individual,Finance,Consumer,Belgium,Brussels,09094,2025-05-12,6
+87,Fitzgerald-Newton,Individual,Telecommunications,Consumer,Austria,Vienna,29631,2025-03-28,7
+88,Bradley Inc,Company,Education,Consumer,Austria,Vienna,61254,2023-02-18,17
+89,"Johnston, Griffith and Miller",Individual,Retail,Corporate,Italy,Rome,68264,2023-04-04,2
+90,"Anderson, Lee and King",Individual,IT,Corporate,Austria,Vienna,84933,2025-09-30,3
+91,"Graham, Weeks and Burke",Company,Telecommunications,Corporate,Austria,Vienna,97626,2026-02-05,8
+92,"Smith, Blackwell and Williams",Company,Healthcare,Corporate,France,Paris,03346,2024-05-03,15
+93,Miller-Day,Individual,Healthcare,Consumer,France,Lyon,23855,2026-07-03,3
+94,"Wood, Mitchell and Allen",Individual,Telecommunications,Small Business,Austria,Vienna,29511,2023-11-11,1
+95,"Weiss, Nguyen and Morris",Individual,Telecommunications,Consumer,Belgium,Brussels,09480,2024-11-23,12
+96,Rojas-Morton,Company,IT,Small Business,Germany,Cologne,17728,2025-11-12,16
+97,Stevens PLC,Company,Healthcare,Corporate,Germany,Hamburg,25382,2023-03-02,18
+98,"Ritter, Myers and Lewis",Individual,Manufacturing,Corporate,Switzerland,Zurich,11012,2026-03-09,8
+99,Freeman-Rose,Company,Retail,Corporate,Netherlands,Amsterdam,27477,2026-07-30,4
+100,"Holt, Lloyd and Frey",Individual,IT,Corporate,Netherlands,Amsterdam,78701,2023-06-13,12
+101,Lara-Williams,Individual,Logistics,Small Business,Italy,Rome,66953,2024-10-07,19
+102,"Fischer, Smith and Davis",Individual,Manufacturing,Small Business,Netherlands,Amsterdam,35863,2023-10-04,14
+103,Chambers-Williams,Individual,IT,Corporate,Spain,Madrid,00533,2023-08-27,6
+104,Rosales-Zimmerman,Company,Manufacturing,Small Business,Italy,Rome,68453,2024-06-01,16
+105,"Mendoza, Reed and Lara",Company,Retail,Corporate,Germany,Berlin,69480,2024-04-19,12
+106,Alexander Group,Company,Healthcare,Small Business,Switzerland,Zurich,63607,2026-03-11,15
+107,"Stephenson, Jones and Chavez",Company,IT,Corporate,Switzerland,Zurich,78860,2025-03-13,1
+108,White-Jones,Individual,Manufacturing,Consumer,Switzerland,Zurich,48932,2025-04-09,14
+109,Hogan PLC,Individual,Education,Consumer,Austria,Vienna,41924,2025-01-06,12
+110,"Scott, Grimes and Nelson",Company,Finance,Consumer,Italy,Milan,17323,2024-12-02,5
+111,Snow-Sanchez,Company,Finance,Small Business,Austria,Vienna,27655,2024-08-16,13
+112,Allen Ltd,Company,Retail,Corporate,Belgium,Brussels,78438,2023-09-07,9
+113,"Gay, Harris and Jones",Individual,Manufacturing,Consumer,France,Lyon,09240,2023-09-14,7
+114,"Yoder, Stewart and Price",Company,Manufacturing,Corporate,Germany,Frankfurt,29954,2024-05-15,1
+115,Parks-Marquez,Individual,Retail,Consumer,France,Paris,94138,2026-04-05,10
+116,"Snyder, Schwartz and Hernandez",Individual,Education,Consumer,Germany,Munich,72694,2025-11-15,16
+117,Baker-Shelton,Company,Manufacturing,Corporate,France,Lyon,98136,2025-03-31,13
+118,Clay-Harrison,Company,Education,Corporate,Germany,Cologne,32951,2023-10-04,17
+119,Castro-Monroe,Individual,Retail,Small Business,Italy,Rome,53787,2026-06-07,18
+120,Stewart-Flores,Individual,Retail,Consumer,Austria,Vienna,93451,2026-06-07,7
+121,"Schwartz, Franco and Baird",Company,IT,Consumer,Switzerland,Zurich,95740,2023-04-17,16
+122,"Mendez, Parsons and Franklin",Individual,Retail,Small Business,Netherlands,Amsterdam,45053,2023-06-26,12
+123,Turner PLC,Company,IT,Consumer,Italy,Milan,75684,2025-07-03,18
+124,Miller-Erickson,Company,IT,Small Business,Spain,Barcelona,08285,2024-05-19,17
+125,"Thompson, Fisher and Hansen",Company,Logistics,Consumer,France,Paris,43892,2023-05-21,20
+126,Moody-Martin,Company,Logistics,Small Business,Austria,Vienna,66702,2023-12-14,15
+127,Jones Ltd,Company,Manufacturing,Consumer,Switzerland,Zurich,09183,2022-09-26,16
+128,Miller-Guerra,Company,IT,Small Business,Netherlands,Amsterdam,82997,2024-08-02,8
+129,"Marshall, Finley and Jackson",Individual,IT,Consumer,Spain,Barcelona,04603,2022-09-08,19
+130,David PLC,Individual,Healthcare,Small Business,Switzerland,Zurich,82602,2024-05-07,13
+131,Barnes-Barber,Company,Healthcare,Consumer,Switzerland,Zurich,71794,2025-10-09,13
+132,Roberts Ltd,Individual,Finance,Corporate,France,Lyon,80322,2025-10-19,4
+133,"Jordan, Brown and Martinez",Company,Manufacturing,Corporate,Spain,Barcelona,51670,2022-10-17,4
+134,Washington-Williams,Individual,IT,Corporate,Germany,Hamburg,55658,2023-06-19,12
+135,"Smith, Nunez and Fuller",Individual,Logistics,Small Business,Austria,Vienna,66526,2026-01-24,7
+136,Pierce Ltd,Company,Education,Consumer,Germany,Berlin,11943,2023-07-01,3
+137,Sparks-Brown,Company,Education,Corporate,Belgium,Brussels,97220,2025-03-27,2
+138,Manning-Russell,Individual,Finance,Consumer,Austria,Vienna,33444,2023-03-25,14
+139,Nolan-Esparza,Individual,IT,Small Business,Italy,Milan,47521,2024-03-27,4
+140,Randall-Graves,Company,Retail,Consumer,Spain,Barcelona,05711,2024-11-02,16
+141,"Dalton, Johnson and Rose",Company,IT,Corporate,Italy,Milan,41183,2023-02-14,12
+142,"Jordan, Mccann and Coleman",Individual,Education,Small Business,Belgium,Brussels,31915,2026-07-03,2
+143,"Clements, Middleton and Lee",Individual,Healthcare,Small Business,France,Marseille,50331,2025-08-27,5
+144,Yang-Hill,Individual,Healthcare,Small Business,Switzerland,Zurich,21800,2025-08-20,17
+145,Morris-Martinez,Individual,Retail,Consumer,Spain,Barcelona,39330,2024-05-30,9
+146,Gonzalez PLC,Company,Healthcare,Consumer,France,Lyon,36381,2023-01-11,6
+147,Andrade and Sons,Individual,Healthcare,Small Business,Italy,Rome,14409,2024-02-29,19
+148,Allison and Sons,Individual,Logistics,Small Business,Switzerland,Zurich,44980,2025-04-10,6
+149,Carter-Hill,Individual,Healthcare,Small Business,Netherlands,Amsterdam,21201,2025-08-22,4
+150,"Dunn, Garcia and Flowers",Company,Manufacturing,Small Business,Switzerland,Zurich,56271,2023-04-14,7
+151,Miller-Ortiz,Company,Healthcare,Consumer,Spain,Barcelona,85141,2022-08-29,8
+152,Black Group,Individual,Telecommunications,Consumer,France,Paris,69771,2026-05-30,11
+153,Wolfe-Allison,Company,Logistics,Consumer,Spain,Madrid,07397,2022-09-27,2
+154,Sanders Ltd,Company,Retail,Consumer,Italy,Milan,80539,2023-06-10,2
+155,Robbins-White,Individual,Logistics,Small Business,Germany,Cologne,42009,2025-10-19,1
+156,"Castro, Kim and Morrow",Individual,IT,Corporate,Spain,Barcelona,27322,2024-11-30,2
+157,Dougherty-Brooks,Individual,IT,Small Business,Netherlands,Amsterdam,20298,2025-03-25,4
+158,Anderson Group,Individual,Telecommunications,Corporate,Austria,Vienna,99904,2025-12-23,1
+159,Avery-Johnson,Individual,Education,Corporate,Austria,Vienna,47261,2025-08-28,10
+160,Davis Group,Individual,Logistics,Small Business,France,Marseille,99841,2025-11-27,11
+161,Serrano and Sons,Company,Logistics,Corporate,Austria,Vienna,46757,2025-01-27,10
+162,Moore Ltd,Company,Education,Small Business,Belgium,Brussels,38883,2023-10-20,20
+163,Holt-Cook,Company,Manufacturing,Corporate,France,Marseille,71934,2025-06-04,15
+164,Mason-Thomas,Company,Manufacturing,Small Business,Switzerland,Zurich,20603,2025-11-22,4
+165,Collins-Castro,Company,Finance,Corporate,Austria,Vienna,61863,2025-07-03,20
+166,"Kim, Diaz and Bryant",Company,Telecommunications,Corporate,Belgium,Brussels,30029,2023-12-18,14
+167,Wilson PLC,Company,Manufacturing,Corporate,Spain,Barcelona,29243,2025-01-30,11
+168,Montgomery and Sons,Company,IT,Consumer,France,Paris,46220,2023-10-08,2
+169,Moore-Smith,Company,IT,Consumer,Germany,Munich,64137,2024-01-08,13
+170,Sims-Simmons,Company,Finance,Consumer,Spain,Barcelona,56442,2025-07-20,12
+171,Hopkins-Thomas,Company,Logistics,Small Business,Germany,Cologne,60030,2024-11-05,8
+172,Acosta-Alexander,Company,Telecommunications,Corporate,Spain,Madrid,90376,2025-01-07,19
+173,Andrade-Diaz,Company,Retail,Corporate,Austria,Vienna,68031,2022-11-12,1
+174,"Wilkerson, Daniels and Reeves",Individual,Retail,Small Business,Germany,Frankfurt,03018,2025-01-29,6
+175,"Oconnor, Brown and Sawyer",Company,Manufacturing,Corporate,Austria,Vienna,59681,2025-05-09,7
+176,"Davis, Moss and Hill",Individual,Healthcare,Corporate,Germany,Cologne,76144,2022-09-21,5
+177,Buchanan Ltd,Individual,Telecommunications,Consumer,Spain,Madrid,72061,2026-06-30,18
+178,Gardner Inc,Company,Healthcare,Consumer,Spain,Barcelona,03243,2022-09-02,1
+179,Ramirez-Rios,Individual,Telecommunications,Corporate,Switzerland,Zurich,55170,2024-02-13,7
+180,Shannon-Sanders,Company,IT,Consumer,Switzerland,Zurich,10142,2024-01-12,7
+181,Chapman Group,Individual,IT,Small Business,Austria,Vienna,56914,2024-07-06,4
+182,Leblanc and Sons,Individual,Manufacturing,Corporate,Italy,Rome,21964,2026-04-04,16
+183,"Arnold, Woods and Hale",Company,Healthcare,Small Business,Netherlands,Amsterdam,14116,2022-12-06,19
+184,Hanson-Harvey,Company,Logistics,Consumer,Netherlands,Amsterdam,23789,2023-08-29,7
+185,Peterson-Lee,Company,Education,Consumer,Austria,Vienna,56123,2024-01-08,17
+186,Ferguson Group,Individual,Healthcare,Consumer,Austria,Vienna,39988,2025-06-07,6
+187,Hughes Inc,Individual,Telecommunications,Corporate,Germany,Munich,53852,2025-10-05,17
+188,"Edwards, Moore and Garcia",Individual,IT,Corporate,Italy,Milan,91427,2025-04-27,17
+189,Mayo Group,Company,Education,Consumer,Belgium,Brussels,76024,2024-08-28,10
+190,Boone Ltd,Individual,Logistics,Consumer,Belgium,Brussels,27072,2022-12-21,19
+191,Glover LLC,Company,Education,Consumer,France,Paris,70285,2025-03-18,7
+192,"Bailey, Haas and Simpson",Company,Retail,Consumer,France,Marseille,41916,2023-07-17,7
+193,Nelson-Russell,Individual,IT,Corporate,Austria,Vienna,90120,2026-05-19,8
+194,"Golden, Howard and Carter",Individual,Manufacturing,Corporate,Switzerland,Zurich,07112,2023-05-26,19
+195,"Jones, Bates and Morrison",Company,Logistics,Small Business,Netherlands,Amsterdam,81433,2026-03-02,15
+196,Porter Group,Individual,Education,Corporate,Germany,Cologne,56299,2025-09-25,7
+197,"Norman, Alvarez and Lopez",Company,Finance,Corporate,France,Lyon,94765,2025-12-28,12
+198,Jacobs-Weaver,Company,IT,Consumer,Austria,Vienna,35587,2023-10-10,11
+199,Irwin-Allen,Company,Manufacturing,Corporate,Netherlands,Amsterdam,29772,2023-02-13,6
+200,Collins-Baker,Company,Logistics,Corporate,Belgium,Brussels,07696,2022-11-05,5
+201,Phillips LLC,Company,Education,Corporate,Austria,Vienna,94664,2025-02-25,15
+202,Villarreal-Smith,Company,Healthcare,Corporate,Spain,Barcelona,74910,2022-09-24,8
+203,White Ltd,Individual,Telecommunications,Small Business,Italy,Rome,29059,2024-04-20,12
+204,Delgado-Nixon,Company,Retail,Consumer,Netherlands,Amsterdam,01529,2025-12-12,11
+205,Garcia-Pearson,Company,Retail,Small Business,Spain,Barcelona,86949,2025-05-10,16
+206,Ortiz-Garza,Company,Finance,Corporate,Netherlands,Amsterdam,09918,2025-07-15,2
+207,Welch-Jimenez,Individual,Education,Corporate,France,Lyon,26740,2024-05-08,16
+208,Baker-Mcmillan,Individual,Education,Corporate,France,Paris,50133,2024-06-26,15
+209,Hernandez-Pearson,Individual,Manufacturing,Corporate,Belgium,Brussels,73375,2024-10-05,6
+210,"Howard, Colon and Hall",Company,Retail,Small Business,Austria,Vienna,62182,2023-11-08,6
+211,Cline-Skinner,Individual,Retail,Consumer,Switzerland,Zurich,45013,2024-05-24,2
+212,"Young, Shaffer and Wagner",Individual,Logistics,Consumer,Switzerland,Zurich,12082,2023-06-19,19
+213,"Collins, Baker and Frazier",Company,Finance,Consumer,Italy,Milan,80741,2026-01-01,5
+214,Brown Inc,Individual,Logistics,Consumer,Italy,Rome,92143,2024-05-30,10
+215,"Baldwin, Patterson and Johnson",Company,Retail,Consumer,Germany,Munich,87295,2024-04-06,4
+216,Lawrence-Miller,Company,Logistics,Small Business,Germany,Berlin,27585,2023-02-17,18
+217,Love Group,Company,IT,Small Business,Italy,Rome,63139,2026-03-26,15
+218,Cox-Torres,Individual,Logistics,Consumer,Netherlands,Amsterdam,35711,2024-11-06,4
+219,Watson PLC,Individual,Finance,Consumer,Switzerland,Zurich,89827,2024-03-28,4
+220,"Allen, Lopez and Singleton",Company,Education,Consumer,Belgium,Brussels,72499,2022-10-29,10
+221,"Duncan, Johnson and Gonzalez",Company,Logistics,Small Business,Spain,Madrid,11634,2025-01-08,2
+222,Taylor-Brown,Company,Telecommunications,Consumer,Austria,Vienna,38891,2024-02-14,19
+223,Garza-Peters,Individual,Finance,Consumer,Italy,Rome,68742,2023-06-18,6
+224,"Greene, Ross and Harris",Company,Finance,Consumer,Switzerland,Zurich,21247,2026-05-01,13
+225,Kirk-Avila,Individual,Manufacturing,Corporate,Germany,Cologne,19354,2024-02-11,3
+226,"Singh, Jennings and Jones",Individual,Retail,Consumer,Spain,Barcelona,15149,2025-01-30,6
+227,Brennan-Durham,Individual,Retail,Small Business,Netherlands,Amsterdam,22890,2025-07-11,1
+228,Reid-Herrera,Company,Retail,Corporate,Italy,Milan,67481,2025-01-29,6
+229,"Torres, Owens and Mills",Individual,Telecommunications,Consumer,Netherlands,Amsterdam,78986,2024-09-05,20
+230,Sanders Group,Individual,Manufacturing,Small Business,France,Marseille,19873,2026-06-30,1
+231,Hubbard PLC,Company,IT,Small Business,Belgium,Brussels,20935,2026-05-13,15
+232,Curtis LLC,Individual,Education,Small Business,Spain,Barcelona,19853,2023-08-05,6
+233,Haynes-Robinson,Company,Telecommunications,Small Business,Belgium,Brussels,92527,2024-06-04,11
+234,"Medina, Long and Trujillo",Individual,Finance,Small Business,Italy,Milan,27273,2024-04-29,19
+235,Griffin-Morris,Company,Retail,Small Business,Switzerland,Zurich,02448,2024-10-11,15
+236,Moore Ltd,Individual,Retail,Corporate,Germany,Hamburg,76191,2023-04-27,12
+237,Johnston LLC,Company,Logistics,Small Business,Belgium,Brussels,95336,2023-05-06,6
+238,"Dixon, Waters and Rose",Company,Manufacturing,Small Business,Spain,Madrid,11827,2024-04-01,19
+239,Cummings Ltd,Individual,Education,Consumer,Germany,Hamburg,78427,2024-04-25,19
+240,"Bowen, Powell and Willis",Individual,Education,Small Business,Netherlands,Amsterdam,42260,2023-02-19,18
+241,Ross-Thompson,Company,IT,Consumer,Germany,Munich,19037,2024-03-09,5
+242,Foster-Richardson,Company,Retail,Consumer,Austria,Vienna,27111,2022-08-29,13
+243,"Moore, Spencer and Scott",Company,Logistics,Small Business,France,Paris,78239,2022-10-21,9
+244,"Lambert, Garza and Graves",Individual,IT,Small Business,Belgium,Brussels,74240,2023-10-17,4
+245,West-Murray,Individual,Retail,Small Business,Netherlands,Amsterdam,33575,2023-01-02,9
+246,Hernandez-Gilbert,Company,Education,Small Business,Italy,Milan,21017,2024-01-02,16
+247,"Warren, Cook and Jones",Individual,Telecommunications,Consumer,Netherlands,Amsterdam,63277,2024-08-11,1
+248,Lang Ltd,Company,Healthcare,Consumer,Germany,Munich,52277,2026-01-06,14
+249,"Chavez, Smith and Sullivan",Individual,Healthcare,Consumer,Italy,Milan,75610,2024-07-24,4
+250,Wilson PLC,Individual,IT,Small Business,Italy,Rome,82523,2026-04-03,11
+251,"Castillo, Collins and Delacruz",Company,Healthcare,Small Business,Netherlands,Amsterdam,91624,2024-05-15,15
+252,Ball PLC,Company,Healthcare,Corporate,Belgium,Brussels,44925,2023-09-29,1
+253,Coleman-Peterson,Individual,Telecommunications,Small Business,Germany,Frankfurt,35576,2023-11-09,2
+254,Hoffman-Parker,Company,Education,Small Business,Belgium,Brussels,32307,2025-10-06,4
+255,Sherman-Richardson,Company,Telecommunications,Consumer,Belgium,Brussels,49707,2024-07-25,7
+256,"Ellison, Valdez and Gomez",Individual,Education,Consumer,Italy,Milan,51785,2026-07-15,14
+257,Townsend Ltd,Company,Telecommunications,Small Business,Italy,Milan,03593,2024-12-20,16
+258,Clark and Sons,Individual,Healthcare,Consumer,France,Marseille,95008,2025-10-16,17
+259,Cook Ltd,Individual,Logistics,Corporate,Switzerland,Zurich,80684,2024-10-06,14
+260,"Brown, Lee and Dillon",Individual,Healthcare,Corporate,Switzerland,Zurich,64071,2026-05-11,7
+261,Duncan PLC,Company,Finance,Corporate,Spain,Barcelona,96389,2025-02-21,10
+262,Williams-Rodriguez,Company,Education,Consumer,Italy,Rome,74900,2023-10-10,16
+263,Simpson Ltd,Company,Healthcare,Small Business,Italy,Rome,44405,2024-11-03,3
+264,"Pena, Pollard and Williams",Company,Healthcare,Consumer,Italy,Rome,39488,2024-06-18,19
+265,Vincent-Delgado,Individual,Education,Corporate,Belgium,Brussels,96484,2025-03-21,3
+266,Ramos Ltd,Individual,Manufacturing,Small Business,Germany,Cologne,16138,2025-12-30,12
+267,Sanders-Mahoney,Company,Finance,Corporate,Spain,Barcelona,47310,2025-07-13,7
+268,Blake Group,Individual,Finance,Small Business,Spain,Barcelona,78328,2026-03-12,3
+269,Scott-Mccall,Company,IT,Consumer,Spain,Barcelona,02778,2023-05-26,4
+270,Johnson Inc,Individual,Healthcare,Small Business,Belgium,Brussels,23955,2023-06-17,4
+271,Boyd Inc,Individual,Manufacturing,Corporate,Italy,Milan,72157,2023-03-30,5
+272,"Robertson, Scott and Sharp",Company,Telecommunications,Small Business,Spain,Barcelona,00807,2023-03-29,4
+273,Peterson Inc,Company,Telecommunications,Consumer,Italy,Milan,88377,2024-10-10,2
+274,"Adams, Campos and Carson",Individual,Healthcare,Consumer,Italy,Milan,59159,2025-03-20,18
+275,Fields PLC,Individual,Finance,Small Business,France,Lyon,88019,2026-01-20,19
+276,Webb-Colon,Company,Logistics,Corporate,Italy,Milan,08212,2024-06-14,13
+277,Mullen-Marshall,Company,IT,Corporate,Spain,Madrid,75637,2026-03-31,8
+278,Ross and Sons,Individual,IT,Corporate,Spain,Barcelona,14180,2023-04-30,11
+279,Clark-Davis,Individual,Healthcare,Small Business,France,Paris,66828,2025-09-03,16
+280,Murphy Inc,Company,Manufacturing,Corporate,Belgium,Brussels,17213,2024-06-08,5
+281,Stewart-Brown,Company,Telecommunications,Small Business,Belgium,Brussels,46157,2023-04-01,17
+282,Mendez LLC,Company,Telecommunications,Small Business,Netherlands,Amsterdam,38034,2024-11-25,8
+283,Hopkins-Mclaughlin,Company,Telecommunications,Corporate,Spain,Barcelona,82767,2024-07-11,12
+284,"Robbins, Turner and Valencia",Individual,IT,Consumer,Austria,Vienna,63060,2026-04-11,18
+285,Williams PLC,Company,Finance,Corporate,Belgium,Brussels,23444,2024-04-23,11
+286,Wells Ltd,Individual,Education,Consumer,Germany,Cologne,53724,2023-06-12,12
+287,"Wolf, Johnson and Crawford",Company,Education,Consumer,France,Marseille,04591,2025-03-10,4
+288,Munoz LLC,Individual,IT,Small Business,Netherlands,Amsterdam,23916,2025-08-07,3
+289,Kirk Inc,Individual,Telecommunications,Consumer,Netherlands,Amsterdam,03374,2026-01-30,3
+290,Hammond-Simpson,Company,Healthcare,Corporate,Netherlands,Amsterdam,24243,2022-08-25,10
+291,Graham Group,Company,Healthcare,Corporate,Belgium,Brussels,73812,2026-02-08,7
+292,Brown Ltd,Company,Education,Corporate,Spain,Madrid,39212,2024-04-05,13
+293,Willis LLC,Individual,IT,Corporate,Germany,Munich,73847,2025-06-25,17
+294,"Miller, Brooks and Williams",Company,Logistics,Small Business,Italy,Rome,05758,2023-08-14,10
+295,Robbins-Mcdonald,Individual,Manufacturing,Consumer,Austria,Vienna,81708,2024-09-15,6
+296,Taylor-Porter,Individual,Finance,Consumer,Switzerland,Zurich,13603,2023-07-03,18
+297,Davis LLC,Company,Retail,Consumer,Germany,Berlin,99574,2026-02-09,5
+298,"Whitaker, Potts and Moore",Company,Logistics,Consumer,Germany,Hamburg,69420,2024-04-28,20
+299,Jackson-Hutchinson,Company,Finance,Small Business,Switzerland,Zurich,21051,2025-08-08,1
+300,Henderson LLC,Company,Telecommunications,Corporate,Germany,Hamburg,92345,2026-04-11,1
+301,Miller-Summers,Company,Retail,Consumer,France,Lyon,05898,2024-06-15,2
+302,Andrews-Roach,Company,Manufacturing,Corporate,Spain,Madrid,31249,2026-07-19,6
+303,Tate Group,Company,Telecommunications,Consumer,Spain,Barcelona,62808,2022-09-28,13
+304,Green PLC,Individual,Retail,Corporate,Netherlands,Amsterdam,29850,2022-12-15,8
+305,Robinson-Haynes,Individual,Telecommunications,Small Business,Belgium,Brussels,11317,2025-11-13,3
+306,Thompson Inc,Company,Healthcare,Corporate,Switzerland,Zurich,06457,2025-04-23,13
+307,"Barnes, Kennedy and Dougherty",Individual,Logistics,Consumer,Spain,Madrid,55372,2024-06-17,3
+308,Mcdaniel and Sons,Company,Retail,Corporate,Austria,Vienna,25647,2023-10-27,11
+309,Long-Chavez,Company,Retail,Small Business,Switzerland,Zurich,75384,2026-01-20,8
+310,Greene Ltd,Individual,Education,Consumer,Spain,Barcelona,75058,2026-02-02,10
+311,Smith-Mccall,Company,Finance,Corporate,France,Lyon,75748,2025-11-27,8
+312,"Turner, Martin and Henderson",Company,Manufacturing,Corporate,Netherlands,Amsterdam,27644,2024-06-21,1
+313,"Tate, Escobar and Aguirre",Individual,Healthcare,Corporate,Switzerland,Zurich,55354,2022-12-31,15
+314,"Harris, Davis and Williams",Company,Education,Small Business,France,Marseille,65695,2025-10-21,7
+315,Maldonado LLC,Individual,Logistics,Consumer,Germany,Berlin,64734,2026-07-09,17
+316,Clark-Hines,Company,IT,Consumer,Switzerland,Zurich,37718,2024-11-10,16
+317,Wise Group,Company,Finance,Consumer,Belgium,Brussels,61470,2025-04-21,17
+318,Rivera LLC,Individual,Education,Corporate,Spain,Madrid,44475,2023-04-19,11
+319,"Davis, Salazar and Jones",Individual,Logistics,Small Business,Germany,Hamburg,34540,2023-08-24,15
+320,Ferguson-Owens,Company,Finance,Consumer,Germany,Frankfurt,22922,2025-11-13,3
+321,"Adams, Fox and Adams",Individual,IT,Corporate,Italy,Milan,99923,2022-10-31,11
+322,"Sullivan, Martinez and Rivera",Company,IT,Consumer,Belgium,Brussels,69571,2026-05-22,14
+323,"Crosby, Williams and Warren",Individual,Logistics,Consumer,Austria,Vienna,77230,2026-04-15,9
+324,Paul Group,Company,Logistics,Corporate,Spain,Madrid,65801,2023-12-05,8
+325,Nelson Group,Individual,Education,Corporate,Austria,Vienna,14622,2024-06-21,19
+326,"Peterson, Baker and Blackwell",Individual,IT,Consumer,Italy,Milan,32197,2024-09-11,1
+327,"Robertson, Clark and Lee",Individual,Healthcare,Corporate,France,Paris,77834,2025-10-31,10
+328,Murphy-Atkins,Company,Healthcare,Small Business,Netherlands,Amsterdam,13286,2024-05-22,7
+329,Moore LLC,Individual,Retail,Consumer,Switzerland,Zurich,63897,2025-02-15,16
+330,Williams-Vang,Individual,Healthcare,Corporate,Italy,Rome,63860,2023-02-18,19
+331,"Pierce, Swanson and Miller",Company,Education,Corporate,Italy,Milan,09594,2023-10-08,17
+332,"Cohen, West and Gomez",Individual,Healthcare,Corporate,Italy,Rome,20590,2025-12-08,6
+333,Miller Inc,Individual,Logistics,Small Business,Austria,Vienna,55806,2026-01-24,8
+334,"Schultz, Miller and Le",Individual,Logistics,Small Business,Netherlands,Amsterdam,65375,2022-11-22,9
+335,Edwards-Fisher,Company,Telecommunications,Small Business,Germany,Cologne,36595,2025-10-18,5
+336,Smith Ltd,Company,Healthcare,Corporate,Belgium,Brussels,04029,2025-02-18,4
+337,Acosta PLC,Company,IT,Small Business,Belgium,Brussels,57275,2025-03-25,15
+338,Ryan-Hutchinson,Individual,Finance,Corporate,Switzerland,Zurich,19988,2025-05-07,8
+339,Valdez Ltd,Company,Retail,Small Business,Spain,Madrid,54154,2025-06-22,15
+340,Ayala-Palmer,Company,Healthcare,Consumer,Spain,Madrid,89885,2023-06-03,15
+341,Henderson-Miller,Individual,IT,Consumer,Netherlands,Amsterdam,33076,2023-07-01,18
+342,Anderson-Martin,Company,Logistics,Consumer,Italy,Rome,06404,2025-04-27,14
+343,"Wright, Fry and Garza",Individual,Manufacturing,Consumer,Italy,Rome,76812,2026-02-13,8
+344,Daniels-Davis,Company,Finance,Consumer,Germany,Hamburg,26757,2025-12-24,10
+345,"Mcbride, Jones and Grant",Individual,Finance,Corporate,Belgium,Brussels,98257,2026-02-14,19
+346,"Livingston, Pena and Jones",Individual,Telecommunications,Corporate,Austria,Vienna,84713,2023-11-03,15
+347,Flowers Inc,Company,IT,Consumer,France,Paris,96355,2024-12-05,4
+348,"Kelly, Ramsey and Pitts",Individual,Logistics,Small Business,Spain,Barcelona,06663,2025-12-02,8
+349,Thomas Ltd,Company,Education,Consumer,Belgium,Brussels,79309,2024-10-26,20
+350,Brock-Clark,Individual,IT,Small Business,Austria,Vienna,80733,2024-10-04,10
+351,Johnson-Warner,Company,Manufacturing,Corporate,Spain,Barcelona,98218,2022-12-08,2
+352,Flores-Haynes,Company,Logistics,Corporate,Spain,Madrid,48804,2026-07-14,17
+353,Stewart PLC,Individual,Manufacturing,Small Business,France,Marseille,76016,2023-02-15,10
+354,Coleman Group,Company,IT,Corporate,Switzerland,Zurich,09157,2024-01-05,15
+355,Ramos-Dalton,Individual,Finance,Consumer,Italy,Rome,61343,2023-04-15,20
+356,"Stone, Webb and Watson",Individual,Telecommunications,Consumer,Switzerland,Zurich,39711,2024-11-10,2
+357,Gibson-Adkins,Individual,IT,Consumer,Switzerland,Zurich,01102,2023-01-24,12
+358,Castillo Ltd,Individual,Logistics,Consumer,Belgium,Brussels,47491,2024-06-19,14
+359,"Morales, Bennett and Singleton",Individual,Retail,Small Business,Spain,Madrid,07894,2025-09-07,1
+360,Klein Inc,Company,IT,Consumer,Belgium,Brussels,57763,2024-12-16,17
+361,Boone-Porter,Company,Education,Corporate,Switzerland,Zurich,85452,2026-04-15,16
+362,Hill Ltd,Company,Finance,Corporate,France,Paris,64088,2023-01-08,14
+363,Owens-Humphrey,Individual,Telecommunications,Small Business,Italy,Rome,14786,2023-01-24,1
+364,"Arnold, Brown and Carter",Company,Manufacturing,Corporate,Switzerland,Zurich,62157,2026-01-02,8
+365,"Mcfarland, Cunningham and Cox",Individual,IT,Consumer,Netherlands,Amsterdam,14442,2025-08-03,12
+366,Smith Ltd,Company,IT,Consumer,Netherlands,Amsterdam,57218,2024-01-25,13
+367,Walsh Group,Company,Manufacturing,Consumer,Netherlands,Amsterdam,78485,2022-09-06,16
+368,Cole PLC,Company,Logistics,Consumer,Italy,Rome,95472,2026-03-14,4
+369,Duarte-Martinez,Individual,Manufacturing,Consumer,Switzerland,Zurich,34129,2023-12-18,15
+370,Hernandez-Thompson,Individual,Manufacturing,Corporate,Germany,Hamburg,45501,2024-05-01,18
+371,Williams and Sons,Company,Education,Consumer,Switzerland,Zurich,88287,2025-06-25,9
+372,"Doyle, Vaughn and Williamson",Individual,Healthcare,Corporate,Belgium,Brussels,35675,2025-12-24,14
+373,Rivera LLC,Company,Retail,Corporate,Belgium,Brussels,96826,2024-09-10,16
+374,Nelson-Jackson,Company,Logistics,Small Business,Spain,Madrid,90093,2023-02-20,19
+375,Mccarty-David,Individual,Telecommunications,Small Business,Belgium,Brussels,15678,2022-11-29,18
+376,Williamson-Holt,Individual,Manufacturing,Consumer,Spain,Barcelona,85107,2022-09-24,9
+377,Hunt and Sons,Company,Retail,Consumer,Italy,Milan,26674,2023-02-26,11
+378,"Vazquez, Horton and Turner",Individual,Healthcare,Small Business,Spain,Madrid,64665,2025-08-02,20
+379,"Johnson, Chen and Mcdonald",Company,Logistics,Small Business,Austria,Vienna,43530,2022-12-23,15
+380,"Russell, Taylor and Arias",Company,Healthcare,Small Business,Italy,Milan,09171,2024-04-26,5
+381,"Freeman, Williams and Alexander",Individual,Finance,Corporate,Switzerland,Zurich,42087,2022-08-25,6
+382,"Sullivan, Johnson and Simmons",Company,Finance,Consumer,Netherlands,Amsterdam,35180,2023-10-19,16
+383,Strong and Sons,Individual,Finance,Consumer,Switzerland,Zurich,34790,2022-12-19,6
+384,Glenn-Harris,Company,Telecommunications,Corporate,Switzerland,Zurich,93345,2023-12-14,5
+385,Kim Ltd,Company,Finance,Corporate,Germany,Hamburg,54602,2024-10-26,11
+386,"Freeman, Conner and Johnson",Individual,IT,Corporate,Switzerland,Zurich,27291,2024-07-17,18
+387,Spencer-Lopez,Company,IT,Small Business,Switzerland,Zurich,06397,2023-07-22,17
+388,"Alvarado, Phillips and Flowers",Individual,Education,Small Business,Netherlands,Amsterdam,09260,2025-08-21,8
+389,Martinez-Wright,Individual,IT,Small Business,Italy,Milan,94217,2024-07-13,9
+390,Howell-Baxter,Individual,Healthcare,Consumer,Belgium,Brussels,35903,2023-05-06,12
+391,"Donaldson, Gibson and Taylor",Individual,Retail,Small Business,Switzerland,Zurich,76597,2025-12-20,18
+392,Phillips Ltd,Company,Finance,Corporate,Spain,Madrid,27655,2025-01-12,15
+393,Hernandez-Stanley,Company,Manufacturing,Consumer,Italy,Rome,67710,2026-06-22,18
+394,"Johnson, Kane and Stevenson",Individual,Telecommunications,Consumer,Austria,Vienna,56409,2024-05-05,12
+395,Griffin-Jordan,Individual,Education,Small Business,France,Paris,18132,2025-09-25,20
+396,Patel Group,Individual,Logistics,Corporate,Germany,Hamburg,69405,2026-06-06,1
+397,Johnson Group,Individual,Healthcare,Corporate,Italy,Rome,04692,2025-01-16,15
+398,Bryant Group,Individual,Logistics,Small Business,Germany,Berlin,29522,2026-01-14,20
+399,"Torres, Hicks and Moore",Individual,IT,Consumer,France,Paris,35250,2022-08-29,7
+400,Rivera PLC,Individual,Healthcare,Small Business,Belgium,Brussels,69810,2022-09-18,14
+401,Campbell Group,Individual,Education,Corporate,Spain,Barcelona,75549,2024-11-16,12
+402,"Singh, Whitaker and Cox",Individual,Retail,Small Business,Netherlands,Amsterdam,45841,2024-08-06,8
+403,"Phillips, Church and Baker",Company,Manufacturing,Small Business,Austria,Vienna,13518,2022-08-12,7
+404,Cunningham-Rodriguez,Individual,Retail,Consumer,Spain,Barcelona,24305,2024-04-28,19
+405,"Chan, Davila and Mitchell",Individual,Telecommunications,Corporate,Netherlands,Amsterdam,64255,2023-10-17,9
+406,Compton-Bailey,Individual,Education,Consumer,Austria,Vienna,53136,2022-12-18,13
+407,Everett-Johnson,Company,Logistics,Small Business,Austria,Vienna,75707,2022-11-11,3
+408,"Lee, Turner and Smith",Company,Finance,Small Business,Netherlands,Amsterdam,95973,2024-03-31,12
+409,Mcgrath Group,Individual,Retail,Small Business,Spain,Madrid,89852,2022-09-11,12
+410,Young PLC,Company,Retail,Corporate,Spain,Barcelona,87863,2024-08-29,5
+411,"Johnson, Riley and Olson",Individual,Telecommunications,Corporate,Netherlands,Amsterdam,66721,2024-07-14,6
+412,Wolfe Group,Company,Finance,Consumer,Italy,Milan,80318,2024-09-23,9
+413,Christensen Inc,Individual,Healthcare,Corporate,Belgium,Brussels,93152,2023-07-16,2
+414,Myers-Morris,Company,Finance,Corporate,France,Lyon,75482,2023-03-25,1
+415,Morton Ltd,Company,Retail,Small Business,France,Marseille,49534,2023-07-06,16
+416,West and Sons,Company,Manufacturing,Corporate,Germany,Cologne,41137,2026-04-11,17
+417,"James, Rush and Jefferson",Individual,Logistics,Corporate,France,Lyon,71692,2023-02-22,18
+418,"Watkins, Scott and Crane",Company,IT,Corporate,Italy,Milan,13814,2025-03-31,13
+419,Pham-Moore,Individual,Retail,Corporate,Germany,Munich,25716,2026-05-19,1
+420,Morrison LLC,Individual,Logistics,Corporate,France,Paris,93261,2025-03-30,3
+421,"Tran, Herrera and Hernandez",Company,Logistics,Corporate,Italy,Rome,13461,2023-07-24,7
+422,"Ramirez, Villegas and Weber",Individual,Finance,Small Business,Italy,Milan,12492,2024-01-31,9
+423,"Palmer, Harris and Mejia",Individual,Finance,Consumer,Austria,Vienna,01220,2024-11-07,13
+424,"Cruz, Li and Salazar",Company,Retail,Corporate,Austria,Vienna,78608,2024-10-02,4
+425,"Nguyen, Martinez and Wells",Individual,IT,Corporate,Germany,Cologne,47197,2023-05-25,19
+426,Todd and Sons,Company,Education,Small Business,Austria,Vienna,73772,2026-01-19,16
+427,Reed-Hall,Company,Telecommunications,Small Business,Germany,Hamburg,32965,2024-06-06,5
+428,Jones-Turner,Company,Retail,Corporate,Austria,Vienna,72901,2024-12-13,6
+429,"Turner, Lewis and Perez",Company,Finance,Small Business,Netherlands,Amsterdam,80471,2023-03-12,5
+430,Smith Ltd,Individual,Retail,Corporate,Belgium,Brussels,12934,2023-02-17,9
+431,Sims and Sons,Company,Finance,Small Business,Belgium,Brussels,87869,2023-09-26,3
+432,Phillips-Neal,Company,Logistics,Small Business,Italy,Milan,90792,2025-12-11,6
+433,Martin-Riley,Individual,IT,Corporate,Germany,Frankfurt,35452,2024-11-03,18
+434,Odom-Johnson,Individual,IT,Consumer,France,Lyon,16952,2026-02-07,4
+435,Garrett-Porter,Company,IT,Small Business,Italy,Rome,34161,2025-03-06,18
+436,Reynolds-Peterson,Individual,Logistics,Consumer,Austria,Vienna,26407,2023-11-16,3
+437,Mendez-Singh,Company,Logistics,Small Business,Austria,Vienna,98822,2025-10-29,14
+438,Parker and Sons,Company,Telecommunications,Small Business,Netherlands,Amsterdam,72362,2023-09-27,5
+439,Moore-Sullivan,Company,IT,Small Business,Austria,Vienna,54353,2025-02-16,14
+440,"Davidson, Morgan and Riggs",Individual,Retail,Consumer,Netherlands,Amsterdam,11980,2025-04-21,9
+441,Ritter-Hickman,Individual,Manufacturing,Consumer,Belgium,Brussels,69422,2026-01-16,2
+442,Logan LLC,Individual,IT,Small Business,Austria,Vienna,24122,2024-02-19,3
+443,"Mcdonald, Crawford and Gibson",Company,Healthcare,Small Business,Spain,Madrid,39388,2023-11-05,13
+444,Gardner-Myers,Company,Logistics,Consumer,Germany,Berlin,41102,2023-05-07,5
+445,"Elliott, Carney and Gallegos",Company,Telecommunications,Corporate,Netherlands,Amsterdam,55494,2023-04-17,16
+446,"Williams, Adams and Newton",Company,Finance,Consumer,Spain,Madrid,07545,2026-04-02,13
+447,Gonzales Inc,Company,Telecommunications,Corporate,Netherlands,Amsterdam,02044,2023-09-22,8
+448,Thomas PLC,Company,Retail,Corporate,Switzerland,Zurich,90698,2023-11-26,20
+449,Reese Inc,Company,Manufacturing,Small Business,Austria,Vienna,34977,2025-04-14,11
+450,Moore-Guerra,Company,Telecommunications,Corporate,France,Lyon,78106,2026-01-02,19
+451,Rhodes Inc,Individual,Telecommunications,Corporate,Italy,Milan,81615,2026-07-15,5
+452,"Thomas, Jones and Franco",Company,Retail,Small Business,France,Paris,56177,2025-10-19,7
+453,"Perkins, Francis and Thomas",Company,Telecommunications,Corporate,Italy,Rome,59116,2026-05-26,11
+454,Jones-Rosales,Company,Retail,Corporate,Switzerland,Zurich,15004,2024-11-01,10
+455,Ellison Inc,Company,Finance,Consumer,Italy,Rome,16603,2024-07-20,18
+456,"Phillips, Smith and Hughes",Company,Retail,Corporate,Netherlands,Amsterdam,13592,2025-03-30,2
+457,Everett Group,Company,Logistics,Small Business,Italy,Milan,23208,2024-02-05,2
+458,Greer-Williams,Company,Finance,Corporate,Germany,Berlin,92909,2025-05-19,14
+459,Adams Inc,Company,Logistics,Corporate,Austria,Vienna,58791,2025-08-07,2
+460,Fisher-Roberts,Individual,Logistics,Corporate,Germany,Munich,16846,2025-02-21,2
+461,Johnson PLC,Company,Healthcare,Consumer,Spain,Barcelona,11325,2024-04-15,3
+462,Strong-Sullivan,Company,Retail,Consumer,Belgium,Brussels,34486,2023-11-07,3
+463,Perez Group,Individual,Finance,Consumer,Italy,Milan,22939,2025-07-19,6
+464,Porter-Lee,Company,Logistics,Small Business,Spain,Madrid,03522,2023-06-15,5
+465,"Jones, Fisher and Esparza",Company,IT,Corporate,Austria,Vienna,62905,2026-07-10,1
+466,Turner-May,Individual,Logistics,Corporate,Austria,Vienna,24402,2022-08-19,12
+467,"Holt, Estrada and Yates",Company,IT,Corporate,Italy,Milan,69522,2025-04-30,17
+468,Grant-Solomon,Individual,Logistics,Corporate,Spain,Madrid,37256,2023-06-16,6
+469,"Villarreal, Allen and Smith",Individual,Education,Small Business,Germany,Frankfurt,76239,2026-01-28,13
+470,"Weaver, Perkins and Clay",Individual,Retail,Corporate,Netherlands,Amsterdam,48790,2023-08-16,10
+471,"Gibson, Thompson and Payne",Company,Retail,Consumer,Italy,Milan,62339,2025-01-29,5
+472,Edwards-Gonzalez,Individual,IT,Consumer,France,Lyon,95145,2023-12-08,7
+473,"Avila, Hodges and Turner",Company,Retail,Consumer,Netherlands,Amsterdam,23105,2024-05-12,16
+474,Shah-Valencia,Company,Telecommunications,Small Business,Spain,Madrid,41745,2023-09-13,2
+475,Drake-Flynn,Company,IT,Small Business,Netherlands,Amsterdam,22977,2023-01-04,3
+476,Ibarra-Kennedy,Individual,Healthcare,Corporate,Austria,Vienna,36168,2024-08-14,20
+477,Gutierrez-Sheppard,Individual,Education,Small Business,Switzerland,Zurich,45524,2023-06-16,20
+478,"Thornton, Smith and Robertson",Company,Finance,Small Business,Netherlands,Amsterdam,07626,2023-08-25,2
+479,Medina-Key,Individual,Healthcare,Consumer,Spain,Madrid,70178,2023-01-17,12
+480,"Sharp, Ford and Mitchell",Company,Manufacturing,Consumer,Spain,Madrid,32872,2024-11-10,1
+481,Shaffer Inc,Individual,Healthcare,Corporate,Austria,Vienna,44987,2023-07-25,5
+482,Quinn-Harmon,Individual,Logistics,Corporate,Italy,Rome,02145,2026-01-23,19
+483,"Rios, Hernandez and Mcconnell",Company,Telecommunications,Consumer,Switzerland,Zurich,98217,2024-05-15,11
+484,"Hinton, Mckee and Henry",Individual,Telecommunications,Consumer,Austria,Vienna,89315,2023-11-23,4
+485,Boyd-Kim,Individual,Logistics,Consumer,Spain,Barcelona,86333,2026-06-04,15
+486,Wilson Ltd,Individual,Education,Small Business,Germany,Frankfurt,76921,2022-10-05,12
+487,"Maldonado, Vasquez and May",Company,Retail,Corporate,Spain,Barcelona,39995,2022-12-29,9
+488,Coleman Inc,Company,IT,Consumer,Switzerland,Zurich,69204,2023-11-11,13
+489,"Willis, Grant and Barnes",Individual,Healthcare,Small Business,Belgium,Brussels,20863,2023-04-23,17
+490,Garcia PLC,Individual,Telecommunications,Consumer,Austria,Vienna,97007,2023-01-17,14
+491,Valdez LLC,Individual,Telecommunications,Corporate,Austria,Vienna,54292,2025-04-19,16
+492,"Terry, Preston and Sullivan",Company,Education,Corporate,France,Lyon,72788,2024-03-04,15
+493,Williams LLC,Company,Education,Small Business,Netherlands,Amsterdam,46224,2025-06-17,15
+494,Cole-Brown,Company,IT,Consumer,Switzerland,Zurich,26645,2023-08-09,15
+495,Bender-Mendoza,Individual,Education,Corporate,Netherlands,Amsterdam,59440,2026-03-29,4
+496,"Kim, Farrell and Anderson",Company,Logistics,Small Business,Spain,Madrid,41392,2023-03-09,19
+497,"Wells, Kemp and Wright",Company,IT,Consumer,Netherlands,Amsterdam,84160,2025-09-29,17
+498,Fry and Sons,Company,Healthcare,Consumer,Germany,Hamburg,63697,2025-01-15,16
+499,Fleming and Sons,Company,Manufacturing,Consumer,Netherlands,Amsterdam,45047,2026-03-16,20
+500,"Schwartz, Flores and Harris",Company,IT,Small Business,Germany,Berlin,39062,2024-07-04,2
+501,Clark-Herrera,Company,Healthcare,Corporate,Germany,Munich,78178,2023-03-22,7
+502,Diaz LLC,Individual,Retail,Small Business,Netherlands,Amsterdam,85940,2024-05-21,18
+503,Freeman PLC,Company,Logistics,Small Business,Netherlands,Amsterdam,72680,2026-07-28,11
+504,Morgan and Sons,Company,Retail,Small Business,Netherlands,Amsterdam,18307,2025-02-23,7
+505,Johnson and Sons,Company,Manufacturing,Small Business,France,Lyon,26427,2024-01-29,2
+506,"Wallace, Guerra and Smith",Company,Telecommunications,Small Business,Italy,Milan,30156,2023-05-23,14
+507,Hoffman-Thompson,Individual,Finance,Small Business,Spain,Madrid,82866,2026-05-24,5
+508,Gonzales-Bennett,Company,Telecommunications,Consumer,Belgium,Brussels,45171,2023-03-04,13
+509,"Hooper, Smith and Harrison",Company,Healthcare,Corporate,Spain,Madrid,19902,2024-08-23,17
+510,Collins-Brown,Company,Telecommunications,Consumer,France,Paris,36138,2025-08-03,9
+511,Austin and Sons,Company,Finance,Small Business,Netherlands,Amsterdam,23877,2025-05-20,1
+512,"Kelly, Mitchell and Wilson",Individual,Finance,Consumer,Netherlands,Amsterdam,97272,2023-11-04,19
+513,Bullock Group,Individual,Finance,Corporate,Italy,Rome,02478,2026-05-11,14
+514,Anderson Group,Individual,Telecommunications,Small Business,Italy,Rome,53805,2024-04-14,14
+515,Anderson Ltd,Company,Manufacturing,Consumer,Switzerland,Zurich,60436,2026-02-17,19
+516,Wells PLC,Company,Telecommunications,Small Business,Italy,Milan,48624,2025-11-25,19
+517,"Lopez, Francis and Schultz",Individual,Retail,Small Business,France,Paris,50426,2022-10-15,6
+518,"Cross, Hernandez and Woodard",Individual,IT,Corporate,Germany,Cologne,37396,2025-05-25,5
+519,"Harrison, Douglas and Wallace",Company,Healthcare,Small Business,Spain,Madrid,45420,2024-10-05,1
+520,Sanders-Payne,Company,Logistics,Consumer,Italy,Milan,07304,2025-01-12,11
+521,"Black, Cohen and Peterson",Company,Healthcare,Corporate,Belgium,Brussels,51039,2022-10-27,18
+522,Fisher-Wu,Company,Finance,Small Business,Switzerland,Zurich,08742,2024-11-03,9
+523,Lewis PLC,Company,Education,Corporate,Belgium,Brussels,86045,2023-12-31,12
+524,Parker Group,Company,Retail,Consumer,Netherlands,Amsterdam,51534,2025-11-15,11
+525,Curry-Blake,Company,Manufacturing,Corporate,Germany,Munich,60195,2022-09-29,4
+526,Mcbride Group,Company,Education,Consumer,Germany,Munich,56184,2024-01-17,12
+527,"Walton, Pope and Wells",Company,Manufacturing,Small Business,Germany,Hamburg,37961,2026-06-19,12
+528,Hill-Griffin,Company,Healthcare,Small Business,Switzerland,Zurich,56152,2022-08-17,8
+529,Johnson Ltd,Company,Finance,Consumer,Germany,Cologne,42200,2023-11-06,14
+530,"Fowler, Jones and Thomas",Company,Retail,Corporate,Germany,Cologne,69324,2024-01-20,14
+531,Russo-Salazar,Company,IT,Consumer,Switzerland,Zurich,50301,2025-11-18,10
+532,"Vasquez, Spencer and Berger",Company,Education,Corporate,Netherlands,Amsterdam,66879,2023-11-12,16
+533,Mueller-Mahoney,Individual,Manufacturing,Consumer,Germany,Hamburg,49388,2025-03-25,8
+534,"James, Simpson and Stokes",Individual,Logistics,Consumer,France,Lyon,53923,2022-12-22,15
+535,"Bradley, Butler and Case",Individual,Retail,Small Business,Austria,Vienna,39900,2025-07-05,7
+536,Smith Ltd,Individual,Telecommunications,Corporate,Belgium,Brussels,28545,2024-06-23,11
+537,Arnold-Morris,Company,IT,Corporate,Spain,Barcelona,82141,2026-01-23,9
+538,Salazar Ltd,Individual,Finance,Consumer,Austria,Vienna,87475,2025-05-24,11
+539,Knight-George,Company,IT,Small Business,Germany,Munich,55163,2025-11-09,9
+540,Chen-Garcia,Company,Education,Small Business,Switzerland,Zurich,35627,2025-05-14,1
+541,Stewart-Wolf,Company,Logistics,Consumer,Italy,Rome,91460,2024-12-10,13
+542,"West, Snyder and Woods",Company,Manufacturing,Corporate,Italy,Milan,85168,2023-05-15,8
+543,Gray Group,Individual,Telecommunications,Consumer,Germany,Munich,98222,2026-03-16,4
+544,Fletcher-Mcintosh,Individual,Education,Small Business,Spain,Madrid,55179,2025-06-14,4
+545,"Robertson, Fowler and Hayes",Company,Logistics,Small Business,Spain,Madrid,08105,2025-01-11,14
+546,Lawrence-Cortez,Company,Manufacturing,Corporate,Spain,Madrid,62574,2025-11-25,3
+547,Hawkins-Wiggins,Individual,Finance,Consumer,Germany,Hamburg,83206,2025-02-13,20
+548,Erickson-Bowman,Individual,Healthcare,Small Business,Spain,Madrid,73129,2026-07-18,4
+549,Sanders-Hooper,Company,Finance,Consumer,Belgium,Brussels,94114,2023-10-17,1
+550,Vazquez Group,Company,Logistics,Small Business,Spain,Madrid,95368,2023-10-10,12
+551,"Huang, Brooks and Chambers",Individual,Logistics,Corporate,France,Paris,37816,2025-09-25,18
+552,Morgan-Whitaker,Individual,IT,Corporate,Germany,Cologne,59513,2023-05-12,14
+553,Rodriguez and Sons,Company,Telecommunications,Small Business,Italy,Milan,03520,2023-11-19,18
+554,"Ruiz, Jackson and Mcdonald",Company,Finance,Corporate,Italy,Rome,26664,2025-05-02,14
+555,"Elliott, Stevenson and Robinson",Individual,Manufacturing,Corporate,Spain,Barcelona,53705,2025-09-12,8
+556,Brandt-Cochran,Company,Logistics,Corporate,Netherlands,Amsterdam,98125,2026-01-15,9
+557,"Chapman, Branch and Farrell",Individual,Finance,Small Business,Switzerland,Zurich,52547,2026-02-22,2
+558,"Martinez, Melton and Padilla",Individual,IT,Corporate,Belgium,Brussels,59832,2023-07-21,13
+559,"Townsend, Moore and Patrick",Individual,Education,Corporate,Germany,Berlin,60314,2025-12-12,11
+560,Neal-Mcdaniel,Company,Finance,Small Business,Germany,Cologne,08771,2025-03-21,7
+561,Joyce PLC,Company,Logistics,Consumer,Spain,Barcelona,18287,2025-04-13,12
+562,Wood and Sons,Individual,IT,Corporate,Germany,Munich,84273,2024-07-23,11
+563,Williams Group,Individual,Healthcare,Consumer,Netherlands,Amsterdam,72092,2023-12-27,18
+564,Lewis-Jacobson,Company,Education,Corporate,Netherlands,Amsterdam,90414,2022-10-13,16
+565,Bowman and Sons,Company,Retail,Small Business,Germany,Frankfurt,97827,2024-05-13,16
+566,Rice LLC,Company,Manufacturing,Small Business,Austria,Vienna,95927,2025-06-23,6
+567,Elliott-Bishop,Company,Logistics,Corporate,Switzerland,Zurich,83544,2024-07-05,8
+568,"Brown, Soto and Shepherd",Company,Telecommunications,Small Business,Italy,Milan,69433,2024-09-17,12
+569,Gallegos-Glass,Company,Education,Small Business,France,Marseille,62467,2025-08-24,7
+570,Ramirez-Osborne,Individual,Healthcare,Small Business,Switzerland,Zurich,53737,2024-03-27,3
+571,Bell-Edwards,Individual,Retail,Consumer,Austria,Vienna,46646,2024-09-29,4
+572,"Fry, Foster and Butler",Company,Retail,Small Business,Germany,Frankfurt,94941,2026-06-05,18
+573,"Brown, Obrien and Randall",Company,Telecommunications,Small Business,Spain,Madrid,33563,2024-01-16,16
+574,Pena Group,Individual,Healthcare,Small Business,Belgium,Brussels,43219,2022-09-10,6
+575,"Miller, Allen and Galloway",Individual,Manufacturing,Consumer,Belgium,Brussels,10835,2024-04-12,16
+576,Nixon-Robinson,Individual,Logistics,Small Business,Spain,Barcelona,75990,2023-07-03,7
+577,"Hall, Brown and Dillon",Company,Education,Consumer,France,Paris,96439,2022-10-06,3
+578,Cook-Joseph,Individual,Education,Small Business,Spain,Barcelona,05386,2024-02-22,11
+579,"Hamilton, Davis and Martinez",Company,Retail,Small Business,Spain,Madrid,33066,2026-04-29,4
+580,Brown Group,Company,Finance,Consumer,Austria,Vienna,27827,2024-05-25,8
+581,Hernandez Ltd,Company,Finance,Small Business,Germany,Hamburg,94991,2026-01-28,6
+582,"White, Jordan and Williams",Company,Retail,Small Business,Netherlands,Amsterdam,19195,2024-05-22,16
+583,Silva-Frazier,Individual,IT,Consumer,Austria,Vienna,61016,2024-09-15,1
+584,Horton-Mckay,Company,Education,Consumer,Switzerland,Zurich,57132,2025-12-24,3
+585,Dominguez Group,Individual,Telecommunications,Corporate,Belgium,Brussels,46013,2024-08-27,8
+586,"Price, Hall and Short",Company,Logistics,Corporate,France,Lyon,00833,2022-12-13,20
+587,Smith Inc,Company,IT,Corporate,Netherlands,Amsterdam,83867,2024-04-11,12
+588,"Ford, Williams and Dominguez",Company,Education,Small Business,Austria,Vienna,80502,2022-11-17,10
+589,Davis-Matthews,Company,Healthcare,Consumer,Austria,Vienna,79651,2025-05-28,3
+590,"Nelson, Adams and Luna",Individual,Retail,Consumer,France,Marseille,72981,2024-07-08,16
+591,Howell-Stone,Company,Education,Small Business,Belgium,Brussels,31515,2025-10-23,14
+592,Singh PLC,Company,Retail,Small Business,Italy,Rome,44539,2025-05-11,16
+593,"Stewart, Gordon and Anderson",Company,Manufacturing,Consumer,Germany,Munich,67334,2023-03-23,6
+594,Hunt Ltd,Individual,Retail,Consumer,Belgium,Brussels,53094,2025-01-02,14
+595,"Wagner, Jimenez and Gonzalez",Company,IT,Small Business,Switzerland,Zurich,80435,2026-08-01,16
+596,"Spencer, Taylor and Brennan",Company,Logistics,Corporate,Germany,Berlin,97664,2026-05-15,5
+597,Morgan Inc,Company,Healthcare,Small Business,Belgium,Brussels,66409,2025-06-18,7
+598,Schwartz-Hernandez,Company,Finance,Small Business,Germany,Cologne,80183,2023-05-18,18
+599,Williams-Hicks,Company,IT,Corporate,Italy,Milan,19524,2023-02-06,19
+600,Solomon Ltd,Company,IT,Small Business,Germany,Cologne,28344,2024-12-22,1
+601,"Gonzalez, Cross and Cook",Individual,Healthcare,Small Business,Switzerland,Zurich,44021,2024-09-17,10
+602,Hines-Collins,Individual,Finance,Consumer,Spain,Madrid,99791,2024-01-22,8
+603,Howell PLC,Company,IT,Consumer,Italy,Milan,19179,2026-07-05,9
+604,Hernandez-Zamora,Company,Retail,Small Business,France,Marseille,18509,2023-05-22,7
+605,Wilson-Thomas,Company,Manufacturing,Corporate,Austria,Vienna,25769,2025-04-04,4
+606,"Brown, Wood and Ho",Company,Healthcare,Corporate,Germany,Frankfurt,08263,2023-02-23,3
+607,"Cervantes, Carter and Jefferson",Individual,Logistics,Consumer,Spain,Barcelona,18963,2024-05-03,2
+608,Mason LLC,Individual,Telecommunications,Corporate,Netherlands,Amsterdam,51318,2025-03-03,3
+609,Farrell and Sons,Company,Education,Consumer,Belgium,Brussels,96333,2025-11-24,9
+610,"Hicks, Herrera and Roach",Individual,Manufacturing,Corporate,France,Marseille,10688,2025-12-23,17
+611,Marshall Group,Individual,Logistics,Consumer,Switzerland,Zurich,53491,2025-12-13,17
+612,Hoover-Goodwin,Individual,Telecommunications,Small Business,Germany,Cologne,70820,2023-02-28,8
+613,"Clark, Woods and Velasquez",Individual,Retail,Corporate,Austria,Vienna,87116,2026-03-27,6
+614,Craig Group,Individual,IT,Small Business,Austria,Vienna,26172,2023-06-25,12
+615,Lucas-Simpson,Individual,Healthcare,Small Business,Germany,Cologne,41462,2023-07-23,18
+616,Nelson-Miller,Individual,Healthcare,Consumer,Austria,Vienna,94673,2025-08-27,10
+617,Moore and Sons,Company,Finance,Consumer,Italy,Rome,57668,2023-09-16,8
+618,Galloway-Gallegos,Company,IT,Corporate,Spain,Madrid,04132,2025-05-06,12
+619,Taylor-Gordon,Company,Logistics,Small Business,Austria,Vienna,83483,2025-05-23,11
+620,Weber Inc,Individual,Logistics,Consumer,Netherlands,Amsterdam,93460,2026-02-09,7
+621,Wyatt PLC,Individual,IT,Consumer,Italy,Milan,37371,2023-01-18,18
+622,"Morris, Fuller and Martin",Company,Finance,Consumer,Spain,Madrid,98625,2026-05-19,15
+623,Young Ltd,Individual,IT,Consumer,Italy,Milan,19287,2025-04-23,17
+624,"Pham, Franco and Taylor",Company,Logistics,Corporate,France,Paris,69514,2024-08-31,20
+625,Oconnell-Dunlap,Individual,Retail,Corporate,Netherlands,Amsterdam,34570,2026-03-30,15
+626,Price-Sweeney,Individual,Education,Corporate,Spain,Barcelona,87883,2022-09-12,5
+627,Garner-Williams,Individual,Education,Small Business,Belgium,Brussels,71825,2023-02-13,13
+628,Watkins-Ellis,Company,Manufacturing,Corporate,Germany,Munich,90145,2023-11-07,4
+629,"Fowler, Davis and Baker",Company,Telecommunications,Corporate,Switzerland,Zurich,40949,2023-03-22,19
+630,Clark LLC,Individual,Education,Consumer,Austria,Vienna,89481,2022-12-26,13
+631,Ward-Coleman,Company,Manufacturing,Small Business,Germany,Hamburg,55049,2026-04-22,20
+632,Martinez and Sons,Individual,Retail,Consumer,France,Marseille,04263,2023-03-04,8
+633,Tucker-Sexton,Individual,Telecommunications,Small Business,Switzerland,Zurich,37127,2024-08-04,13
+634,Keith Ltd,Company,Healthcare,Consumer,Belgium,Brussels,08936,2025-02-25,2
+635,"Ross, Hahn and Bell",Company,Manufacturing,Corporate,Germany,Munich,47583,2023-04-09,14
+636,"Bradley, Mcdonald and Arellano",Individual,Logistics,Consumer,Italy,Milan,48207,2026-01-31,11
+637,"Cook, Smith and Griffin",Individual,Telecommunications,Consumer,Netherlands,Amsterdam,92535,2023-03-26,20
+638,Kim Ltd,Individual,Healthcare,Corporate,Germany,Frankfurt,70527,2024-05-24,6
+639,Love-Kramer,Company,IT,Corporate,Italy,Milan,60062,2026-03-24,8
+640,"Munoz, Suarez and Wang",Company,Education,Corporate,Switzerland,Zurich,59109,2023-02-01,13
+641,Baird-Ferguson,Individual,Retail,Corporate,Netherlands,Amsterdam,61793,2024-01-15,13
+642,Murray Inc,Individual,Retail,Consumer,Germany,Munich,93493,2026-01-22,10
+643,Huang-Owen,Company,Education,Corporate,Netherlands,Amsterdam,90431,2024-06-22,6
+644,Perez and Sons,Company,Telecommunications,Corporate,Austria,Vienna,03521,2024-12-13,4
+645,Hernandez PLC,Individual,Healthcare,Consumer,Austria,Vienna,78788,2025-12-28,1
+646,"Pacheco, Blanchard and Johnson",Individual,Logistics,Corporate,Belgium,Brussels,19071,2023-02-18,14
+647,Richards PLC,Company,Logistics,Consumer,Spain,Madrid,20176,2026-06-11,13
+648,Conrad Group,Company,Healthcare,Consumer,Netherlands,Amsterdam,06447,2022-10-09,14
+649,Johns-Massey,Company,Telecommunications,Small Business,Italy,Milan,35752,2023-03-09,10
+650,Jones Group,Individual,Logistics,Corporate,Austria,Vienna,78764,2025-11-26,3
+651,Lowery-Walker,Individual,Retail,Small Business,Germany,Hamburg,87475,2022-09-09,5
+652,Lara Group,Company,Telecommunications,Consumer,Germany,Munich,75723,2025-02-25,8
+653,Morgan Inc,Individual,IT,Small Business,France,Marseille,12765,2026-03-28,16
+654,Nichols PLC,Individual,Healthcare,Small Business,Austria,Vienna,32032,2023-02-23,19
+655,"Fox, Jordan and Wilson",Individual,Logistics,Consumer,Spain,Barcelona,90765,2025-05-28,15
+656,Arnold Ltd,Company,Manufacturing,Corporate,Austria,Vienna,29000,2025-01-07,3
+657,Williams Inc,Individual,Healthcare,Corporate,Austria,Vienna,50255,2026-07-27,13
+658,Oliver LLC,Individual,Finance,Small Business,Italy,Milan,01729,2023-08-14,12
+659,Mcdonald-Cox,Company,Logistics,Corporate,Switzerland,Zurich,32910,2023-11-09,15
+660,Pierce-Martin,Individual,Finance,Corporate,Austria,Vienna,76148,2025-10-16,9
+661,"Bishop, Dennis and Butler",Individual,Manufacturing,Small Business,France,Lyon,14573,2024-05-17,14
+662,Alvarado Group,Company,IT,Corporate,France,Marseille,96282,2024-03-08,7
+663,"Martin, Russell and Castaneda",Company,Logistics,Small Business,Switzerland,Zurich,60469,2024-01-01,6
+664,Simpson-Marsh,Company,Retail,Corporate,Belgium,Brussels,90891,2024-01-29,3
+665,"Arellano, Allen and Lewis",Company,Telecommunications,Consumer,Italy,Milan,63917,2023-08-15,4
+666,"Valencia, Little and Evans",Company,Telecommunications,Corporate,Netherlands,Amsterdam,12858,2025-12-07,2
+667,Patton Inc,Company,Manufacturing,Consumer,Spain,Barcelona,25650,2024-10-02,9
+668,"Martin, Carpenter and York",Individual,Manufacturing,Consumer,Spain,Madrid,54832,2023-10-21,3
+669,Phillips and Sons,Individual,Telecommunications,Small Business,Austria,Vienna,31555,2023-12-27,8
+670,Morrison-Henderson,Individual,Retail,Consumer,Belgium,Brussels,79398,2024-03-10,15
+671,Brown and Sons,Individual,Telecommunications,Corporate,Italy,Milan,04245,2022-08-29,20
+672,Robertson-Clayton,Individual,IT,Corporate,Austria,Vienna,30310,2024-03-20,11
+673,Clark-Thompson,Individual,Healthcare,Small Business,Spain,Barcelona,52174,2023-06-06,20
+674,"Bolton, Pearson and Lewis",Company,IT,Small Business,France,Marseille,56626,2024-10-27,10
+675,Abbott Ltd,Individual,Telecommunications,Corporate,France,Lyon,26412,2022-10-29,11
+676,Bell Group,Company,Telecommunications,Corporate,Belgium,Brussels,21729,2024-08-01,14
+677,Ross-Collins,Company,Healthcare,Small Business,Netherlands,Amsterdam,67845,2026-03-18,5
+678,"Sharp, Wilson and Bauer",Individual,IT,Corporate,France,Marseille,48140,2023-08-29,18
+679,"Wright, Zimmerman and Norton",Individual,Retail,Small Business,Spain,Barcelona,43284,2022-09-06,15
+680,"Collins, Tran and Huynh",Company,Education,Corporate,Switzerland,Zurich,86445,2022-09-18,5
+681,Robinson-Cruz,Individual,IT,Consumer,Netherlands,Amsterdam,45408,2022-12-25,7
+682,Stewart-Lawrence,Company,Healthcare,Consumer,Germany,Berlin,98181,2025-01-23,2
+683,Sparks-Morris,Company,Manufacturing,Corporate,Belgium,Brussels,30119,2024-11-14,18
+684,"Garza, Martin and Lyons",Individual,Logistics,Corporate,Netherlands,Amsterdam,62862,2023-07-15,11
+685,Herrera-Lewis,Company,Education,Corporate,Austria,Vienna,42370,2024-11-09,9
+686,Doyle and Sons,Individual,Logistics,Small Business,Belgium,Brussels,65376,2022-09-03,12
+687,Mason-Hunter,Company,Retail,Corporate,Spain,Madrid,18084,2024-06-16,11
+688,Chavez-Clarke,Individual,IT,Small Business,Austria,Vienna,74312,2025-12-22,17
+689,"Garcia, Robertson and Miller",Individual,Logistics,Corporate,Spain,Madrid,20715,2025-08-26,12
+690,"Allen, Nelson and Jensen",Individual,Healthcare,Small Business,Switzerland,Zurich,56767,2025-05-27,5
+691,Smith-Reed,Individual,Healthcare,Consumer,France,Paris,36897,2023-07-19,20
+692,Hall-Lopez,Company,Logistics,Consumer,Austria,Vienna,07128,2025-03-02,10
+693,Bradley Ltd,Individual,Finance,Small Business,France,Marseille,01268,2024-07-22,15
+694,"Bates, Mooney and Joyce",Individual,Education,Corporate,Austria,Vienna,50718,2024-03-23,8
+695,Estrada-Stevens,Individual,Education,Corporate,Italy,Milan,68188,2023-10-20,2
+696,"Jordan, Hayes and Greene",Company,Education,Consumer,Austria,Vienna,96333,2024-02-07,10
+697,"Bailey, Moore and Garza",Individual,Logistics,Small Business,Netherlands,Amsterdam,37045,2023-01-15,11
+698,Hoffman-Harvey,Company,IT,Small Business,Netherlands,Amsterdam,66027,2024-01-20,8
+699,"Chandler, Hudson and White",Individual,Manufacturing,Corporate,Austria,Vienna,11333,2025-05-07,7
+700,Arnold Group,Individual,IT,Small Business,Switzerland,Zurich,37625,2025-04-02,6
+701,Patrick Inc,Individual,Education,Corporate,France,Paris,01560,2025-10-01,2
+702,Wolfe and Sons,Company,Retail,Corporate,Italy,Milan,57494,2022-09-26,7
+703,"Jackson, Burns and Roberts",Individual,Manufacturing,Corporate,Netherlands,Amsterdam,53559,2025-12-27,5
+704,Snow-Jackson,Individual,Retail,Consumer,France,Marseille,54169,2023-03-20,9
+705,Webster PLC,Company,Telecommunications,Consumer,Austria,Vienna,45708,2025-07-10,19
+706,"Allen, Jones and Rangel",Company,Finance,Consumer,Spain,Barcelona,50828,2023-07-25,10
+707,"Shields, King and Santos",Company,Telecommunications,Small Business,Netherlands,Amsterdam,85239,2023-05-31,8
+708,Gay PLC,Company,Finance,Consumer,Italy,Milan,01729,2024-01-06,16
+709,Griffith-Allen,Company,Education,Small Business,Netherlands,Amsterdam,76767,2023-02-22,6
+710,"Diaz, Salinas and Lambert",Individual,Telecommunications,Small Business,Netherlands,Amsterdam,52995,2023-12-12,3
+711,Sullivan-Simpson,Individual,Logistics,Small Business,Netherlands,Amsterdam,34512,2024-05-17,3
+712,"Kelly, Edwards and Figueroa",Individual,Telecommunications,Corporate,Switzerland,Zurich,14697,2026-02-16,14
+713,Williams Inc,Company,IT,Corporate,France,Marseille,41033,2023-04-29,5
+714,Miller-Miller,Company,Education,Consumer,Austria,Vienna,73575,2024-06-01,13
+715,Cervantes-Willis,Individual,IT,Consumer,Italy,Rome,16837,2025-08-14,15
+716,Martinez Ltd,Company,Education,Consumer,Belgium,Brussels,01816,2026-05-02,5
+717,Boyd PLC,Individual,Manufacturing,Corporate,Austria,Vienna,92651,2023-10-11,20
+718,"Sosa, Klein and Ramirez",Individual,Manufacturing,Corporate,Austria,Vienna,04677,2025-11-24,13
+719,Lewis and Sons,Company,Healthcare,Corporate,Spain,Madrid,16535,2023-04-17,17
+720,"Porter, Ramirez and Harrison",Individual,Education,Consumer,Austria,Vienna,89251,2026-06-23,9
+721,Clark LLC,Individual,IT,Consumer,Switzerland,Zurich,37594,2024-07-31,13
+722,Martin PLC,Company,Finance,Small Business,Austria,Vienna,50305,2024-08-10,18
+723,Owens LLC,Individual,Manufacturing,Corporate,Spain,Barcelona,03040,2023-10-07,16
+724,"Meyer, Hall and Diaz",Individual,Logistics,Small Business,France,Lyon,87180,2026-02-22,2
+725,Cox-Hammond,Individual,Healthcare,Consumer,Italy,Milan,92516,2023-03-02,4
+726,Ponce LLC,Individual,IT,Small Business,Austria,Vienna,14399,2024-01-07,17
+727,"Ali, Thomas and Miles",Company,Telecommunications,Corporate,Switzerland,Zurich,26792,2024-05-14,14
+728,"Robertson, Quinn and Campos",Company,Telecommunications,Consumer,Netherlands,Amsterdam,76360,2024-11-23,9
+729,Thomas-Vance,Company,Finance,Corporate,Germany,Hamburg,87638,2023-10-29,12
+730,Rangel LLC,Individual,Finance,Small Business,Austria,Vienna,74657,2025-09-03,3
+731,West-Dyer,Company,Manufacturing,Small Business,France,Marseille,55153,2023-11-02,19
+732,Schmitt and Sons,Individual,Telecommunications,Consumer,Netherlands,Amsterdam,44233,2026-03-31,1
+733,Camacho-Hardy,Individual,Telecommunications,Small Business,Netherlands,Amsterdam,76377,2024-01-01,13
+734,"Decker, Schroeder and Murray",Company,Telecommunications,Small Business,Switzerland,Zurich,13185,2025-08-20,20
+735,White LLC,Individual,Manufacturing,Consumer,Belgium,Brussels,98340,2023-09-06,13
+736,Rogers-Griffin,Individual,Telecommunications,Small Business,Spain,Madrid,78079,2023-12-27,3
+737,Jackson LLC,Company,Education,Small Business,Belgium,Brussels,92217,2024-06-25,15
+738,Rodriguez and Sons,Individual,Education,Small Business,Spain,Barcelona,25323,2025-03-02,15
+739,Lopez-Moss,Individual,Telecommunications,Consumer,Italy,Milan,13117,2022-12-22,4
+740,Johnson Ltd,Company,Healthcare,Consumer,Netherlands,Amsterdam,76799,2024-06-10,13
+741,"Hahn, Galloway and David",Individual,Retail,Corporate,Germany,Hamburg,57346,2026-07-05,9
+742,Miller LLC,Individual,IT,Corporate,Austria,Vienna,98772,2026-01-24,20
+743,"Wood, Lucas and Moore",Company,Manufacturing,Consumer,Netherlands,Amsterdam,51930,2024-01-06,2
+744,Jenkins Ltd,Individual,Telecommunications,Corporate,Germany,Frankfurt,16599,2025-05-27,15
+745,Welch-Black,Individual,IT,Consumer,Switzerland,Zurich,21754,2023-11-28,19
+746,Sullivan-Burns,Company,Finance,Consumer,Switzerland,Zurich,71087,2024-11-26,6
+747,Cruz PLC,Company,Healthcare,Corporate,Belgium,Brussels,03433,2024-02-15,15
+748,"Bell, Rogers and Bell",Individual,Education,Corporate,Spain,Madrid,36559,2023-07-01,9
+749,Garrett-Archer,Company,Education,Small Business,Belgium,Brussels,19953,2025-01-21,4
+750,Mitchell Group,Company,Logistics,Corporate,Spain,Madrid,46678,2024-03-18,4
+751,Baldwin LLC,Individual,IT,Small Business,France,Paris,60667,2023-11-10,17
+752,"Edwards, Reyes and Yates",Individual,Healthcare,Corporate,Spain,Barcelona,12437,2024-09-23,7
+753,Morris Group,Company,Retail,Corporate,Belgium,Brussels,55807,2025-11-16,10
+754,Norman LLC,Company,Manufacturing,Small Business,Germany,Frankfurt,76736,2022-11-30,19
+755,"Williams, Garcia and Rhodes",Company,Manufacturing,Corporate,Switzerland,Zurich,18033,2023-10-18,19
+756,Salas Group,Company,Education,Consumer,Germany,Hamburg,51082,2025-05-22,11
+757,Garcia Inc,Company,Manufacturing,Corporate,Belgium,Brussels,76329,2023-02-02,11
+758,Mckenzie-Gonzalez,Company,IT,Small Business,Spain,Barcelona,83373,2025-02-17,14
+759,Zavala and Sons,Individual,Finance,Corporate,Austria,Vienna,92001,2026-03-07,3
+760,York Group,Company,Telecommunications,Corporate,Spain,Barcelona,37074,2022-08-21,5
+761,"Reeves, Watts and Gonzalez",Company,Telecommunications,Corporate,Switzerland,Zurich,08408,2024-07-25,4
+762,"Lopez, Moreno and Cabrera",Individual,Education,Small Business,Italy,Rome,06060,2026-06-15,15
+763,"Schmidt, Jones and Schneider",Company,Education,Corporate,Belgium,Brussels,21196,2023-07-04,11
+764,Jennings-Carter,Individual,Healthcare,Consumer,Spain,Madrid,54635,2023-05-18,13
+765,"Stephenson, Burgess and Barton",Individual,Retail,Corporate,Switzerland,Zurich,57585,2023-07-10,19
+766,Kelly Inc,Individual,Retail,Corporate,Belgium,Brussels,56325,2022-10-09,17
+767,Baker Ltd,Company,Education,Small Business,Netherlands,Amsterdam,00613,2025-12-05,10
+768,Mendoza-Riley,Company,Retail,Small Business,Belgium,Brussels,19880,2025-07-03,19
+769,"Wallace, Meadows and Thompson",Individual,Retail,Small Business,Italy,Rome,66538,2023-10-08,10
+770,Sawyer PLC,Company,Retail,Corporate,Spain,Barcelona,28047,2024-01-23,13
+771,Myers Inc,Individual,Manufacturing,Consumer,Netherlands,Amsterdam,64157,2024-11-17,9
+772,"Romero, Scott and Johnson",Company,Retail,Corporate,Italy,Milan,05930,2025-12-28,9
+773,Ellison Group,Individual,Finance,Consumer,Spain,Barcelona,37915,2023-08-01,17
+774,Holmes-Ross,Individual,IT,Small Business,Italy,Milan,66337,2023-06-06,15
+775,Bowman-Adams,Company,Education,Small Business,Spain,Barcelona,06217,2022-08-20,12
+776,Cook-Peters,Company,Healthcare,Small Business,France,Lyon,07249,2025-03-26,18
+777,Smith Group,Individual,Manufacturing,Consumer,Spain,Barcelona,30431,2022-09-01,13
+778,"Snyder, Reeves and Reilly",Company,Healthcare,Small Business,France,Paris,38477,2024-05-16,9
+779,"Cox, Garrison and Melton",Company,Manufacturing,Consumer,Germany,Cologne,38139,2024-11-23,15
+780,"Rodriguez, Gilbert and Pope",Individual,Education,Consumer,Spain,Madrid,03871,2023-12-05,4
+781,"Vang, Buchanan and West",Company,Retail,Small Business,Spain,Madrid,59332,2026-07-15,9
+782,"Gardner, Jones and Lane",Individual,Telecommunications,Consumer,Belgium,Brussels,43832,2025-03-16,5
+783,Carson Inc,Individual,Finance,Small Business,Austria,Vienna,15136,2023-10-14,16
+784,"Ali, Arnold and Murray",Company,Telecommunications,Consumer,France,Lyon,85430,2026-06-17,3
+785,"Brown, Young and Brown",Company,Education,Consumer,France,Lyon,09693,2022-08-28,4
+786,Mendez-Fox,Company,Manufacturing,Consumer,Germany,Berlin,72995,2023-03-15,2
+787,"Price, Green and Mitchell",Company,Education,Corporate,Germany,Cologne,07963,2023-12-31,4
+788,"Ford, Simon and Griffin",Company,Telecommunications,Corporate,Switzerland,Zurich,57395,2024-12-07,20
+789,Mcgee-Matthews,Individual,Education,Small Business,Belgium,Brussels,10455,2024-06-11,11
+790,George and Sons,Individual,Logistics,Consumer,Spain,Madrid,05298,2026-07-04,5
+791,"Perkins, Ray and Cox",Individual,IT,Small Business,Switzerland,Zurich,96581,2025-07-10,14
+792,Horne-Conley,Company,Education,Corporate,Austria,Vienna,53144,2022-12-14,3
+793,Garcia Inc,Company,Telecommunications,Corporate,Spain,Barcelona,53824,2023-01-04,10
+794,Richard-Armstrong,Company,Telecommunications,Corporate,Spain,Barcelona,62432,2024-05-22,1
+795,"Davis, Martinez and Weaver",Individual,Finance,Corporate,Spain,Barcelona,56951,2026-03-06,19
+796,"Harper, Lopez and Rodriguez",Company,Telecommunications,Small Business,Spain,Madrid,65977,2023-09-02,13
+797,"Hart, Garcia and Castro",Individual,Finance,Small Business,Italy,Milan,61265,2025-04-17,18
+798,Glover-Dawson,Company,Telecommunications,Consumer,Austria,Vienna,63899,2025-12-07,11
+799,Williams and Sons,Individual,Logistics,Consumer,France,Paris,02813,2022-08-05,14
+800,Howard Ltd,Company,Telecommunications,Corporate,Austria,Vienna,80112,2026-03-25,9
+801,Aguirre-Berry,Individual,Manufacturing,Corporate,Switzerland,Zurich,23727,2023-09-12,12
+802,French and Sons,Individual,Healthcare,Corporate,Spain,Madrid,79750,2024-04-19,5
+803,Diaz LLC,Individual,Education,Corporate,France,Paris,04583,2026-06-01,10
+804,Salazar-Spencer,Individual,Finance,Corporate,France,Marseille,90275,2024-08-05,1
+805,Gilbert-Obrien,Individual,Healthcare,Small Business,Italy,Rome,10875,2023-06-19,9
+806,George Group,Company,IT,Small Business,Spain,Barcelona,64673,2023-11-16,20
+807,Carter LLC,Company,Finance,Consumer,France,Paris,87685,2024-03-22,18
+808,"Rocha, Washington and Lee",Individual,Telecommunications,Small Business,Spain,Madrid,31594,2023-10-07,15
+809,"Montoya, Freeman and Simmons",Individual,IT,Small Business,Italy,Rome,70970,2022-08-12,9
+810,Cherry-Anderson,Individual,Manufacturing,Corporate,Spain,Barcelona,53132,2024-12-29,12
+811,"Cuevas, Alvarez and Garcia",Company,Education,Small Business,Switzerland,Zurich,88233,2026-06-04,17
+812,Torres PLC,Company,IT,Small Business,Switzerland,Zurich,56189,2023-02-03,7
+813,"Stokes, Johnson and Pena",Company,Education,Consumer,Italy,Rome,48101,2023-10-13,8
+814,Deleon-Bartlett,Company,Healthcare,Small Business,France,Paris,98548,2023-01-30,2
+815,Kerr Inc,Company,Logistics,Small Business,Austria,Vienna,44402,2023-10-14,10
+816,Golden Inc,Company,Telecommunications,Corporate,Germany,Berlin,80160,2026-05-19,4
+817,"Morgan, Schneider and Hughes",Company,IT,Consumer,Belgium,Brussels,18172,2024-08-02,11
+818,"Morgan, Lamb and Hernandez",Individual,Manufacturing,Corporate,France,Paris,42913,2023-10-21,9
+819,Dean Group,Company,IT,Corporate,Germany,Frankfurt,01319,2025-09-09,11
+820,Martin-Duncan,Company,Healthcare,Consumer,Netherlands,Amsterdam,44352,2023-05-21,19
+821,Anderson PLC,Company,IT,Corporate,Belgium,Brussels,30015,2025-10-05,12
+822,"Ramirez, Lewis and Cabrera",Individual,Manufacturing,Corporate,Belgium,Brussels,92967,2022-12-10,17
+823,"Martin, Hernandez and Armstrong",Company,IT,Corporate,Spain,Madrid,01481,2024-01-31,10
+824,"Cain, White and Wise",Individual,Education,Small Business,Switzerland,Zurich,73370,2023-10-06,1
+825,Flores Ltd,Individual,Education,Consumer,France,Paris,04356,2024-05-28,19
+826,Gilbert and Sons,Individual,IT,Consumer,Germany,Munich,21162,2025-07-23,19
+827,"Johnson, Jensen and Miles",Company,Finance,Corporate,Germany,Cologne,82205,2026-05-07,12
+828,Wilson-Lucero,Company,IT,Small Business,Spain,Madrid,41399,2023-10-04,14
+829,"Williams, Bell and Booker",Individual,Telecommunications,Small Business,Spain,Barcelona,95002,2026-01-19,5
+830,"Adams, Martin and Smith",Individual,Logistics,Corporate,Italy,Rome,25802,2023-03-27,3
+831,"Blair, Mcdonald and Mercado",Individual,Logistics,Small Business,Germany,Munich,33702,2025-05-27,18
+832,Adkins-Camacho,Individual,Finance,Consumer,Italy,Milan,08525,2024-11-04,1
+833,Cook-Kane,Company,Finance,Consumer,Switzerland,Zurich,37468,2026-02-15,16
+834,Todd Group,Individual,Manufacturing,Consumer,France,Lyon,39236,2023-03-06,20
+835,Murillo-Moore,Company,Finance,Corporate,France,Marseille,67786,2023-05-02,3
+836,Gardner Ltd,Company,Finance,Corporate,Netherlands,Amsterdam,03336,2023-03-30,11
+837,"Hall, Reilly and Brown",Company,IT,Small Business,Italy,Milan,53737,2024-01-30,20
+838,"Griffin, Sanford and Dixon",Individual,Finance,Small Business,Spain,Barcelona,88573,2022-09-11,13
+839,Cain-Munoz,Individual,Retail,Small Business,France,Lyon,35388,2025-05-27,2
+840,Moore and Sons,Individual,Telecommunications,Small Business,Germany,Berlin,58288,2024-10-29,14
+841,Meyer LLC,Company,Healthcare,Consumer,Austria,Vienna,74108,2024-07-30,15
+842,"Galvan, Garcia and Pierce",Individual,Manufacturing,Consumer,Austria,Vienna,64519,2026-07-30,1
+843,Reed PLC,Individual,IT,Small Business,Switzerland,Zurich,19221,2025-10-27,7
+844,Chandler-Bryant,Individual,Logistics,Small Business,Belgium,Brussels,26886,2023-09-18,1
+845,"Anderson, Jones and Mcdaniel",Company,Healthcare,Consumer,Belgium,Brussels,62214,2023-05-13,5
+846,Moore PLC,Individual,Retail,Small Business,France,Paris,58879,2022-10-05,3
+847,Berg-Cruz,Company,Telecommunications,Corporate,Italy,Milan,84397,2024-11-05,3
+848,Mitchell and Sons,Company,Logistics,Consumer,Switzerland,Zurich,14412,2025-09-30,4
+849,"Lewis, Martinez and Duncan",Company,Telecommunications,Corporate,Germany,Hamburg,07921,2023-11-12,4
+850,Greene-Morse,Company,Telecommunications,Corporate,France,Paris,67350,2026-07-08,10
+851,Ware-Clark,Company,Manufacturing,Small Business,Austria,Vienna,95589,2022-09-07,3
+852,Smith Group,Individual,Retail,Small Business,Germany,Hamburg,06646,2022-10-03,19
+853,"Lee, Frazier and Estes",Individual,Telecommunications,Corporate,Switzerland,Zurich,94965,2022-10-15,15
+854,Jenkins-Gomez,Company,Finance,Consumer,Netherlands,Amsterdam,45652,2025-02-15,5
+855,"Walter, Kelly and Hines",Company,Education,Corporate,Belgium,Brussels,85965,2025-09-01,11
+856,"Arellano, Martinez and Davenport",Company,Logistics,Corporate,Austria,Vienna,54157,2022-09-14,20
+857,"Jackson, Hudson and Carrillo",Individual,Retail,Corporate,Austria,Vienna,92033,2025-01-14,10
+858,Williams-Nelson,Company,Education,Corporate,Italy,Rome,92588,2024-10-19,16
+859,Hernandez and Sons,Company,Retail,Corporate,Belgium,Brussels,60099,2026-01-01,19
+860,Evans PLC,Company,IT,Consumer,France,Lyon,54847,2024-07-04,15
+861,"Kemp, Thomas and Parker",Individual,Telecommunications,Corporate,Germany,Frankfurt,92257,2022-09-10,14
+862,Baker-Yoder,Individual,Finance,Corporate,Netherlands,Amsterdam,40538,2022-08-27,5
+863,Miles and Sons,Individual,Finance,Consumer,Austria,Vienna,67719,2025-05-13,12
+864,Barrett-Holmes,Company,Retail,Consumer,Austria,Vienna,93981,2024-10-03,12
+865,Hurst-Powell,Individual,Finance,Small Business,Spain,Madrid,33027,2024-03-17,14
+866,Cuevas Inc,Individual,Education,Consumer,France,Marseille,12095,2026-02-13,19
+867,"Glover, Miller and Gray",Company,Manufacturing,Consumer,Switzerland,Zurich,58585,2023-04-09,13
+868,Evans Inc,Individual,IT,Corporate,Netherlands,Amsterdam,30927,2026-01-16,7
+869,"Thompson, Navarro and Grant",Company,Education,Corporate,Austria,Vienna,76462,2023-01-24,2
+870,Rowland-Davis,Company,Logistics,Consumer,Belgium,Brussels,77063,2024-05-03,10
+871,Carpenter Ltd,Company,Manufacturing,Consumer,Switzerland,Zurich,33292,2025-06-18,2
+872,Smith-Walker,Individual,Retail,Small Business,Germany,Munich,67035,2024-01-31,2
+873,Taylor-Mack,Individual,Finance,Consumer,France,Paris,33846,2024-07-03,8
+874,"Porter, Long and Williams",Company,IT,Corporate,Netherlands,Amsterdam,44595,2024-10-12,16
+875,Bailey LLC,Company,Manufacturing,Corporate,Switzerland,Zurich,88810,2023-06-07,10
+876,"Gonzalez, Costa and Lowe",Individual,Telecommunications,Small Business,Spain,Madrid,04429,2024-05-17,19
+877,"Olson, Ramos and Green",Individual,Manufacturing,Consumer,Spain,Madrid,09989,2025-08-16,17
+878,Moore-Anderson,Individual,Logistics,Corporate,Germany,Hamburg,79178,2022-10-27,19
+879,Griffin and Sons,Individual,Telecommunications,Small Business,Switzerland,Zurich,84562,2024-03-19,20
+880,Torres-Ramos,Individual,Healthcare,Small Business,Germany,Frankfurt,22461,2024-08-07,9
+881,Martin Group,Company,IT,Corporate,Italy,Milan,46227,2024-02-20,17
+882,Parrish Group,Company,IT,Corporate,Switzerland,Zurich,09975,2022-09-25,2
+883,Reid-Floyd,Individual,Healthcare,Corporate,Germany,Frankfurt,64934,2025-10-11,20
+884,Kaiser-Vargas,Company,Finance,Consumer,Austria,Vienna,74067,2026-02-10,19
+885,"Lam, Doyle and Anderson",Company,Education,Small Business,Spain,Barcelona,77579,2024-04-06,19
+886,Adams-Johnson,Company,Retail,Small Business,France,Lyon,46796,2025-08-14,2
+887,"Pope, Elliott and West",Individual,Manufacturing,Consumer,Italy,Rome,95147,2025-07-15,15
+888,Jones-Shaw,Individual,Telecommunications,Small Business,Switzerland,Zurich,38715,2025-12-28,13
+889,Welch LLC,Company,Finance,Corporate,Belgium,Brussels,40793,2025-12-09,7
+890,Alvarado Group,Company,Logistics,Corporate,Netherlands,Amsterdam,53273,2023-06-26,16
+891,Johnson and Sons,Company,Healthcare,Corporate,Germany,Hamburg,82286,2024-02-19,4
+892,Haynes Ltd,Company,Education,Consumer,France,Paris,89758,2024-12-27,14
+893,Johnson-Kelly,Company,Healthcare,Corporate,Germany,Berlin,07606,2026-05-03,8
+894,James LLC,Individual,Education,Corporate,Germany,Berlin,18553,2024-08-10,8
+895,Rodriguez-Thompson,Individual,Telecommunications,Consumer,Spain,Barcelona,90758,2023-12-10,13
+896,Martin PLC,Individual,IT,Small Business,France,Paris,23234,2023-02-24,15
+897,Rice Ltd,Individual,Telecommunications,Consumer,France,Marseille,58321,2023-02-24,4
+898,Davis and Sons,Individual,Manufacturing,Consumer,Spain,Barcelona,21742,2025-04-06,9
+899,"Bonilla, Brandt and Hammond",Individual,Logistics,Consumer,Belgium,Brussels,04232,2026-07-18,12
+900,"Mann, Daniels and Schroeder",Individual,Healthcare,Small Business,Netherlands,Amsterdam,98600,2022-09-26,16
+901,Moore-Brown,Individual,Manufacturing,Small Business,Switzerland,Zurich,64621,2023-04-24,11
+902,Kerr and Sons,Individual,IT,Corporate,France,Paris,77251,2022-09-23,14
+903,Kennedy LLC,Individual,Finance,Small Business,Netherlands,Amsterdam,99779,2022-09-05,15
+904,"Guerrero, Boyer and Brooks",Individual,Retail,Consumer,France,Lyon,82357,2024-07-06,5
+905,Smith-Pitts,Company,Finance,Consumer,Austria,Vienna,25467,2025-12-26,15
+906,Salazar-Hernandez,Individual,Healthcare,Consumer,France,Paris,06575,2025-08-13,4
+907,Rogers-Edwards,Individual,Healthcare,Small Business,Belgium,Brussels,72051,2024-11-02,2
+908,White PLC,Individual,Retail,Consumer,France,Marseille,86074,2025-05-23,8
+909,Herrera Ltd,Company,IT,Corporate,Netherlands,Amsterdam,87633,2022-10-06,5
+910,Briggs-Ramirez,Individual,Finance,Small Business,Austria,Vienna,36935,2023-01-28,19
+911,Ballard-Wade,Individual,Healthcare,Consumer,France,Marseille,49727,2025-09-25,11
+912,"Grimes, Bush and Burke",Individual,Logistics,Corporate,Italy,Rome,87095,2025-09-16,18
+913,"Daniels, Collins and Bailey",Individual,Telecommunications,Small Business,Austria,Vienna,09194,2024-03-14,19
+914,Johnson-Johnson,Individual,IT,Corporate,Italy,Milan,16960,2024-02-25,10
+915,Flowers Ltd,Company,Finance,Small Business,France,Lyon,25821,2025-07-15,15
+916,"Simmons, Pham and Wagner",Individual,IT,Consumer,Belgium,Brussels,61070,2023-08-23,1
+917,Jackson Ltd,Company,Finance,Small Business,Spain,Madrid,82474,2026-01-09,11
+918,Guzman Inc,Individual,Manufacturing,Corporate,Germany,Munich,45442,2023-12-11,5
+919,Dougherty Inc,Company,Telecommunications,Consumer,Spain,Barcelona,09261,2022-10-26,1
+920,"Robinson, Allen and Estrada",Individual,Logistics,Consumer,Germany,Cologne,18076,2024-05-10,6
+921,"Charles, Aguirre and Ross",Company,Retail,Corporate,Switzerland,Zurich,63853,2025-07-06,1
+922,Smith PLC,Individual,IT,Small Business,Austria,Vienna,16428,2023-03-29,12
+923,Johnson-Maddox,Company,Telecommunications,Corporate,Netherlands,Amsterdam,98601,2026-02-21,18
+924,Perez-Wilson,Individual,Education,Consumer,Switzerland,Zurich,42241,2024-03-15,20
+925,Casey-Baker,Company,IT,Small Business,Belgium,Brussels,47741,2022-11-05,5
+926,Barajas Inc,Individual,Manufacturing,Corporate,Italy,Milan,10810,2024-04-09,19
+927,Turner Group,Company,Retail,Small Business,Italy,Rome,57003,2026-01-25,12
+928,Tanner and Sons,Company,Manufacturing,Consumer,Netherlands,Amsterdam,36235,2024-05-01,2
+929,"Davis, Johnson and Knight",Company,Healthcare,Corporate,Belgium,Brussels,43888,2024-06-30,12
+930,"Baker, Robertson and Wood",Individual,IT,Small Business,Netherlands,Amsterdam,91783,2025-01-13,9
+931,"Smith, Baker and Adams",Company,Education,Small Business,Netherlands,Amsterdam,41063,2024-11-08,8
+932,Byrd PLC,Individual,Healthcare,Consumer,Italy,Rome,04165,2025-03-13,10
+933,"Griffin, Mueller and Green",Individual,IT,Consumer,Spain,Barcelona,97424,2025-03-03,1
+934,"Jones, Stevenson and Wright",Individual,IT,Corporate,Italy,Rome,16189,2024-10-13,18
+935,Conner Ltd,Company,Telecommunications,Small Business,Austria,Vienna,62038,2025-12-31,17
+936,Potts Group,Company,Education,Small Business,Switzerland,Zurich,86741,2024-05-15,20
+937,Harrison-Olsen,Company,Retail,Consumer,Italy,Rome,17865,2023-08-05,10
+938,Robinson and Sons,Company,Telecommunications,Consumer,Netherlands,Amsterdam,76607,2023-10-11,19
+939,"Hill, Lowe and Bradshaw",Company,IT,Small Business,Italy,Rome,02690,2023-05-05,4
+940,"Murphy, Smith and Briggs",Company,Manufacturing,Corporate,Netherlands,Amsterdam,47140,2024-07-11,4
+941,Miller and Sons,Company,Retail,Consumer,France,Lyon,66924,2022-09-30,20
+942,Brown and Sons,Company,Telecommunications,Small Business,Belgium,Brussels,52085,2026-03-11,1
+943,"Walker, Powers and Adams",Company,Finance,Consumer,Spain,Barcelona,48121,2024-05-03,18
+944,"Cordova, Martin and Moody",Individual,Healthcare,Small Business,Belgium,Brussels,25820,2023-11-07,7
+945,"Adkins, Berg and Allison",Company,Finance,Consumer,Germany,Berlin,51183,2023-03-31,8
+946,Schwartz PLC,Individual,Retail,Small Business,Spain,Barcelona,17017,2023-12-30,9
+947,Carr Group,Individual,IT,Small Business,Switzerland,Zurich,57190,2022-08-25,14
+948,Tran-James,Company,Manufacturing,Small Business,Spain,Madrid,95265,2024-05-06,4
+949,"Allen, Macias and Bishop",Company,IT,Small Business,Italy,Rome,87613,2024-06-25,15
+950,Payne-Gaines,Individual,Logistics,Consumer,Italy,Milan,04338,2023-07-29,20
+951,"Adams, Fitzgerald and Yoder",Individual,Education,Small Business,Belgium,Brussels,88883,2026-04-20,14
+952,Garcia Inc,Company,Manufacturing,Small Business,Italy,Milan,69298,2025-09-16,9
+953,Jackson Ltd,Company,Logistics,Consumer,Austria,Vienna,90741,2024-06-04,3
+954,Alvarado LLC,Company,Telecommunications,Small Business,Austria,Vienna,49296,2025-10-22,2
+955,Walker-Washington,Individual,Education,Corporate,France,Lyon,84265,2026-03-06,2
+956,Williams-Diaz,Company,Telecommunications,Small Business,Spain,Madrid,91964,2025-01-12,11
+957,"Daniels, Anderson and Greene",Individual,Logistics,Small Business,France,Marseille,71809,2026-04-18,5
+958,Miller Inc,Individual,IT,Consumer,Austria,Vienna,92413,2025-03-20,20
+959,Singleton Ltd,Company,Education,Small Business,Belgium,Brussels,52655,2026-02-27,13
+960,Fry LLC,Individual,Education,Consumer,Austria,Vienna,91688,2025-12-28,9
+961,Spencer-Howell,Company,Retail,Consumer,Spain,Madrid,90071,2023-03-26,13
+962,Fuentes-Rodriguez,Company,Retail,Consumer,Netherlands,Amsterdam,75619,2024-12-04,8
+963,Berry-Brooks,Company,Manufacturing,Corporate,Switzerland,Zurich,07543,2025-11-16,1
+964,"Garrett, Hernandez and Payne",Company,Manufacturing,Small Business,France,Marseille,09328,2023-11-03,4
+965,"Davis, Brown and Manning",Company,Education,Consumer,Netherlands,Amsterdam,73124,2024-08-25,6
+966,"Petersen, Alvarado and Smith",Individual,Finance,Small Business,France,Lyon,23090,2022-11-09,10
+967,"Webb, Hernandez and Harrington",Individual,IT,Corporate,Netherlands,Amsterdam,29475,2023-12-13,18
+968,Tucker-Taylor,Company,Retail,Corporate,Belgium,Brussels,71416,2023-06-27,5
+969,"Brooks, Reeves and Lee",Individual,Education,Consumer,Switzerland,Zurich,53727,2023-07-27,14
+970,"Payne, Henson and Alexander",Company,Finance,Corporate,France,Lyon,91105,2023-06-12,19
+971,Hanson PLC,Company,Retail,Corporate,Belgium,Brussels,26104,2024-05-06,7
+972,Dunn and Sons,Company,Healthcare,Corporate,Austria,Vienna,71090,2026-04-12,11
+973,Taylor LLC,Company,Finance,Consumer,Belgium,Brussels,92321,2023-12-26,14
+974,Reid-Bennett,Individual,Healthcare,Consumer,Austria,Vienna,82578,2025-03-03,18
+975,Hoover-Rodriguez,Individual,Finance,Consumer,Belgium,Brussels,25614,2026-02-21,9
+976,Davis-Anderson,Individual,Manufacturing,Small Business,Belgium,Brussels,46831,2026-05-18,8
+977,Love-Davis,Individual,Logistics,Small Business,Spain,Madrid,01242,2024-01-31,10
+978,Sims PLC,Individual,Healthcare,Corporate,Spain,Barcelona,15258,2025-05-21,12
+979,Norris and Sons,Company,Manufacturing,Small Business,Switzerland,Zurich,87652,2023-07-23,8
+980,Avila-Reynolds,Individual,Logistics,Small Business,Belgium,Brussels,47627,2023-08-25,18
+981,"Juarez, Green and Henry",Individual,Logistics,Consumer,Austria,Vienna,96303,2023-03-27,9
+982,Cummings and Sons,Company,Logistics,Corporate,France,Marseille,57218,2025-06-03,4
+983,"Hamilton, Williams and Booth",Individual,Manufacturing,Small Business,Spain,Madrid,71320,2023-11-18,11
+984,"Barker, Blankenship and Hernandez",Individual,Logistics,Consumer,Switzerland,Zurich,12775,2024-02-24,10
+985,Barr Ltd,Company,Telecommunications,Corporate,Belgium,Brussels,35303,2025-08-22,17
+986,Davis-Estrada,Individual,Manufacturing,Corporate,Belgium,Brussels,24958,2026-03-31,8
+987,Ray Ltd,Individual,Telecommunications,Small Business,Austria,Vienna,79578,2026-01-08,3
+988,Carter-Walker,Individual,Retail,Corporate,Italy,Milan,99699,2026-03-13,16
+989,"Chavez, Wright and Moreno",Company,Telecommunications,Consumer,Switzerland,Zurich,08625,2025-08-15,14
+990,"Reyes, Johnson and Thompson",Individual,IT,Consumer,Italy,Rome,35564,2024-01-25,18
+991,Hicks-Jacobson,Individual,Education,Corporate,Italy,Milan,58446,2025-02-01,1
+992,"Simpson, Short and Adams",Company,Healthcare,Small Business,Belgium,Brussels,31034,2024-11-27,13
+993,Johnson-Sullivan,Company,Manufacturing,Consumer,Italy,Milan,10326,2025-04-20,11
+994,Brown-Nelson,Individual,Education,Consumer,France,Paris,67366,2025-04-11,12
+995,Brennan PLC,Individual,Logistics,Small Business,Switzerland,Zurich,44531,2025-03-19,9
+996,Harris Inc,Individual,Finance,Corporate,Switzerland,Zurich,37525,2025-02-22,14
+997,Johnson-Johnson,Individual,Finance,Consumer,Belgium,Brussels,38008,2024-05-23,1
+998,Mccann-Smith,Individual,Education,Corporate,Belgium,Brussels,71709,2025-02-19,10
+999,Fernandez-Miller,Individual,Manufacturing,Corporate,France,Lyon,33549,2024-11-09,10
+1000,"Snyder, Johnson and Hernandez",Individual,Finance,Small Business,Austria,Vienna,65677,2025-09-08,5
