@@ -259,6 +259,366 @@ def load_profit_centers(connection):
     finally:
         cursor.close()
 
+# ----------------------------------------------------------
+# Customers import
+# ----------------------------------------------------------
+
+def load_customers(connection):
+    """Load customers.csv into the CUSTOMERS table."""
+
+    csv_path = OUTPUT_FOLDER / "customers.csv"
+
+    if not csv_path.exists():
+        raise FileNotFoundError(f"CSV file not found: {csv_path}")
+
+    with csv_path.open(
+        mode="r",
+        encoding="utf-8-sig",
+        newline=""
+    ) as csv_file:
+
+        reader = csv.DictReader(csv_file)
+
+        expected_columns = [
+            "Customer_ID",
+            "Customer_Name",
+            "Customer_Type",
+            "Industry",
+            "Segment",
+            "Country",
+            "City",
+            "Postal_Code",
+            "Registration_Date",
+            "Region_ID",
+        ]
+
+        if reader.fieldnames != expected_columns:
+            raise ValueError(
+                "Invalid customers.csv columns.\n"
+                f"Expected: {expected_columns}\n"
+                f"Found: {reader.fieldnames}"
+            )
+
+        rows = [
+            (
+                int(row["Customer_ID"]),
+                row["Customer_Name"],
+                row["Customer_Type"],
+                row["Industry"] or None,
+                row["Segment"],
+                row["Country"],
+                row["City"],
+                row["Postal_Code"] or None,
+                row["Registration_Date"],
+                int(row["Region_ID"]),
+            )
+            for row in reader
+        ]
+
+    insert_query = """
+        INSERT INTO CUSTOMERS (
+            Customer_ID,
+            Customer_Name,
+            Customer_Type,
+            Industry,
+            Segment,
+            Country,
+            City,
+            Postal_Code,
+            Registration_Date,
+            Region_ID
+        )
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+        ON DUPLICATE KEY UPDATE
+            Customer_Name = VALUES(Customer_Name),
+            Customer_Type = VALUES(Customer_Type),
+            Industry = VALUES(Industry),
+            Segment = VALUES(Segment),
+            Country = VALUES(Country),
+            City = VALUES(City),
+            Postal_Code = VALUES(Postal_Code),
+            Registration_Date = VALUES(Registration_Date),
+            Region_ID = VALUES(Region_ID);
+    """
+
+    cursor = connection.cursor()
+
+    try:
+        cursor.executemany(insert_query, rows)
+
+        cursor.execute("SELECT COUNT(*) FROM CUSTOMERS;")
+        database_count = cursor.fetchone()[0]
+
+        print(f"{len(rows)} customers read from CSV.")
+        print(f"{database_count} customers available in MySQL.")
+
+    finally:
+        cursor.close()
+
+# ----------------------------------------------------------
+# Employees import
+# ----------------------------------------------------------
+
+def load_employees(connection):
+    """Load employees.csv into the EMPLOYEES table."""
+
+    csv_path = OUTPUT_FOLDER / "employees.csv"
+
+    if not csv_path.exists():
+        raise FileNotFoundError(f"CSV file not found: {csv_path}")
+
+    with csv_path.open(
+        mode="r",
+        encoding="utf-8-sig",
+        newline=""
+    ) as csv_file:
+
+        reader = csv.DictReader(csv_file)
+
+        expected_columns = [
+            "Employee_ID",
+            "Employee_Name",
+            "Department",
+            "Position",
+            "Manager",
+            "Hire_Date",
+            "Cost_Center_ID",
+        ]
+
+        if reader.fieldnames != expected_columns:
+            raise ValueError(
+                "Invalid employees.csv columns.\n"
+                f"Expected: {expected_columns}\n"
+                f"Found: {reader.fieldnames}"
+            )
+
+        rows = [
+            (
+                int(row["Employee_ID"]),
+                row["Employee_Name"],
+                row["Department"],
+                row["Position"],
+                row["Manager"] or None,
+                row["Hire_Date"],
+                int(row["Cost_Center_ID"]),
+            )
+            for row in reader
+        ]
+
+    insert_query = """
+        INSERT INTO EMPLOYEES (
+            Employee_ID,
+            Employee_Name,
+            Department,
+            Position,
+            Manager,
+            Hire_Date,
+            Cost_Center_ID
+        )
+        VALUES (%s, %s, %s, %s, %s, %s, %s)
+        ON DUPLICATE KEY UPDATE
+            Employee_Name = VALUES(Employee_Name),
+            Department = VALUES(Department),
+            Position = VALUES(Position),
+            Manager = VALUES(Manager),
+            Hire_Date = VALUES(Hire_Date),
+            Cost_Center_ID = VALUES(Cost_Center_ID);
+    """
+
+    cursor = connection.cursor()
+
+    try:
+        cursor.executemany(insert_query, rows)
+
+        cursor.execute("SELECT COUNT(*) FROM EMPLOYEES;")
+        database_count = cursor.fetchone()[0]
+
+        print(f"{len(rows)} employees read from CSV.")
+        print(f"{database_count} employees available in MySQL.")
+
+    finally:
+        cursor.close()
+
+
+# ----------------------------------------------------------
+# Products import
+# ----------------------------------------------------------
+
+def load_products(connection):
+    """Load products.csv into the PRODUCTS table."""
+
+    csv_path = OUTPUT_FOLDER / "products.csv"
+
+    if not csv_path.exists():
+        raise FileNotFoundError(f"CSV file not found: {csv_path}")
+
+    with csv_path.open(
+        mode="r",
+        encoding="utf-8-sig",
+        newline=""
+    ) as csv_file:
+
+        reader = csv.DictReader(csv_file)
+
+        expected_columns = [
+            "Product_ID",
+            "Product_Name",
+            "Category",
+            "Subcategory",
+            "Brand",
+            "Unit_Cost",
+            "Standard_Price",
+            "Supplier",
+            "Product_Status",
+            "Profit_Center_ID",
+        ]
+
+        if reader.fieldnames != expected_columns:
+            raise ValueError(
+                "Invalid products.csv columns.\n"
+                f"Expected: {expected_columns}\n"
+                f"Found: {reader.fieldnames}"
+            )
+
+        rows = [
+            (
+                int(row["Product_ID"]),
+                row["Product_Name"],
+                row["Category"],
+                row["Subcategory"],
+                row["Brand"] or None,
+                row["Unit_Cost"],
+                row["Standard_Price"],
+                row["Supplier"] or None,
+                row["Product_Status"],
+                int(row["Profit_Center_ID"]),
+            )
+            for row in reader
+        ]
+
+    insert_query = """
+        INSERT INTO PRODUCTS (
+            Product_ID,
+            Product_Name,
+            Category,
+            Subcategory,
+            Brand,
+            Unit_Cost,
+            Standard_Price,
+            Supplier,
+            Product_Status,
+            Profit_Center_ID
+        )
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+        ON DUPLICATE KEY UPDATE
+            Product_Name = VALUES(Product_Name),
+            Category = VALUES(Category),
+            Subcategory = VALUES(Subcategory),
+            Brand = VALUES(Brand),
+            Unit_Cost = VALUES(Unit_Cost),
+            Standard_Price = VALUES(Standard_Price),
+            Supplier = VALUES(Supplier),
+            Product_Status = VALUES(Product_Status),
+            Profit_Center_ID = VALUES(Profit_Center_ID);
+    """
+
+    cursor = connection.cursor()
+
+    try:
+        cursor.executemany(insert_query, rows)
+
+        cursor.execute("SELECT COUNT(*) FROM PRODUCTS;")
+        database_count = cursor.fetchone()[0]
+
+        print(f"{len(rows)} products read from CSV.")
+        print(f"{database_count} products available in MySQL.")
+
+    finally:
+        cursor.close()
+
+# ----------------------------------------------------------
+# Orders import
+# ----------------------------------------------------------
+
+def load_orders(connection):
+    """Load orders.csv into the ORDERS table."""
+
+    csv_path = OUTPUT_FOLDER / "orders.csv"
+
+    if not csv_path.exists():
+        raise FileNotFoundError(f"CSV file not found: {csv_path}")
+
+    with csv_path.open(
+        mode="r",
+        encoding="utf-8-sig",
+        newline=""
+    ) as csv_file:
+
+        reader = csv.DictReader(csv_file)
+
+        expected_columns = [
+            "Order_ID",
+            "Customer_ID",
+            "Employee_ID",
+            "Order_Date",
+            "Order_Status",
+            "Payment_Method",
+        ]
+
+        if reader.fieldnames != expected_columns:
+            raise ValueError(
+                "Invalid orders.csv columns.\n"
+                f"Expected: {expected_columns}\n"
+                f"Found: {reader.fieldnames}"
+            )
+
+        rows = [
+            (
+                int(row["Order_ID"]),
+                int(row["Customer_ID"]),
+                int(row["Employee_ID"]),
+                row["Order_Date"],
+                None,
+                row["Order_Status"],
+                row["Payment_Method"],
+            )
+            for row in reader
+        ]
+
+    insert_query = """
+        INSERT INTO ORDERS (
+            Order_ID,
+            Customer_ID,
+            Employee_ID,
+            Order_Date,
+            Delivery_Date,
+            Order_Status,
+            Payment_Method
+        )
+        VALUES (%s, %s, %s, %s, %s, %s, %s)
+        ON DUPLICATE KEY UPDATE
+            Customer_ID = VALUES(Customer_ID),
+            Employee_ID = VALUES(Employee_ID),
+            Order_Date = VALUES(Order_Date),
+            Delivery_Date = VALUES(Delivery_Date),
+            Order_Status = VALUES(Order_Status),
+            Payment_Method = VALUES(Payment_Method);
+    """
+
+    cursor = connection.cursor()
+
+    try:
+        cursor.executemany(insert_query, rows)
+
+        cursor.execute("SELECT COUNT(*) FROM ORDERS;")
+        database_count = cursor.fetchone()[0]
+
+        print(f"{len(rows)} orders read from CSV.")
+        print(f"{database_count} orders available in MySQL.")
+
+    finally:
+        cursor.close()
+
 
 # ----------------------------------------------------------
 # Main program
@@ -279,6 +639,10 @@ def main():
         load_regions(connection)
         load_cost_centers(connection)
         load_profit_centers(connection)
+        load_customers(connection)
+        load_employees(connection)
+        load_products(connection)
+        load_orders(connection)
 
         connection.commit()
 
