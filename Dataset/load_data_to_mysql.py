@@ -10,6 +10,7 @@ import csv
 import os
 from pathlib import Path
 
+from decimal import Decimal
 import mysql.connector
 from dotenv import load_dotenv
 from mysql.connector import Error
@@ -621,6 +622,99 @@ def load_orders(connection):
 
 
 # ----------------------------------------------------------
+# Order items import
+# ----------------------------------------------------------
+
+def load_order_items(connection):
+    """Load order_items.csv into the ORDER_ITEMS table."""
+
+    csv_path = OUTPUT_FOLDER / "order_items.csv"
+
+    if not csv_path.exists():
+        raise FileNotFoundError(f"CSV file not found: {csv_path}")
+
+    with csv_path.open(
+        mode="r",
+        encoding="utf-8-sig",
+        newline=""
+    ) as csv_file:
+
+        reader = csv.DictReader(csv_file)
+
+        expected_columns = [
+            "Order_Item_ID",
+            "Order_ID",
+            "Line_Number",
+            "Product_ID",
+            "Quantity",
+            "Unit_Cost",
+            "Unit_Price",
+            "Total_Cost",
+            "Total_Revenue",
+            "Gross_Margin",
+        ]
+
+        if reader.fieldnames != expected_columns:
+            raise ValueError(
+                "Invalid order_items.csv columns.\n"
+                f"Expected: {expected_columns}\n"
+                f"Found: {reader.fieldnames}"
+            )
+
+        rows = [
+            (
+                int(row["Order_Item_ID"]),
+                int(row["Order_ID"]),
+                int(row["Product_ID"]),
+                int(row["Quantity"]),
+                Decimal(row["Unit_Price"]),
+                Decimal("0"),
+                Decimal(row["Total_Revenue"]),
+                Decimal(row["Total_Cost"]),
+                Decimal(row["Gross_Margin"]),
+            )
+            for row in reader
+        ]
+
+    insert_query = """
+        INSERT INTO ORDER_ITEMS (
+            Order_Item_ID,
+            Order_ID,
+            Product_ID,
+            Quantity,
+            Unit_Price,
+            Discount,
+            Revenue,
+            Cost,
+            Profit
+        )
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+        ON DUPLICATE KEY UPDATE
+            Order_ID = VALUES(Order_ID),
+            Product_ID = VALUES(Product_ID),
+            Quantity = VALUES(Quantity),
+            Unit_Price = VALUES(Unit_Price),
+            Discount = VALUES(Discount),
+            Revenue = VALUES(Revenue),
+            Cost = VALUES(Cost),
+            Profit = VALUES(Profit);
+    """
+
+    cursor = connection.cursor()
+
+    try:
+        cursor.executemany(insert_query, rows)
+
+        cursor.execute("SELECT COUNT(*) FROM ORDER_ITEMS;")
+        database_count = cursor.fetchone()[0]
+
+        print(f"{len(rows)} order items read from CSV.")
+        print(f"{database_count} order items available in MySQL.")
+
+    finally:
+        cursor.close()
+
+# ----------------------------------------------------------
 # Main program
 # ----------------------------------------------------------
 
@@ -643,7 +737,8 @@ def main():
         load_employees(connection)
         load_products(connection)
         load_orders(connection)
-
+        load_order_items(connection)
+        
         connection.commit()
 
         print("Organizational master data imported successfully.")
